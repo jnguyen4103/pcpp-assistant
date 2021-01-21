@@ -7,5 +7,5 @@
   - https://classic.yarnpkg.com/en/docs/install/#debian-stable
 
 ## Run the app
-`yarn install`
+`yarn install`\
 `yarn start`
