@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { ThemeProvider } from "@material-ui/core/styles";
+import { makeStyles } from '@material-ui/core/styles';
+import { Box } from "@material-ui/core";
+import theme from "features/Theme";
+import LandingPage from 'features/LandingPage';
+
+const useStyles = makeStyles({
+  root: {
+    background: 'linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%)',
+    height: '100vh',
+  },
+});
 
 function App() {
+  const classes = useStyles();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Welcome! This is the beginning of our CSE 5914 Project.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <Box className={classes.root}>
+        <LandingPage />
+      </Box>
+    </ThemeProvider>
   );
 }
 
 export default App;
+
