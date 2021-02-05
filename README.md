@@ -7,5 +7,8 @@
   - https://classic.yarnpkg.com/en/docs/install/#debian-stable
 
 ## Run the app
-`yarn install`\
-`yarn start`
+`yarn install`: installs all dependencies for the project.\
+`yarn start`: starts the app locally on <http://localhost:3000>
+
+## Important notes
+Before pushing up new work, run `yarn lint:fix` to enforce styling guides to maintain consistency.
