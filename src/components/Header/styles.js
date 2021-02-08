@@ -4,7 +4,7 @@ const useStyles = makeStyles({
     container: {
         display: 'flex',
         justifyContent: 'space-between',
-        paddingTop: '16px',
+        paddingTop: '1rem',
     },
     logoContainer: {
         display: 'flex',
@@ -13,8 +13,8 @@ const useStyles = makeStyles({
         color: 'white',
         width: '5rem',
         height: '5rem',
-        marginLeft: '24px',
-        marginRight: '16px',
+        marginLeft: '2rem',
+        marginRight: '1rem',
     },
     logoText: {
         color: 'white',
@@ -26,7 +26,7 @@ const useStyles = makeStyles({
         color: 'white',
         fontSize: '2rem',
         fontWeight: '700',
-        marginRight: '24px',
+        marginRight: '2rem',
         alignSelf: 'center',
     },
 });
