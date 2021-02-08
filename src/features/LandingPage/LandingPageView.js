@@ -1,10 +1,40 @@
-import React from "react";
+import React from 'react';
 import Header from 'components/Header';
+import { Box, Card, Typography } from '@material-ui/core';
+import useStyles from './styles';
 
 const LandingPageView = () => {
+    const styles = useStyles();
+
     return (
-        <Header />
-      );
-}
+        <Box className={styles.container}>
+            <Header />
+            <Box className={styles.innerContainer}>
+                <Box className={styles.leftBox}>
+                    <Typography className={styles.welcomeText}>
+                        Welcome, choose an option to get started.
+                    </Typography>
+                    <Typography className={styles.subtext}>
+                        You&apos;re on your way to an awesome custom PC.
+                    </Typography>
+                </Box>
+                <Box className={styles.rightBox}>
+                    <Box className={styles.optionsContainer}>
+                        <Card className={styles.optionCards}>
+                            <Typography className={styles.optionTexts}>
+                                Let me type out my preferences.
+                            </Typography>
+                        </Card>
+                        <Card className={styles.optionCards}>
+                            <Typography className={styles.optionTexts}>
+                                Let me talk to a digital assistant.
+                            </Typography>
+                        </Card>
+                    </Box>
+                </Box>
+            </Box>
+        </Box>
+    );
+};
 
 export default LandingPageView;

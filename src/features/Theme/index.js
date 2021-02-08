@@ -1,2 +1,2 @@
-import theme from "./Theme";
+import theme from './Theme';
 export default theme;
