@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from 'components/Header';
-import { Box, Card, Grid, Typography } from '@material-ui/core';
+import { Box, Card, Typography } from '@material-ui/core';
 import useStyles from './styles';
 import { Link } from 'react-router-dom';
 
@@ -8,18 +8,18 @@ const LandingPageView = () => {
     const styles = useStyles();
 
     return (
-        <React.Fragment>
+        <Box className={styles.container}>
             <Header />
-            <Grid container className={styles.container}>
-                <Grid item xs={6} className={styles.leftGrid}>
+            <Box className={styles.innerContainer}>
+                <Box className={styles.leftBox}>
                     <Typography className={styles.welcomeText}>
                         Welcome, choose an option to get started.
                     </Typography>
                     <Typography className={styles.subtext}>
                         You&apos;re on your way to an awesome custom PC.
                     </Typography>
-                </Grid>
-                <Grid item xs={6} className={styles.rightGrid}>
+                </Box>
+                <Box className={styles.rightBox}>
                     <Box className={styles.optionsContainer}>
                         <Card
                             className={styles.optionCards}
@@ -44,9 +44,9 @@ const LandingPageView = () => {
                             </Typography>
                         </Card>
                     </Box>
-                </Grid>
-            </Grid>
-        </React.Fragment>
+                </Box>
+            </Box>
+        </Box>
     );
 };
 
