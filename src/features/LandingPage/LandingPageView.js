@@ -2,6 +2,7 @@ import React from 'react';
 import Header from 'components/Header';
 import { Box, Card, Grid, Typography } from '@material-ui/core';
 import useStyles from './styles';
+import { Link } from 'react-router-dom';
 
 const LandingPageView = () => {
     const styles = useStyles();
@@ -20,12 +21,24 @@ const LandingPageView = () => {
                 </Grid>
                 <Grid item xs={6} className={styles.rightGrid}>
                     <Box className={styles.optionsContainer}>
-                        <Card className={styles.optionCards}>
+                        <Card
+                            className={styles.optionCards}
+                            component={Link}
+                            to={{
+                                pathname: '/input-page',
+                            }}
+                        >
                             <Typography className={styles.optionTexts}>
                                 Let me type out my preferences.
                             </Typography>
                         </Card>
-                        <Card className={styles.optionCards}>
+                        <Card
+                            className={styles.optionCards}
+                            component={Link}
+                            to={{
+                                pathname: '/assistant-page',
+                            }}
+                        >
                             <Typography className={styles.optionTexts}>
                                 Let me talk to a digital assistant.
                             </Typography>
