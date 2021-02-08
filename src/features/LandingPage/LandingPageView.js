@@ -10,7 +10,7 @@ const LandingPageView = () => {
     return (
         <Box className={styles.container}>
             <Header />
-             <Box className={styles.innerContainer}>
+            <Box className={styles.innerContainer}>
                 <Box className={styles.leftBox}>
                     <Typography className={styles.welcomeText}>
                         Welcome, choose an option to get started.
