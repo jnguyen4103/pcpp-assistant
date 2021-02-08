@@ -48,7 +48,13 @@ const useStyles = makeStyles({
         textAlign: 'center',
         borderRadius: '2rem',
         boxShadow: '10px 10px 5px #000000',
-        cursor: 'pointer',
+        '&:link': {
+            textDecoration: 'none',
+        },
+        '&:hover': {
+            opacity: '0.7',
+            boxShadow: '0px 0px 0px #cdffd5',
+        },
     },
     optionTexts: {
         fontSize: '2.5rem',
