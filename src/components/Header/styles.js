@@ -8,6 +8,12 @@ const useStyles = makeStyles({
     },
     logoContainer: {
         display: 'flex',
+        '&:link': {
+            textDecoration: 'none',
+        },
+        '&:hover': {
+            opacity: '0.7',
+        },
     },
     logoIcon: {
         color: 'white',

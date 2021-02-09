@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { ThemeProvider } from '@material-ui/core/styles';
 import { makeStyles } from '@material-ui/core/styles';
-import { Box } from '@material-ui/core';
 import theme from 'features/Theme';
 import LandingPage from 'features/LandingPage';
 import InputPage from 'features/InputPage';
@@ -21,7 +20,7 @@ function App() {
     return (
         <Router>
             <ThemeProvider theme={theme}>
-                <Box className={classes.root}>
+                <div className={classes.root}>
                     <Switch>
                         <Route exact path="/" component={LandingPage} />
                         <Route exact path="/input-page" component={InputPage} />
@@ -31,7 +30,7 @@ function App() {
                             component={AssistantPage}
                         />
                     </Switch>
-                </Box>
+                </div>
             </ThemeProvider>
         </Router>
     );
