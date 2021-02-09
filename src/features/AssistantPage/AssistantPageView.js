@@ -4,10 +4,10 @@ import { Box } from '@material-ui/core';
 
 const AssistantPageView = () => {
     return (
-        <React.Fragment>
+        <Box>
             <Header />
             <Box>ASSISTANT PAGE</Box>
-        </React.Fragment>
+        </Box>
     );
 };
 

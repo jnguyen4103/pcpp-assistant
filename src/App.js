@@ -2,11 +2,11 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { ThemeProvider } from '@material-ui/core/styles';
 import { makeStyles } from '@material-ui/core/styles';
-import { Box } from '@material-ui/core';
 import theme from 'features/Theme';
 import LandingPage from 'features/LandingPage';
 import InputPage from 'features/InputPage';
 import AssistantPage from 'features/AssistantPage';
+import ResultPage from 'features/ResultPage';
 
 const useStyles = makeStyles({
     root: {
@@ -21,7 +21,7 @@ function App() {
     return (
         <Router>
             <ThemeProvider theme={theme}>
-                <Box className={classes.root}>
+                <div className={classes.root}>
                     <Switch>
                         <Route exact path="/" component={LandingPage} />
                         <Route exact path="/input-page" component={InputPage} />
@@ -30,8 +30,13 @@ function App() {
                             path="/assistant-page"
                             component={AssistantPage}
                         />
+                        <Route
+                            exact
+                            path="/result-page"
+                            component={ResultPage}
+                        />
                     </Switch>
-                </Box>
+                </div>
             </ThemeProvider>
         </Router>
     );
