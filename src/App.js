@@ -6,6 +6,7 @@ import theme from 'features/Theme';
 import LandingPage from 'features/LandingPage';
 import InputPage from 'features/InputPage';
 import AssistantPage from 'features/AssistantPage';
+import ResultPage from 'features/ResultPage';
 
 const useStyles = makeStyles({
     root: {
@@ -28,6 +29,11 @@ function App() {
                             exact
                             path="/assistant-page"
                             component={AssistantPage}
+                        />
+                        <Route
+                            exact
+                            path="/result-page"
+                            component={ResultPage}
                         />
                     </Switch>
                 </div>

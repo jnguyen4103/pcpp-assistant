@@ -2,13 +2,13 @@ import React from 'react';
 import Header from 'components/Header';
 import { Box } from '@material-ui/core';
 
-const InputPageView = () => {
+const ResultPageView = () => {
     return (
         <Box>
             <Header />
-            <Box>INPUT PAGE</Box>
+            <Box>RESULT PAGE</Box>
         </Box>
     );
 };
 
-export default InputPageView;
+export default ResultPageView;
