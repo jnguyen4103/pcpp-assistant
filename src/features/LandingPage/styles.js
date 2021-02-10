@@ -9,7 +9,6 @@ const useStyles = makeStyles({
     innerContainer: {
         display: 'flex',
         flex: '1',
-        flexDirection: 'row',
     },
     leftBox: {
         width: '50%',
