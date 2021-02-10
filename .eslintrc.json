@@ -18,7 +18,7 @@
         "sourceType": "module"
     },
     "plugins": ["react"],
-    "rules": {},
+    "rules": { "prettier/prettier": 1 },
     "settings": {
         "react": {
             "version": "detect"
