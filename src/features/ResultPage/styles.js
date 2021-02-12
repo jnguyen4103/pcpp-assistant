@@ -7,13 +7,66 @@ const useStyles = makeStyles({
         height: '100%',
     },
     innerContainer: {
+        width: '75%',
+        height: '100%',
         background: 'white',
-        display: 'flex',
-        flex: '1',
-        width: '80%',
         alignSelf: 'center',
-        marginTop: '5%',
-        borderRadius: '5rem 5rem 0 0',
+        marginTop: '4%',
+        borderRadius: '10vh 10vh 0 0',
+        overflow: 'hidden',
+        padding: '8vh 4vw 0vh 4vw',
+    },
+    contentContainer: {
+        height: 'inherit',
+        overflow: 'auto',
+    },
+    partContainer: {
+        display: 'flex',
+        justifyContent: 'space-between',
+        borderBottom: '2px solid gray',
+    },
+    leftContainer: {
+        width: '20%',
+        display: 'flex',
+        alignItems: 'center',
+    },
+    middleContainer: {
+        width: '65%',
+        display: 'flex',
+        alignItems: 'center',
+    },
+    rightContainer: {
+        width: '15%',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+    },
+    partLabel: {
+        fontSize: '2rem',
+        fontWeight: '700',
+    },
+    image: {
+        maxWidth: '10vw',
+        height: 'auto',
+        marginRight: '5vw',
+    },
+    partName: {
+        fontSize: '2rem',
+        fontWeight: '700',
+        maxWidth: '30vw',
+        height: 'auto',
+    },
+    priceAndStore: {
+        fontSize: '1.5rem',
+        fontWeight: '700',
+    },
+    cartIcon: {
+        fontSize: '3rem',
+        marginRight: '2vw',
+        '&:hover': {
+            color: 'green',
+            cursor: 'pointer',
+        },
     },
 });
 
