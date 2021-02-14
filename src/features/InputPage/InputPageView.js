@@ -3,7 +3,6 @@ import Header from 'components/Header';
 import { Box, TextField, Typography, MenuItem } from '@material-ui/core';
 import useStyles from './styles';
 
-
 //Presentational stuff
 //yarn lint:fix
 const InputPageView = () => {
@@ -70,7 +69,6 @@ const InputPageView = () => {
                         <MenuItem value={5}>TigerDirect</MenuItem>
                     </TextField>
                 </Box>
-
             </Box>
         </Box>
     );
