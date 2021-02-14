@@ -1,0 +1,57 @@
+{"CPU": {
+    "name": "AMD Ryzen 7 3700X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/23cd3adfd50037c1b44d6d53edb15248.256p.jpg",
+    "link": "https://www.bestbuy.com/site/amd-ryzen-7-3700x-3rd-generation-8-core-16-thread-3-6-ghz-4-4-ghz-max-boost-socket-am4-unlocked-desktop-processor/6356277.p?acampID=0&cmp=RMX&irclickid=VNIXC63IUxyLRsOxTSQPxVT4UkEWrM39xxr9QY0&irgwc=1&loc=PCPartPicker&mpid=79301&ref=198&refdomain=pcpartpicker.com&skuId=6356277",
+    "store": "Best Buy",
+    "price": "$329.99"
+  },
+  "CPU Cooler": {
+    "name": "Cooler Master Hyper 212 EVO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ddea57de9797549e80d05fb3acb2e83d.med.256p.jpg",
+    "link": "https://www.amazon.com/dp/B005O65JXI?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$34.99"
+  },
+  "Motherboard": {
+    "name": "MSI B450 TOMAHAWK MAX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0a8a0ca77620c63b68fec6323537d50a.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07WF6ZQST?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$124.99"
+  },
+  "Memory": {
+    "name": "Corsair Vengeance LPX 16 GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/835ab3efad1be13bbe53beef3e3c6f96.256p.jpg",
+    "link": "https://www.amazon.com/dp/B0143UM4TC?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$87.99"
+  },
+  "Storage": {
+    "name": "Samsung 970 EVO 1 TB M.2-2280 NVME SSD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/09a31f32abb3daaf5ed9b849bd60e675.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07BN217QG?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$139.99"
+  },
+  "GPU": {
+    "name": "MSI GeForce RTX 3070 8 GB GAMING X TRIO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9921c03232084272f256dcd036802c4e.256p.jpg",
+    "link": "https://www.amazon.com/dp/B08KWN2LZG?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$1055.98"
+  },
+  "Case": {
+    "name": "NZXT H510 ATX Mid Tower Case",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9ee310e7133fd5145c9226f089714fa0.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07TD9C5HS?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$69.99"
+  },
+  "Power Supply": {
+    "name": "Corsair RM 750 W 80+ Gold Certified Fully Modular ATX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/02951377c9eed1e21fc3d8ba6092717e.256p.jpg",
+    "link": "https://www.bestbuy.com/site/corsair-rm-series-750w-atx12v-2-52-eps12v-2-92-80-plus-gold-modular-power-supply-black/6356248.p?acampID=0&cmp=RMX&irclickid=VNIXC63IUxyLRsOxTSQPxVT4UkEWrI05xxr9QY0&irgwc=1&loc=PCPartPicker&mpid=79301&ref=198&refdomain=pcpartpicker.com&skuId=6356248",
+    "store": "Best Buy",
+    "price": "$124.99"
+  }
+}
