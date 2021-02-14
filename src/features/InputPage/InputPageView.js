@@ -1,7 +1,14 @@
 import React from 'react';
 import Header from 'components/Header';
-import { Box, TextField, Typography, MenuItem } from '@material-ui/core';
+import {
+    Box,
+    TextField,
+    Typography,
+    MenuItem,
+    Button,
+} from '@material-ui/core';
 import useStyles from './styles';
+import { Link } from 'react-router-dom';
 
 //Presentational stuff
 //yarn lint:fix
@@ -69,6 +76,16 @@ const InputPageView = () => {
                         <MenuItem value={5}>TigerDirect</MenuItem>
                     </TextField>
                 </Box>
+                <Button
+                    variant="contained"
+                    component={Link}
+                    to={{
+                        pathname: '/result-page',
+                    }}
+                    className={styles.submitButton}
+                >
+                    Submit
+                </Button>
             </Box>
         </Box>
     );

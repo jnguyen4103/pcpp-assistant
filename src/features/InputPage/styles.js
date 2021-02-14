@@ -43,6 +43,11 @@ const useStyles = makeStyles({
         paddingRight: '60%',
         paddingTop: '1rem',
     },
+    submitButton: {
+        width: '25%',
+        alignSelf: 'center',
+        marginBottom: '10vh',
+    },
 });
 
 export default useStyles;
