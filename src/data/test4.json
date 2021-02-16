@@ -1,0 +1,57 @@
+{"cpu": {
+    "name": "AMD Ryzen 9 3900X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/14adcd1fc88ebf386b746037c966b6af.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07SXMZLP9?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$484.00"
+  },
+  "cpuCooler": {
+    "name": "NZXT Kraken X53",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/098f91f23535f45875611413e7b892d6.256p.jpg",
+    "link": "https://www.amazon.com/dp/B082DYR131?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$128.97"
+  },
+  "motherboard": {
+    "name": "Asus ROG Strix X570-E Gaming",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8edda8b2608b4fe4e5c3777f9e6df4fd.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07SW8DQVL?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$417.95"
+  },
+  "memory": {
+    "name": "G.Skill Trident Z RGB 16GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d19422479fca6e5117bb55db3d25eac2.256p.jpg",
+    "link": "https://www.newegg.com/g-skill-16gb-288-pin-ddr4-sdram/p/N82E16820232728?Item=N82E16820232728&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-eIMavK9lZU5JOtHjvovPMw",
+    "store": "Newegg",
+    "price": "$109.99"
+  },
+  "storage": {
+    "name": "Crucial MX500",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2983fbcd487b315b31855399829b532c.256p.jpg",
+    "link": "https://www.bestbuy.com/site/crucial-mx500-1tb-3d-nand-sata-2-5-inch-internal-ssd-up-to-560mb-s-ct1000mx500ssd1/6254400.p?acampID=0&cmp=RMX&irclickid=SIKxai345xyLRkt0TbWK8Xs3UkET0H2Ae0h%3AQo0&irgwc=1&loc=PCPartPicker&mpid=79301&ref=198&refdomain=pcpartpicker.com&skuId=6254400",
+    "store": "BestBuy",
+    "price": "$104.99"
+  },
+  "gpu": {
+    "name": "Gigabyte AORUS MASTER RTX3070 8GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/52545fe694b109aaddf75fe1249ab9fe.256p.jpg",
+    "link": "https://www.amazon.com/dp/B08M14Y3C7?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$1289.98"
+  },
+  "case": {
+    "name": "Lian Li O11D XL-W",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/57e725b91df63c516dcdd1b0314e306a.256p.jpg",
+    "link": "https://www.bhphotovideo.com/c/product/1560596-REG/lian_li_o11dxl_w_dynamic_xl_rog_certified.html",
+    "store": "B&H",
+    "price": "$219.99"
+  },
+  "powerSupply": {
+    "name": "Gigabyte P GM 750W 80+ Gold Certified Full modular ATX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/496145221d9d61487802823b7d03b98d.256p.jpg",
+    "link": "https://www.amazon.com/dp/B08DKJJFW6?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$108.28"
+  }
+}
