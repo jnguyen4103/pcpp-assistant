@@ -1,0 +1,57 @@
+{"cpu": {
+    "name": "AMD Ryzen 5 3600",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c7baf2c9c9cc15ae23adb24c2f4316fc.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07STGGQ18?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$199.99"
+  },
+  "cpuCooler": {
+    "name": "ARCTIC Freezer 7 X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/73e3a1081eb4c9154fb5c64a8e48fd1b.256p.jpg",
+    "link": "https://www.amazon.com/dp/B084P82HRY?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$23.99"	
+  },
+  "motherboard": {
+    "name": "ASRock B550M-ITX/ac",
+    "image": "https://m.media-amazon.com/images/I/515LtxB77aL.jpg",
+    "link": "https://www.amazon.com/dp/B089VYCHMG?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$175.65"
+  },
+  "memory": {
+    "name": "Kingston HyperX Fury 16 GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/253be8362d567f55b4ce7672e42a6cb2.256p.jpg",
+    "link": "https://www.amazon.com/dp/B07WD5VKVL?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$120.94"
+  },
+  "storage": {
+    "name": "Western Digital Caviar Blue 1TB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/09a31f32abb3daaf5ed9b849bd60e675.256p.jpg",
+    "link": "https://www.amazon.com/dp/B073SBX6TY?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$58.11"
+  },
+  "gpu": {
+    "name": "MSI GeForce GRX1660 SUPER 6 GB Ventus XS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9c57e7f04b05270bcf7edb9fcf4c715c.256p.jpg",
+    "link": "https://www.adorama.com/msig166svxsc.html?sterm=whwxYd39lxyLUBBwUx0Mo3ZwUkET0HRYe0h%3AQo0&utm_source=rflaid912925",
+    "store": "Amazon",
+    "price": "$39.99"
+  },
+  "case": {
+    "name": "Cooler Master MasterBox TD500 Mesh White w/Controller",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/212cf1bdd68ed28c40799e5bc3548ad4.256p.jpg",
+    "link": "https://www.amazon.com/dp/B08412JPCH?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$99.99"
+  },
+  "powerSupply": {
+    "name": "EVGA BQ 600 W 80+ Bronze Certified Semi-Modular ATX",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/512voawCsuL.jpg",
+    "link": "https://www.amazon.com/dp/B01MTJTO2O?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$74.98"
+  }
+}

@@ -1,0 +1,57 @@
+{"cpu": {
+    "name": "Intel Core 2 Duo E7300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0ce96ac1818c47c739db32a18461ef4f.256p.jpg",
+    "link": "https://www.amazon.com/dp/B001L5HLIW?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$11.95"
+  },
+  "cpuCooler": {
+    "name": "Intel E9737-001",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61mxt-z3zJL.jpg",
+    "link": "https://www.amazon.com/dp/B004XJNC0O?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$8.99"	
+  },
+  "motherboard": {
+    "name": "Gigabyte GA-A320M-S2H",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0d8d83b73c9f82f04e889ff31ca1471c.256p.jpg",
+    "link": "https://www.amazon.com/dp/B079NYQQJJ?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$54.99"
+  },
+  "memory": {
+    "name": "Kingston 2 GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/320bd24f59d342669c910b3d88d07b7a.256p.jpg",
+    "link": "https://www.amazon.com/dp/B00JI9OV0E?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$9.19"
+  },
+  "storage": {
+    "name": "Seagate Constellation ES 1 TB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51lPS1Pap2L.jpg",
+    "link": "https://www.amazon.com/dp/B003IT70KS?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$20.00"
+  },
+  "gpu": {
+    "name": "MSI GeForce GT 710 1GB ",
+    "image": "https://m.media-amazon.com/images/I/41BOr7irCvL.jpg",
+    "link": "https://www.amazon.com/dp/B01DOFD3RY?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$39.99"
+  },
+  "case": {
+    "name": "Rosewill FBM-01 Tower Case",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31T74MReEGL.jpg",
+    "link": "https://www.amazon.com/dp/B005LIDU5S?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$22.99"
+  },
+  "powerSupply": {
+    "name": "logisys 480W ",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41FnQw-muRL.jpg",
+    "link": "https://www.amazon.com/dp/B000N519KC?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$16.99"
+  }
+}
