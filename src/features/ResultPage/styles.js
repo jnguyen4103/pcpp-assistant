@@ -23,7 +23,11 @@ const useStyles = makeStyles({
     partContainer: {
         display: 'flex',
         justifyContent: 'space-between',
-        borderBottom: '2px solid gray',
+        marginTop: '2vh',
+        marginRight: '2vw',
+        border: '2px solid black',
+        borderRadius: '5vh 5vh',
+        padding: '0 2vw',
     },
     leftContainer: {
         width: '20%',
@@ -62,7 +66,6 @@ const useStyles = makeStyles({
     },
     cartIcon: {
         fontSize: '3rem',
-        marginRight: '2vw',
         '&:hover': {
             color: 'green',
             cursor: 'pointer',
