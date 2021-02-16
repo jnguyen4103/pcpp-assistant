@@ -7,18 +7,19 @@ const useStyles = makeStyles({
         height: '100%',
     },
     innerContainer: {
-        width: '75%',
         height: '100%',
+        width: '75%',
         background: 'white',
         alignSelf: 'center',
         marginTop: '4%',
         borderRadius: '10vh 10vh 0 0',
         overflow: 'hidden',
-        padding: '8vh 4vw 0vh 4vw',
+        boxShadow: '5px 5px 10px 5px #000000',
     },
     contentContainer: {
         height: 'inherit',
         overflow: 'auto',
+        padding: '4vh 0vw 0vh 2vw',
     },
     partContainer: {
         display: 'flex',
