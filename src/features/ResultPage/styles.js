@@ -17,17 +17,16 @@ const useStyles = makeStyles({
         boxShadow: '5px 5px 10px 5px #000000',
     },
     contentContainer: {
-        height: 'inherit',
+        height: '100%',
         overflow: 'auto',
-        padding: '4vh 0vw 0vh 2vw',
+        margin: '0 2vw',
     },
     partContainer: {
         display: 'flex',
         justifyContent: 'space-between',
-        marginTop: '2vh',
-        marginRight: '2vw',
         border: '2px solid black',
         borderRadius: '5vh 5vh',
+        margin: '4vh 0',
         padding: '0 2vw',
     },
     leftContainer: {
@@ -58,7 +57,7 @@ const useStyles = makeStyles({
     partName: {
         fontSize: '2rem',
         fontWeight: '700',
-        maxWidth: '30vw',
+        maxWidth: '25vw',
         height: 'auto',
     },
     priceAndStore: {
