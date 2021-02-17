@@ -28,7 +28,10 @@ const useStyles = makeStyles({
         background: 'blue',
         '&:hover': {
             background: 'blue',
-            opacity: '0.5',
+            opacity: '0.7',
+        },
+        '&:active': {
+            opacity: '1.0',
         },
     },
     enterIcon: {
