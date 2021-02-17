@@ -1,0 +1,57 @@
+{"cpu": {
+    "name": "Intel Xeon E5-2690 V4",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/acbbf09e0391f7599810e37d7ed1f9de.256p.jpg",
+    "link": "https://www.amazon.com/dp/B01BRCKNWY?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$5588.12"
+  },
+  "cpuCooler": {
+    "name": "NZXT Kraken Z73",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/26b8fd4167a7e43f82d73cae4c26d565.256p.jpg",
+    "link": "https://www.amazon.com/dp/B082DYPF57?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$270.19"
+  },
+  "motherboard": {
+    "name": "Asus ROG Crosshair VIII Dark Hero",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2df814ba2689b57e85f7f46b634f073e.256p.jpg",
+    "link": "https://www.amazon.com/dp/B08MTKJ6HM?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$678.95"
+  },
+  "memory": {
+    "name": "Corsair Dominator Platinum 64GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fb640419e0de9407469e51c70f79a4c8.256p.jpg",
+    "link": "https://www.amazon.com/dp/B0171UL6FO?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$2280.75"
+  },
+  "storage": {
+    "name": "Angelbird ED381 8TB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/11ef243518429b8a756a58a8da276e36.256p.jpg",
+    "link": "https://www.bhphotovideo.com/c/product/1391861-REG/angelbird_ed3818100_ed381_8100_7680gb.html",
+    "store": "B&H",
+    "price": "$6399.90"
+  },
+  "gpu": {
+    "name": "EVGA RTX3090 24GB FTW3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6842890b8aabc12888a1b4d9c5fc7d9a.256p.jpg",
+    "link": "https://www.amazon.com/dp/B08J5F3G18?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$2898.00"
+  },
+  "case": {
+    "name": "Phanteks Enthoo Elite",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/414NI6YCH6L.jpg",
+    "link": "https://www.amazon.com/dp/B01N9OKX5U?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$1873.99"
+  },
+  "powerSupply": {
+    "name": "Corsair HX Platinum 1000w 80+ Platinum Certified Full modular ATX",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51QvmULw-VL.jpg",
+    "link": "https://www.amazon.com/dp/B01N5NWKHH?tag=pcpapi-20&linkCode=ogi&th=1&psc=1",
+    "store": "Amazon",
+    "price": "$469.98"
+  }
+}
