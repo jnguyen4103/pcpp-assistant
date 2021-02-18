@@ -7,23 +7,27 @@ const useStyles = makeStyles({
         height: '100%',
     },
     innerContainer: {
-        width: '75%',
         height: '100%',
+        width: '75%',
         background: 'white',
         alignSelf: 'center',
         marginTop: '4%',
         borderRadius: '10vh 10vh 0 0',
         overflow: 'hidden',
-        padding: '8vh 4vw 0vh 4vw',
+        boxShadow: '5px 5px 10px 5px #000000',
     },
     contentContainer: {
-        height: 'inherit',
+        height: '100%',
         overflow: 'auto',
+        margin: '0 2vw',
     },
     partContainer: {
         display: 'flex',
         justifyContent: 'space-between',
-        borderBottom: '2px solid gray',
+        border: '2px solid black',
+        borderRadius: '5vh 5vh',
+        margin: '4vh 1vw 4vh 0',
+        padding: '0 2vw',
     },
     leftContainer: {
         width: '20%',
@@ -53,7 +57,7 @@ const useStyles = makeStyles({
     partName: {
         fontSize: '2rem',
         fontWeight: '700',
-        maxWidth: '30vw',
+        maxWidth: '25vw',
         height: 'auto',
     },
     priceAndStore: {
@@ -62,7 +66,6 @@ const useStyles = makeStyles({
     },
     cartIcon: {
         fontSize: '3rem',
-        marginRight: '2vw',
         '&:hover': {
             color: 'green',
             cursor: 'pointer',

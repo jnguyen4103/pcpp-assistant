@@ -1,0 +1,17 @@
+{
+  "Hello": {
+    "response": "Hi, how are you?"
+  },
+  "I'm good, you?": {
+    "response": "I'm doing well, thank you."
+  },
+  "How tall is the Eiffel Tower?": {
+    "response": "The main structure of the is Eiffel Tower is 300 meters tall, although the height including antennas is 324 meters. This height is roughly equivalent to that of an 81-story building. Interestingly, the Eiffel Tower can shrink by 6 inches during cold temperatures."
+  },
+  "Who would win, Goku or Vegeta?": {
+    "response": "Goku, obviously."
+  },
+  "Stocks only go up.": {
+    "response": "$GME to the moon!"
+  }
+}
