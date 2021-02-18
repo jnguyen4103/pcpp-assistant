@@ -1,33 +1,78 @@
-import React, { useState } from 'react';
+import React, { useCallback, useState, useRef, useEffect } from 'react';
 import Header from 'components/Header';
-import { Box, IconButton, Input } from '@material-ui/core';
+import { Box, IconButton, Input, Typography } from '@material-ui/core';
 import useStyles from './styles';
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
+import responses from 'data/assistant-responses';
 
 const AssistantPageView = () => {
     const styles = useStyles();
 
-    const [message, setMessage] = useState('');
+    const [message, setMessage] = useState({ message: '', type: null });
+    const [messages, setMessages] = useState([]);
 
     const handleClick = () => {
-        console.log(message);
-        setMessage('');
+        setMessages([...messages, message]);
+        getResponse(message.message);
+        setMessage({ message: '', type: null });
     };
 
     const handlePressEnter = (event) => {
         if (event.key === 'Enter') {
-            console.log(message);
-            setMessage('');
+            setMessages([...messages, message]);
+            getResponse(message.message);
+            setMessage({ message: '', type: null });
         }
     };
+
+    const getResponse = (message) => {
+        return responses[message]
+            ? responses[message].response
+            : 'Message received';
+    };
+
+    const createChatFeed = useCallback(
+        messages.map((message, index) => {
+            return (
+                <React.Fragment key={index}>
+                    <Box className={styles.userMessageBubble}>
+                        <Typography className={styles.userText}>
+                            {message.message}
+                        </Typography>
+                    </Box>
+                    <Box className={styles.systemResponseBubble}>
+                        <Typography className={styles.responseText}>
+                            {getResponse(message.message)}
+                        </Typography>
+                    </Box>
+                </React.Fragment>
+            );
+        }),
+        [messages]
+    );
+
+    // This code block handles the logic of scrolling the chat feed to the bottom as new messages appear
+    const messagesEndRef = useRef(null);
+
+    const scrollToBottom = () => {
+        messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    };
+
+    useEffect(() => {
+        scrollToBottom();
+    }, [messages]);
 
     return (
         <Box className={styles.container}>
             <Header />
-            <Box className={styles.chatContainer}>
+            <Box className={styles.innerContainer}>
+                <Box className={styles.chatContainer}>
+                    {createChatFeed}
+                    <Box ref={messagesEndRef} />
+                </Box>
                 <Input
                     className={styles.textField}
-                    placeholder="Enter text here..."
+                    placeholder="Chat with your digital assistant"
                     endAdornment={
                         <IconButton
                             className={styles.enterButton}
@@ -38,10 +83,13 @@ const AssistantPageView = () => {
                         </IconButton>
                     }
                     onChange={(event) => {
-                        setMessage(event.target.value);
+                        setMessage({
+                            message: event.target.value,
+                            type: 'userMessage',
+                        });
                     }}
                     onKeyPress={handlePressEnter}
-                    value={message}
+                    value={message.message}
                 />
             </Box>
         </Box>
