@@ -67,6 +67,18 @@ const AssistantPageView = () => {
             <Header />
             <Box className={styles.innerContainer}>
                 <Box className={styles.chatContainer}>
+                    <Box className={styles.systemResponseBubble}>
+                        <Typography className={styles.responseText}>
+                            Hello and welcome! I&apos;m your digital assistant,
+                            here to assist you with your PC building needs. What
+                            would you like to do today? You can say &quot;Build
+                            a PC&quot; if you would like us to get you started
+                            on your dream system or if you would just like to
+                            check if a component is in stock, just say &quot;Is
+                            [component name] in stock?&quot; and I would be
+                            happy to assist you.
+                        </Typography>
+                    </Box>
                     {createChatFeed}
                     <Box ref={messagesEndRef} />
                 </Box>
