@@ -7,13 +7,14 @@ const useStyles = makeStyles({
         height: '100%',
     },
     innerContainer: {
+        height: '100%',
         display: 'flex',
         flex: '1',
     },
     leftBox: {
         width: '50%',
-        paddingLeft: '8rem',
-        paddingTop: '8rem',
+        paddingLeft: '8vw',
+        paddingTop: '16vh',
     },
     welcomeText: {
         color: 'white',
@@ -30,22 +31,22 @@ const useStyles = makeStyles({
         width: '50%',
         flexDirection: 'row',
         justifyContent: 'center',
-        paddingTop: '3rem',
+        paddingTop: '4vh',
     },
     optionsContainer: {
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
         width: '60%',
-        borderRadius: '5rem 5rem 0 0',
-        paddingTop: '3rem',
+        borderRadius: '10vh 10vh 0 0',
+        paddingTop: '8vh',
         background: '#cdffd5',
         justifyContent: 'space-around',
     },
     optionCards: {
         width: '75%',
         textAlign: 'center',
-        borderRadius: '2rem',
+        borderRadius: '5vh',
         boxShadow: '10px 10px 5px #000000',
         '&:link': {
             textDecoration: 'none',
@@ -58,7 +59,7 @@ const useStyles = makeStyles({
     optionTexts: {
         fontSize: '2.5rem',
         fontWeight: '700',
-        padding: '4rem',
+        padding: '6vh 4vw',
     },
 });
 
