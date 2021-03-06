@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from 'components/Header';
-import { Box, Typography } from '@material-ui/core';
+import { Box, Card, Typography } from '@material-ui/core';
 import useStyles from './styles';
 import parts from 'data/test1';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
@@ -10,7 +10,7 @@ const ResultPageView = () => {
 
     const DisplayParts = (part) => {
         return (
-            <Box className={styles.partContainer}>
+            <Card className={styles.partContainer} variant="outlined">
                 <Box className={styles.leftContainer}>
                     <Typography className={styles.partLabel}>{part}</Typography>
                 </Box>
@@ -36,7 +36,7 @@ const ResultPageView = () => {
                         }}
                     />
                 </Box>
-            </Box>
+            </Card>
         );
     };
 
