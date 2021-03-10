@@ -2,7 +2,7 @@ import React from 'react';
 import Header from 'components/Header';
 import { Box, Card, Typography } from '@material-ui/core';
 import useStyles from './styles';
-import parts from 'data/test1';
+import parts from 'data/ResultPageTests/test1';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 
 const ResultPageView = () => {
