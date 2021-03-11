@@ -1,8 +1,6 @@
 const puppeteer = require('puppeteer');
 const axios = require('axios');
 
-const games = ['Valorant', 'Stardew Valley', 'The Witcher III'];
-
 async function getGameList() {
     try {
         const response = await axios.get(
@@ -81,6 +79,8 @@ async function getSysReqList(games) {
     return sysReqList;
 }
 
-(async () => {
+async function fetchSysReqList(games) {
     console.log(await getSysReqList(games));
-})();
+}
+
+module.exports = fetchSysReqList;
