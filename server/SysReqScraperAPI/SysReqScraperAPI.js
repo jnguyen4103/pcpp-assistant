@@ -21,11 +21,24 @@ async function getGameDict() {
     return gameDict;
 }
 
-const url = 'https://www.game-debate.com/games/index.php?g_id=';
-
 async function scrape(gameId) {
-    const browser = await puppeteer.launch();
+    const url = 'https://www.game-debate.com/games/index.php?g_id=';
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
+    await page.setViewport({ width: 1920, height: 1080 });
+    await page.setRequestInterception(true);
+
+    page.on('request', (req) => {
+        if (
+            req.resourceType() == 'stylesheet' ||
+            req.resourceType() == 'font' ||
+            req.resourceType() == 'image'
+        ) {
+            req.abort();
+        } else {
+            req.continue();
+        }
+    });
     await page.goto(url + gameId);
 
     const [el1] = await page.$x(
@@ -71,12 +84,12 @@ async function getSysReqList(games) {
     });
 
     const sysReqList = [];
-    for (const id of idList) {
-        const sysReq = await scrape(id);
+    idList.map((id) => {
+        const sysReq = scrape(id);
         sysReqList.push(sysReq);
-    }
+    });
 
-    return sysReqList;
+    return await Promise.all(sysReqList);
 }
 
 async function fetchSysReqList(games) {
