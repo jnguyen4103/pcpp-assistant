@@ -1,5 +1,5 @@
 const sysReq = require('./SysReqScraperAPI/SysReqScraperAPI');
 
-const games = ['Valorant', 'Stardew Valley', 'The Witcher III'];
+const games = ['guild wars 2'];
 
 sysReq(games);

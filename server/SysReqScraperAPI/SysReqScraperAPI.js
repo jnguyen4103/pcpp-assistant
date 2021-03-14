@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const axios = require('axios');
+const Fuse = require('fuse.js');
 
 async function getGameList() {
     try {
@@ -78,9 +79,19 @@ async function scrape(gameId) {
 
 async function getSysReqList(games) {
     const dict = await getGameDict();
+    const gameList = Object.keys(dict);
+
+    const options = {
+        includeScore: true,
+    };
+    const fuse = new Fuse(gameList, options);
+
     const idList = [];
     games.forEach((game) => {
-        idList.push(dict[game]);
+        const searchResult = fuse.search(game);
+        searchResult.length > 0
+            ? idList.push(dict[searchResult[0]['item']])
+            : console.log('No result for', game);
     });
 
     const sysReqList = [];
