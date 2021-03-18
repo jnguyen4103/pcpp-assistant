@@ -24,8 +24,6 @@ const useStyles = makeStyles({
     partContainer: {
         display: 'flex',
         justifyContent: 'space-between',
-        border: '2px solid black',
-        borderRadius: '5vh 5vh',
         margin: '4vh 1vw 4vh 0',
         padding: '0 2vw',
     },
