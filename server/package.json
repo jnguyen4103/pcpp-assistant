@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "fuse.js": "^6.4.6",
+    "nedb": "^1.8.0",
     "puppeteer": "^8.0.0"
   }
 }
