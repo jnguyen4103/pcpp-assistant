@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 const axios = require("axios");
-const Datastore = require('nedb');
+const Datastore = require("nedb");
 
 // This dictionary contains the relevant page element's xpath along with their fallbacks in case a game doesn't have a certain xpath
 const elementWithPaths = {
@@ -83,9 +83,9 @@ const scrape = async (gameId) => {
   });
   await page.goto(url + gameId);
 
-  const sysReq = {}
+  const sysReq = {};
   for (const element of Object.keys(elementWithPaths)) {
-      sysReq[element] = await getPageElement(page, elementWithPaths[element])
+    sysReq[element] = await getPageElement(page, elementWithPaths[element]);
   }
 
   browser.close();
@@ -110,7 +110,7 @@ const getPageElement = async (page, element) => {
       try {
         return await getText(element.fallBack2);
       } catch {
-          return {}
+        return {};
       }
     }
   }
@@ -119,25 +119,25 @@ const getPageElement = async (page, element) => {
 // This method creates a new database and adds in games along with their system requirements
 const createSysReqDB = async () => {
   const gameDict = await getGameDict();
-  const db = new Datastore({ filename: './SysReq.db', autoload: true });
-  db.ensureIndex({ fieldName: 'game', unique: true });
+  const db = new Datastore({ filename: "SysReqScraperAPI/SysReq.db", autoload: true });
+  db.ensureIndex({ fieldName: "game", unique: true });
 
   let gamesInserted = 0;
   let failures = [];
   for (const game of Object.keys(gameDict)) {
     let sysReq = {};
-    sysReq['game'] = game;
+    sysReq["game"] = game;
 
     try {
-      sysReq = {...sysReq, ...await scrape(gameDict[game])};
-      db.insert(sysReq, function(err, doc) {
-        console.log('Inserted', doc.game, 'with ID', doc._id);
+      sysReq = { ...sysReq, ...(await scrape(gameDict[game])) };
+      db.insert(sysReq, function (err, doc) {
+        console.log("Inserted", doc.game, "with ID", doc._id);
       });
       gamesInserted++;
     } catch (error) {
       failures.push(game);
       console.log(error);
-      console.log(`Scraping failed for ${game}. Continuing on...`)
+      console.log(`Scraping failed for ${game}. Continuing on...`);
     }
   }
 
@@ -149,15 +149,15 @@ const createSysReqDB = async () => {
 // This method adds new game entries to the database that don't yet exist
 const updateDB = async () => {
   const gameDict = await getGameDict();
-  const db = new Datastore({ filename: './SysReq.db', autoload: true });
-  db.ensureIndex({ fieldName: 'game', unique: true });
+  const db = new Datastore({ filename: "SysReqScraperAPI/SysReq.db", autoload: true });
+  db.ensureIndex({ fieldName: "game", unique: true });
 
   // Get the array of games that are not currently in the database
   let gamesToInsert = [];
   for (const game of Object.keys(gameDict)) {
-    let findResult = await new Promise((resolve,reject) => {
+    let findResult = await new Promise((resolve, reject) => {
       db.find({ game: game }, function (err, docs) {
-          resolve(docs);
+        resolve(docs);
       });
     });
 
@@ -169,24 +169,25 @@ const updateDB = async () => {
   let failures = [];
   for (const game of gamesToInsert) {
     let sysReq = {};
-    sysReq['game'] = game;
+    sysReq["game"] = game;
 
     try {
-      sysReq = {...sysReq, ...await scrape(gameDict[game])};
-      db.insert(sysReq, function(err, doc) {
-        console.log('Inserted', doc.game, 'with ID', doc._id);
+      sysReq = { ...sysReq, ...(await scrape(gameDict[game])) };
+      db.insert(sysReq, function (err, doc) {
+        console.log("Inserted", doc.game, "with ID", doc._id);
       });
       gamesInserted++;
     } catch (error) {
       failures.push(game);
       console.log(error);
-      console.log(`Scraping failed for ${game}. Continuing on...`)
+      console.log(`Scraping failed for ${game}. Continuing on...`);
     }
   }
 
+  console.log(`Total number of games: ${Object.keys(gameDict).length}`);
   console.log(`Total number of games to be inserted: ${gamesToInsert.length}`);
   console.log(`Total number of games inserted: ${gamesInserted}`);
   console.log(failures);
-}
+};
 
 exports.updateDB = updateDB;
