@@ -2,7 +2,6 @@ from django.shortcuts import render
 from rest_framework import views
 from .serializers import HardwearSerializer
 from rest_framework.response import Response
-from pcpartpicker import API
 from django.http import HttpResponse
 import json
 
