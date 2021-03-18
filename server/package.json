@@ -14,6 +14,7 @@
     "fuse.js": "^6.4.6",
     "ibm-watson": "^6.0.3",
     "prompt-sync": "^4.2.0",
+    "nedb": "^1.8.0",
     "puppeteer": "^8.0.0"
   }
 }
