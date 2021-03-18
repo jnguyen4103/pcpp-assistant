@@ -12,6 +12,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "fuse.js": "^6.4.6",
+    "ibm-watson": "^6.0.3",
+    "prompt-sync": "^4.2.0",
     "puppeteer": "^8.0.0"
   }
 }
