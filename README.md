@@ -7,6 +7,7 @@
   - https://classic.yarnpkg.com/en/docs/install/#debian-stable
 
 ## Run the app
+### Make sure you are in the `client` directory
 `yarn install`: installs all dependencies for the project.\
 `yarn start`: starts the app locally on <http://localhost:3000>
 
