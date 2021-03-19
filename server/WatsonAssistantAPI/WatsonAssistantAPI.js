@@ -1,68 +1,66 @@
-const prompt = require('prompt-sync')();
-const AssistantV2 = require('ibm-watson/assistant/v2');
-const { IamAuthenticator } = require('ibm-watson/auth');
+const AssistantV2 = require("ibm-watson/assistant/v2");
+const { IamAuthenticator } = require("ibm-watson/auth");
+const express = require("express");
+const app = express();
+const port = 5000;
+
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`);
+});
+
+app.get("/", (req, res) => {
+  res.send('This is the API that serves up Watson Assistant to the front-end.');
+})
 
 // Create Assistant service object.
 const assistant = new AssistantV2({
-    version: '2021-02-22',
-    authenticator: new IamAuthenticator({
-        apikey: '0PVjD3rkG8KdwSDXLT2TZZPjEVZVkzsS-mXI1EZR9zLI', // replace with API key
-    }),
-    url: 'https://api.us-south.assistant.watson.cloud.ibm.com', // replace with URL
+  version: "2021-02-22",
+  authenticator: new IamAuthenticator({
+    apikey: "0PVjD3rkG8KdwSDXLT2TZZPjEVZVkzsS-mXI1EZR9zLI",
+  }),
+  url: "https://api.us-south.assistant.watson.cloud.ibm.com",
 });
 
-const assistantId = '2303c86f-1b64-42d7-aae9-bb3435f312f0'; // replace with assistant ID
+const assistantId = "2303c86f-1b64-42d7-aae9-bb3435f312f0";
 
-// Start conversation with empty message
-const messageInput = {
-    messageType: 'text',
-    text: '',
-};
-const context = {};
-sendMessage(messageInput, context);
+app.get("/getAssistantID", (req, res) => {
+  let sessionId = assistant
+    .createSession({
+      assistantId: assistantId,
+    })
+    .then((res) => {
+      return JSON.stringify(res.result, null, 2);
+    })
+    .catch((err) => {
+      console.log(err);
+    });
 
-// Send message to assistant.
-function sendMessage(messageInput, context) {
-    assistant
-        .messageStateless({
-            assistantId,
-            input: messageInput,
-            context: context,
-        })
-        .then((res) => {
-            processResponse(res.result);
-        })
-        .catch((err) => {
-            console.log(err); // something went wrong
-        });
-}
+  sessionId = sessionId.then((id) => {
+    res.send(id);
+  });
+});
 
-// Process the response.
-function processResponse(response) {
-    let context = response.context;
+app.post("/getAssistantResponse", (req, res) => {
+  let assistantResponse = assistant
+    .message({
+      assistantId: assistantId,
+      sessionId: req.body.sessionId,
+      input: {
+        message_type: "text",
+        text: req.body.userMessage,
+      },
+    })
+    .then((res) => {
+      return JSON.stringify(res.result, null, 2);
+    })
+    .catch((err) => {
+      console.log(err);
+    });
 
-    // If an intent was detected, log it out to the console.
-    if (response.output.intents.length > 0) {
-        console.log('Detected intent: #' + response.output.intents[0].intent);
-    }
-
-    // Display the output from assistant, if any. Supports only a single
-    // text response.
-    if (response.output.generic) {
-        if (response.output.generic.length > 0) {
-            if (response.output.generic[0].response_type === 'text') {
-                console.log(response.output.generic[0].text);
-            }
-        }
-    }
-
-    // If we're not done, prompt for the next round of input.
-    const newMessageFromUser = prompt('>> ');
-    if (newMessageFromUser !== 'quit') {
-        const newMessageInput = {
-            messageType: 'text',
-            text: newMessageFromUser,
-        };
-        sendMessage(newMessageInput, context);
-    }
-}
+    assistantResponse.then((response) => {
+      res.send(response);
+    });
+});

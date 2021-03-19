@@ -3,32 +3,50 @@ import Header from 'components/Header';
 import { Box, IconButton, Input, Typography } from '@material-ui/core';
 import useStyles from './styles';
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
-import responses from 'data/assistant-responses';
+import axios from 'axios';
 
 const AssistantPageView = () => {
+    const [sessionId, setSessionId] = useState(null);
+
+    useEffect(() => {
+        axios.get('/getAssistantID').then((res) => {
+            setSessionId(res.data.session_id);
+        });
+    }, []);
+
     const styles = useStyles();
 
-    const [message, setMessage] = useState({ message: '', type: null });
+    const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
 
     const handleClick = () => {
         setMessages([...messages, message]);
-        getResponse(message.message);
-        setMessage({ message: '', type: null });
+        getResponse(message);
+        setMessage('');
     };
 
     const handlePressEnter = (event) => {
         if (event.key === 'Enter') {
             setMessages([...messages, message]);
-            getResponse(message.message);
-            setMessage({ message: '', type: null });
+            getResponse(message);
+            setMessage('');
         }
     };
 
     const getResponse = (message) => {
-        return responses[message]
-            ? responses[message].response
-            : 'Message received';
+        axios
+            .post('/getAssistantResponse', {
+                sessionId: sessionId,
+                userMessage: message,
+            })
+            .then(
+                (res) => {
+                    console.log(res.data.output.generic[0].text);
+                },
+                (error) => {
+                    console.log(error);
+                }
+            );
     };
 
     const createChatFeed = useCallback(
@@ -37,12 +55,12 @@ const AssistantPageView = () => {
                 <React.Fragment key={index}>
                     <Box className={styles.userMessageBubble}>
                         <Typography className={styles.userText}>
-                            {message.message}
+                            {message}
                         </Typography>
                     </Box>
                     <Box className={styles.systemResponseBubble}>
                         <Typography className={styles.responseText}>
-                            {getResponse(message.message)}
+                            message received
                         </Typography>
                     </Box>
                 </React.Fragment>
@@ -83,13 +101,10 @@ const AssistantPageView = () => {
                         </IconButton>
                     }
                     onChange={(event) => {
-                        setMessage({
-                            message: event.target.value,
-                            type: 'userMessage',
-                        });
+                        setMessage(event.target.value);
                     }}
                     onKeyPress={handlePressEnter}
-                    value={message.message}
+                    value={message}
                 />
             </Box>
         </Box>
