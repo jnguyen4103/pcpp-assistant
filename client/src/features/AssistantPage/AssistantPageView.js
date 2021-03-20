@@ -9,62 +9,78 @@ const AssistantPageView = () => {
     const [sessionId, setSessionId] = useState(null);
 
     useEffect(() => {
-        axios.get('/getAssistantID').then((res) => {
+        let id = axios.get('/getAssistantID').then((res) => {
             setSessionId(res.data.session_id);
+            return res.data.session_id;
+        });
+
+        id.then((res) => {
+            console.log(res);
         });
     }, []);
 
     const styles = useStyles();
 
-    const [message, setMessage] = useState('');
+    const [message, setMessage] = useState({ text: '', type: null });
     const [messages, setMessages] = useState([]);
 
     const handleClick = () => {
-        setMessages([...messages, message]);
-        getResponse(message);
-        setMessage('');
+        setMessages((messages) => [...messages, message]);
+        getResponse(message.text).then((res) => {
+            const response = { text: res, type: 'systemResponse' };
+            setMessages((messages) => [...messages, response]);
+        });
+        setMessage({ text: '', type: null });
     };
 
     const handlePressEnter = (event) => {
         if (event.key === 'Enter') {
-            setMessages([...messages, message]);
-            getResponse(message);
-            setMessage('');
+            setMessages((messages) => [...messages, message]);
+            getResponse(message.text).then((res) => {
+                const response = { text: res, type: 'systemResponse' };
+                setMessages((messages) => [...messages, response]);
+            });
+            setMessage({ text: '', type: null });
         }
     };
 
     const getResponse = (message) => {
-        axios
+        let response = axios
             .post('/getAssistantResponse', {
                 sessionId: sessionId,
                 userMessage: message,
             })
             .then(
                 (res) => {
-                    console.log(res.data.output.generic[0].text);
+                    return res.data.output.generic[0].text;
                 },
                 (error) => {
                     console.log(error);
                 }
             );
+
+        return response;
     };
 
     const createChatFeed = useCallback(
         messages.map((message, index) => {
-            return (
-                <React.Fragment key={index}>
-                    <Box className={styles.userMessageBubble}>
+            if (message.type == 'userInput') {
+                return (
+                    <Box className={styles.userMessageBubble} key={index}>
                         <Typography className={styles.userText}>
-                            {message}
+                            {message.text}
                         </Typography>
                     </Box>
-                    <Box className={styles.systemResponseBubble}>
+                );
+            } else {
+                return (
+                    <Box className={styles.systemResponseBubble} key={index}>
                         <Typography className={styles.responseText}>
-                            message received
+                            {message.text}
                         </Typography>
                     </Box>
-                </React.Fragment>
-            );
+                );
+            }
         }),
         [messages]
     );
@@ -101,10 +117,13 @@ const AssistantPageView = () => {
                         </IconButton>
                     }
                     onChange={(event) => {
-                        setMessage(event.target.value);
+                        setMessage({
+                            text: event.target.value,
+                            type: 'userInput',
+                        });
                     }}
                     onKeyPress={handlePressEnter}
-                    value={message}
+                    value={message.text}
                 />
             </Box>
         </Box>
