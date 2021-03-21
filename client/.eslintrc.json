@@ -19,7 +19,10 @@
         "sourceType": "module"
     },
     "plugins": ["react"],
-    "rules": { "prettier/prettier": 1, "no-unused-vars": "warn" },
+    "rules": {
+        "prettier/prettier": 1,
+        "no-unused-vars": "warn"
+    },
     "settings": {
         "react": {
             "version": "detect"

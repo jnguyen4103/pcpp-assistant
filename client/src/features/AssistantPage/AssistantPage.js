@@ -1,8 +1,81 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import AssistantPageView from './AssistantPageView';
+import axios from 'axios';
 
 const AssistantPage = () => {
-    return <AssistantPageView />;
+    const [sessionId, setSessionId] = useState(null);
+    const [message, setMessage] = useState({ text: '', type: null });
+    const [messages, setMessages] = useState([]);
+
+    useEffect(() => {
+        let id = axios.get('/getAssistantID').then((res) => {
+            setSessionId(res.data.session_id);
+            return res.data.session_id;
+        });
+
+        id.then((res) => {
+            getResponse(res, '').then((res) => {
+                const response = { text: res, type: 'systemResponse' };
+                setMessages((messages) => [...messages, response]);
+            });
+        });
+    }, []);
+
+    const getResponse = (id, message) => {
+        let response = axios
+            .post('/getAssistantResponse', {
+                sessionId: id,
+                userMessage: message,
+            })
+            .then(
+                (res) => {
+                    return res.data.output.generic[0].text;
+                },
+                (error) => {
+                    console.log(error);
+                }
+            );
+
+        return response;
+    };
+
+    const handleClick = () => {
+        setMessages((messages) => [...messages, message]);
+        getResponse(sessionId, message.text).then((res) => {
+            const response = { text: res, type: 'systemResponse' };
+            setMessages((messages) => [...messages, response]);
+        });
+        setMessage({ text: '', type: null });
+    };
+
+    const handlePressEnter = (event) => {
+        if (event.key === 'Enter') {
+            setMessages((messages) => [...messages, message]);
+            getResponse(sessionId, message.text).then((res) => {
+                const response = { text: res, type: 'systemResponse' };
+                setMessages((messages) => [...messages, response]);
+            });
+            setMessage({ text: '', type: null });
+        }
+    };
+
+    const handleUserInput = (event) => {
+        setMessage({
+            text: event.target.value,
+            type: 'userInput',
+        });
+    };
+
+    return (
+        <AssistantPageView
+            sessionId={sessionId}
+            handleClick={handleClick}
+            handlePressEnter={handlePressEnter}
+            handleUserInput={handleUserInput}
+            message={message}
+            messages={messages}
+        />
+    );
 };
 
 export default AssistantPage;
