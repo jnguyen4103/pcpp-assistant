@@ -1,54 +1,34 @@
-import React, { useCallback, useState, useRef, useEffect } from 'react';
+import React, { useCallback, useRef, useEffect } from 'react';
 import Header from 'components/Header';
 import { Box, IconButton, Input, Typography } from '@material-ui/core';
 import useStyles from './styles';
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
-import responses from 'data/assistant-responses';
+import PropTypes from 'prop-types';
 
-const AssistantPageView = () => {
+const AssistantPageView = (props) => {
     const styles = useStyles();
 
-    const [message, setMessage] = useState({ message: '', type: null });
-    const [messages, setMessages] = useState([]);
-
-    const handleClick = () => {
-        setMessages([...messages, message]);
-        getResponse(message.message);
-        setMessage({ message: '', type: null });
-    };
-
-    const handlePressEnter = (event) => {
-        if (event.key === 'Enter') {
-            setMessages([...messages, message]);
-            getResponse(message.message);
-            setMessage({ message: '', type: null });
-        }
-    };
-
-    const getResponse = (message) => {
-        return responses[message]
-            ? responses[message].response
-            : 'Message received';
-    };
-
     const createChatFeed = useCallback(
-        messages.map((message, index) => {
-            return (
-                <React.Fragment key={index}>
-                    <Box className={styles.userMessageBubble}>
+        props.messages.map((message, index) => {
+            if (message.type == 'userInput') {
+                return (
+                    <Box className={styles.userMessageBubble} key={index}>
                         <Typography className={styles.userText}>
-                            {message.message}
+                            {message.text}
                         </Typography>
                     </Box>
-                    <Box className={styles.systemResponseBubble}>
+                );
+            } else {
+                return (
+                    <Box className={styles.systemResponseBubble} key={index}>
                         <Typography className={styles.responseText}>
-                            {getResponse(message.message)}
+                            {message.text}
                         </Typography>
                     </Box>
-                </React.Fragment>
-            );
+                );
+            }
         }),
-        [messages]
+        [props.messages]
     );
 
     // This code block handles the logic of scrolling the chat feed to the bottom as new messages appear
@@ -60,7 +40,7 @@ const AssistantPageView = () => {
 
     useEffect(() => {
         scrollToBottom();
-    }, [messages]);
+    }, [props.messages]);
 
     return (
         <Box className={styles.container}>
@@ -77,23 +57,26 @@ const AssistantPageView = () => {
                         <IconButton
                             className={styles.enterButton}
                             disableRipple={true}
-                            onClick={handleClick}
+                            onClick={props.handleClick}
                         >
                             <ArrowUpwardIcon className={styles.enterIcon} />
                         </IconButton>
                     }
-                    onChange={(event) => {
-                        setMessage({
-                            message: event.target.value,
-                            type: 'userMessage',
-                        });
-                    }}
-                    onKeyPress={handlePressEnter}
-                    value={message.message}
+                    onChange={props.handleUserInput}
+                    onKeyPress={props.handlePressEnter}
+                    value={props.message.text}
                 />
             </Box>
         </Box>
     );
+};
+
+AssistantPageView.propTypes = {
+    handleClick: PropTypes.func,
+    handlePressEnter: PropTypes.func,
+    handleUserInput: PropTypes.func,
+    message: PropTypes.object,
+    messages: PropTypes.array,
 };
 
 export default AssistantPageView;
