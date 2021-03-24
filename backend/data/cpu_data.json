@@ -1,0 +1,2897 @@
+{
+    "AMD 2650 1.45 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/tLvRsY": "$59.61"
+        },
+        "part_info": {
+            "Core Clock": "1.45 GHz",
+            "Core Count": "2",
+            "Core Family": "Kabini",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Jaguar",
+            "Socket": "AM1"
+        }
+    },
+    "AMD A10-9700 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/n9s8TW": "$115.23+",
+            "https://pcpartpicker.com/mr/bhphotovideo/n9s8TW": "$89.99"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Bristol Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Excavator",
+            "Socket": "AM4"
+        }
+    },
+    "AMD A10-9700E 3 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/fxyxFT": "$263.98"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "4",
+            "Core Family": "Bristol Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Excavator",
+            "Socket": "AM4"
+        }
+    },
+    "AMD A6-3650 2.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/ngMFf7": "$133.15"
+        },
+        "part_info": {
+            "Core Clock": "2.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Llano",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Lynx",
+            "Socket": "FM1"
+        }
+    },
+    "AMD A8-6500 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/nDtCmG": "$269.81+"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Richland",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Piledriver",
+            "Socket": "FM2"
+        }
+    },
+    "AMD Athlon 200GE 3.2 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/dFhKHx": "$120.80"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "2",
+            "Core Family": "Raven Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Athlon 3000G 3.5 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/664BD3": "$55.95",
+            "https://pcpartpicker.com/mr/amazon/664BD3": "$74.68+"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "2",
+            "Core Family": "Raven Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Athlon II X2 250 3 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/dhXfrH": "$184.71"
+        },
+        "part_info": {
+            "Core Clock": "65 W",
+            "Core Count": "3 GHz",
+            "Core Family": "AM3",
+            "Manufacturer": "ADX250OCGQBOX",
+            "Microarchitecture": "Regor",
+            "Socket": "None"
+        }
+    },
+    "AMD Athlon II X3 435 2.9 GHz Triple-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qZmLrH": "$159.94+"
+        },
+        "part_info": {
+            "Core Clock": "95 W",
+            "Core Count": "2.9 GHz",
+            "Core Family": "AM3",
+            "Manufacturer": "ADX435WFGIBOX",
+            "Microarchitecture": "Rana",
+            "Socket": "None"
+        }
+    },
+    "AMD Athlon II X4 620 2.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/kMH323": "$163.76+"
+        },
+        "part_info": {
+            "Core Clock": "2.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Propus",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "K10",
+            "Socket": "AM3"
+        }
+    },
+    "AMD FX-6300 3.5 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/PnxfrH": "$330.00"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "6",
+            "Core Family": "Vishera",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Piledriver",
+            "Socket": "AM3+"
+        }
+    },
+    "AMD FX-8350 4 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/ykphP6": "$403.15",
+            "https://pcpartpicker.com/mr/monoprice/ykphP6": "$129.99+"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "8",
+            "Core Family": "Vishera",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Piledriver",
+            "Socket": "AM3+"
+        }
+    },
+    "AMD Opteron 6320 2.8 GHz 8-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/CP648d": "$269.00+"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "8",
+            "Core Family": "Abu Dhabi",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Piledriver",
+            "Socket": "G34"
+        }
+    },
+    "AMD Opteron 6344 2.6 GHz 12-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/GzQypg": "$374.33+",
+            "https://pcpartpicker.com/mr/bhphotovideo/GzQypg": "$472.99"
+        },
+        "part_info": {
+            "Core Clock": "2.6 GHz",
+            "Core Count": "12",
+            "Core Family": "Abu Dhabi",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Piledriver",
+            "Socket": "G34"
+        }
+    },
+    "AMD Phenom II X4 975 3.6 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/X2dqqs": "$172.56"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Deneb",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "K10",
+            "Socket": "AM3"
+        }
+    },
+    "AMD Ryzen 3 2200G 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/RkJtt6": "$182.99"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Raven Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 3 3100 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/ndwkcf": "$129.99",
+            "https://pcpartpicker.com/mr/amazon/ndwkcf": "$182.67",
+            "https://pcpartpicker.com/mr/bestbuy/ndwkcf": "$99.00"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/J8drxr": "$119.99",
+            "https://pcpartpicker.com/mr/amazon/J8drxr": "$251.22+",
+            "https://pcpartpicker.com/mr/bestbuy/J8drxr": "$99.99+",
+            "https://pcpartpicker.com/mr/bhphotovideo/J8drxr": "$119.99",
+            "https://pcpartpicker.com/mr/newegg/J8drxr": "$112.98"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "3.6 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Picasso",
+            "Socket": "Radeon Vega 8"
+        }
+    },
+    "AMD Ryzen 3 3300X 3.8 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/NvCFf7": "$129.00"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 1600 (12nm) 3.2 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/8HqBD3": "$178.00+",
+            "https://pcpartpicker.com/mr/memoryc/8HqBD3": "$176.99+"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "6",
+            "Core Family": "Pinnacle Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen+",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 1600 (14nm) 3.2 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/mV98TW": "$174.59"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "6",
+            "Core Family": "Summit Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 1600X 3.6 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/8hwqqs": "$310.75+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "6",
+            "Core Family": "Summit Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 2400G 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/FGPKHx": "$325.91"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Raven Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 2600 3.4 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/jLF48d": "$189.99",
+            "https://pcpartpicker.com/mr/memoryc/jLF48d": "$199.99+",
+            "https://pcpartpicker.com/mr/newegg/jLF48d": "$189.99"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "6",
+            "Core Family": "Pinnacle Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen+",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 2600X 3.6 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/6mm323": "$195.15",
+            "https://pcpartpicker.com/mr/memoryc/6mm323": "$310.94+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "6",
+            "Core Family": "Pinnacle Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen+",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 3400G 3.7 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/XP6qqs": "$166.94",
+            "https://pcpartpicker.com/mr/amazon/XP6qqs": "$274.77",
+            "https://pcpartpicker.com/mr/bestbuy/XP6qqs": "$149.99+",
+            "https://pcpartpicker.com/mr/bhphotovideo/XP6qqs": "$169.99",
+            "https://pcpartpicker.com/mr/newegg/XP6qqs": "$169.99"
+        },
+        "part_info": {
+            "Core Clock": "4.2 GHz",
+            "Core Count": "3.7 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Picasso",
+            "Socket": "Radeon Vega 11"
+        }
+    },
+    "AMD Ryzen 5 3600 3.6 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/9nm323": "$199.99",
+            "https://pcpartpicker.com/mr/amazon/9nm323": "$219.94",
+            "https://pcpartpicker.com/mr/bestbuy/9nm323": "$199.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/9nm323": "$199.99",
+            "https://pcpartpicker.com/mr/memoryc/9nm323": "$244.56+",
+            "https://pcpartpicker.com/mr/newegg/9nm323": "$199.99"
+        },
+        "part_info": {
+            "Core Clock": "4.2 GHz",
+            "Core Count": "3.6 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Matisse",
+            "Socket": "None"
+        }
+    },
+    "AMD Ryzen 5 3600X 3.8 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/FCprxr": "$322.99"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "6",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 3600X 3.8 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/3WYLrH": "$249.00",
+            "https://pcpartpicker.com/mr/amazon/3WYLrH": "$248.99",
+            "https://pcpartpicker.com/mr/bestbuy/3WYLrH": "$249.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/3WYLrH": "$248.99",
+            "https://pcpartpicker.com/mr/newegg/3WYLrH": "$244.99",
+            "https://pcpartpicker.com/mr/walmart/3WYLrH": "$249.00"
+        },
+        "part_info": {
+            "Core Clock": "4.4 GHz",
+            "Core Count": "3.8 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Matisse",
+            "Socket": "None"
+        }
+    },
+    "AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/7sFKHx": "$249.99",
+            "https://pcpartpicker.com/mr/amazon/7sFKHx": "$404.39+",
+            "https://pcpartpicker.com/mr/bestbuy/7sFKHx": "$249.00"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "6",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/g94BD3": "$329.99",
+            "https://pcpartpicker.com/mr/bestbuy/g94BD3": "$299.00",
+            "https://pcpartpicker.com/mr/memoryc/g94BD3": "$359.99+",
+            "https://pcpartpicker.com/mr/newegg/g94BD3": "$299.00"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Vermeer",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 3",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 7 1700 3 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/3kPzK8": "$329.00",
+            "https://pcpartpicker.com/mr/amazon/3kPzK8": "$374.77+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "8",
+            "Core Family": "Summit Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 7 1700X 3.4 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9Q98TW": "$327.39+",
+            "https://pcpartpicker.com/mr/monoprice/9Q98TW": "$199.99"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "8",
+            "Core Family": "Summit Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 7 2700 3.2 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/WPQG3C": "$359.30+"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "8",
+            "Core Family": "Pinnacle Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen+",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 7 2700X 3.7 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/bddxFT": "$350.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "8",
+            "Core Family": "Pinnacle Ridge",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen+",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/QKJtt6": "$339.99",
+            "https://pcpartpicker.com/mr/amazon/QKJtt6": "$329.99",
+            "https://pcpartpicker.com/mr/bestbuy/QKJtt6": "$329.99",
+            "https://pcpartpicker.com/mr/memoryc/QKJtt6": "$360.99+",
+            "https://pcpartpicker.com/mr/newegg/QKJtt6": "$329.99",
+            "https://pcpartpicker.com/mr/walmart/QKJtt6": "$329.99"
+        },
+        "part_info": {
+            "Core Clock": "4.4 GHz",
+            "Core Count": "3.6 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Matisse",
+            "Socket": "None"
+        }
+    },
+    "AMD Ryzen 7 3800X 3.9 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/qryV3C": "$399.00",
+            "https://pcpartpicker.com/mr/amazon/qryV3C": "$399.99+",
+            "https://pcpartpicker.com/mr/bestbuy/qryV3C": "$399.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/qryV3C": "$395.00",
+            "https://pcpartpicker.com/mr/memoryc/qryV3C": "$391.09+"
+        },
+        "part_info": {
+            "Core Clock": "4.5 GHz",
+            "Core Count": "3.9 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Matisse",
+            "Socket": "None"
+        }
+    },
+    "AMD Ryzen 7 3800XT 3.9 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9wfFf7": "$429.85",
+            "https://pcpartpicker.com/mr/bestbuy/9wfFf7": "$399.00",
+            "https://pcpartpicker.com/mr/memoryc/9wfFf7": "$453.74+"
+        },
+        "part_info": {
+            "Core Clock": "3.9 GHz",
+            "Core Count": "8",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/qtvqqs": "$459.99",
+            "https://pcpartpicker.com/mr/amazon/qtvqqs": "$448.93",
+            "https://pcpartpicker.com/mr/bestbuy/qtvqqs": "$449.00",
+            "https://pcpartpicker.com/mr/newegg/qtvqqs": "$449.00"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "8",
+            "Core Family": "Vermeer",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 3",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/tLCD4D": "$484.00",
+            "https://pcpartpicker.com/mr/amazon/tLCD4D": "$484.00",
+            "https://pcpartpicker.com/mr/bestbuy/tLCD4D": "$499.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/tLCD4D": "$484.00",
+            "https://pcpartpicker.com/mr/memoryc/tLCD4D": "$489.50+",
+            "https://pcpartpicker.com/mr/newegg/tLCD4D": "$484.99",
+            "https://pcpartpicker.com/mr/walmart/tLCD4D": "$484.00"
+        },
+        "part_info": {
+            "Core Clock": "4.6 GHz",
+            "Core Count": "3.8 GHz",
+            "Core Family": "AM4",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Matisse",
+            "Socket": "None"
+        }
+    },
+    "AMD Ryzen 9 3900XT 3.8 GHz 12-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/RwfFf7": "$479.00",
+            "https://pcpartpicker.com/mr/amazon/RwfFf7": "$701.48"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "12",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 9 3950X 3.5 GHz 16-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/t7CFf7": "$749.00",
+            "https://pcpartpicker.com/mr/amazon/t7CFf7": "$724.99",
+            "https://pcpartpicker.com/mr/bestbuy/t7CFf7": "$749.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/t7CFf7": "$724.99",
+            "https://pcpartpicker.com/mr/memoryc/t7CFf7": "$968.15+",
+            "https://pcpartpicker.com/mr/newegg/t7CFf7": "$709.99",
+            "https://pcpartpicker.com/mr/walmart/t7CFf7": "$724.99"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "16",
+            "Core Family": "Matisse",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 9 5900X 3.7 GHz 12-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/bestbuy/KwLwrH": "$549.00+",
+            "https://pcpartpicker.com/mr/newegg/KwLwrH": "$559.98"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "12",
+            "Core Family": "Vermeer",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 3",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Ryzen 9 5950X 3.4 GHz 16-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/Qk2bt6": "$799.00",
+            "https://pcpartpicker.com/mr/amazon/Qk2bt6": "$1099.95",
+            "https://pcpartpicker.com/mr/bestbuy/Qk2bt6": "$799.00+",
+            "https://pcpartpicker.com/mr/newegg/Qk2bt6": "$809.98"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "16",
+            "Core Family": "Vermeer",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 3",
+            "Socket": "AM4"
+        }
+    },
+    "AMD Threadripper 2950X 3.5 GHz 16-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/bnrmP6": "$639.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/bnrmP6": "$639.99"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "16",
+            "Core Family": "Colfax",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen+",
+            "Socket": "sTR4"
+        }
+    },
+    "AMD Threadripper 3960X 3.8 GHz 24-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/kNyqqs": "$1411.00",
+            "https://pcpartpicker.com/mr/amazon/kNyqqs": "$1399.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/kNyqqs": "$1399.99",
+            "https://pcpartpicker.com/mr/newegg/kNyqqs": "$1399.99"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "24",
+            "Core Family": "Castle Peak",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "sTRX4"
+        }
+    },
+    "AMD Threadripper 3970X 3.7 GHz 32-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/rkwkcf": "$2066.35",
+            "https://pcpartpicker.com/mr/amazon/rkwkcf": "$1999.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/rkwkcf": "$1999.99",
+            "https://pcpartpicker.com/mr/newegg/rkwkcf": "$1999.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "32",
+            "Core Family": "Castle Peak",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "sTRX4"
+        }
+    },
+    "AMD Threadripper 3990X 2.9 GHz 64-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/KWmFf7": "$3989.00",
+            "https://pcpartpicker.com/mr/amazon/KWmFf7": "$3985.01",
+            "https://pcpartpicker.com/mr/bestbuy/KWmFf7": "$3990.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/KWmFf7": "$3989.00",
+            "https://pcpartpicker.com/mr/newegg/KWmFf7": "$3989.99"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "64",
+            "Core Family": "Castle Peak",
+            "Manufacturer": "AMD",
+            "Microarchitecture": "Zen 2",
+            "Socket": "sTRX4"
+        }
+    },
+    "Intel Celeron G1630 2.8 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/z2h9TW": "$69.98"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "2",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Celeron G3920 2.6 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/7GCD4D": "$242.79",
+            "https://pcpartpicker.com/mr/bhphotovideo/7GCD4D": "$206.95"
+        },
+        "part_info": {
+            "Core Clock": "2.6 GHz",
+            "Core Count": "2",
+            "Core Family": "Skylake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Celeron G5900 3.4 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/37gQzy": "$62.88+"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "2",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core 2 Duo E6320 1.86 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9gfp99": "$198.95+"
+        },
+        "part_info": {
+            "Core Clock": "1.86 GHz",
+            "Core Count": "2",
+            "Core Family": "Conroe",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Core",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E6400 2.13 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/m9H323": "$98.95+"
+        },
+        "part_info": {
+            "Core Clock": "2.13 GHz",
+            "Core Count": "2",
+            "Core Family": "Conroe",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Core",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E6420 2.13 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/xwbp99": "$149.94+"
+        },
+        "part_info": {
+            "Core Clock": "2.13 GHz",
+            "Core Count": "2",
+            "Core Family": "Conroe",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Core",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E6700 2.66 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/ZpvRsY": "$204.03"
+        },
+        "part_info": {
+            "Core Clock": "65 W",
+            "Core Count": "2.66 GHz",
+            "Core Family": "LGA775",
+            "Manufacturer": "BX80557E6700",
+            "Microarchitecture": "Conroe",
+            "Socket": "None"
+        }
+    },
+    "Intel Core 2 Duo E6850 3 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/nzrG3C": "$249.95+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "2",
+            "Core Family": "Conroe",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Core",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E7300 2.66 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/wWsKHx": "$11.95"
+        },
+        "part_info": {
+            "Core Clock": "2.66 GHz",
+            "Core Count": "2",
+            "Core Family": "Wolfdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E7500 2.93 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/sTfp99": "$108.95+"
+        },
+        "part_info": {
+            "Core Clock": "2.93 GHz",
+            "Core Count": "2",
+            "Core Family": "Wolfdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E7600 3.06 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/PCQypg": "$129.94+"
+        },
+        "part_info": {
+            "Core Clock": "3.06 GHz",
+            "Core Count": "2",
+            "Core Family": "Wolfdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Duo E8500 3.16 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/FvGkcf": "$89.99"
+        },
+        "part_info": {
+            "Core Clock": "65 W",
+            "Core Count": "3.16 GHz",
+            "Core Family": "LGA775",
+            "Manufacturer": "BX80570E8500",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "None"
+        }
+    },
+    "Intel Core 2 Extreme QX6700 2.66 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qCQypg": "$605.64"
+        },
+        "part_info": {
+            "Core Clock": "2.66 GHz",
+            "Core Count": "4",
+            "Core Family": "Kentsfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Core",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Extreme QX9650 3 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/mbYXsY": "$803.96"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "4",
+            "Core Family": "Yorkfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Yorkfield",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Extreme QX9775 3.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/kxvRsY": "$1495.00+"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Yorkfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Yorkfield",
+            "Socket": "LGA771"
+        }
+    },
+    "Intel Core 2 Extreme X6800 2.93 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/BMH323": "$499.95+"
+        },
+        "part_info": {
+            "Core Clock": "2.93 GHz",
+            "Core Count": "2",
+            "Core Family": "Conroe",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Core",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Quad Q8400 2.66 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/nPkD4D": "$235.34"
+        },
+        "part_info": {
+            "Core Clock": "2.66 GHz",
+            "Core Count": "4",
+            "Core Family": "Yorkfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Yorkfield",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Quad Q9300 2.5 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/MzrG3C": "$75.56"
+        },
+        "part_info": {
+            "Core Clock": "2.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Yorkfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Yorkfield",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Quad Q9300 2.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/GpvRsY": "$167.99"
+        },
+        "part_info": {
+            "Core Clock": "2.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Yorkfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Yorkfield",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core 2 Quad Q9505 2.83 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/Pwbp99": "$255.37"
+        },
+        "part_info": {
+            "Core Clock": "2.83 GHz",
+            "Core Count": "4",
+            "Core Family": "Yorkfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Yorkfield",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Core i3-10100 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/qtqBD3": "$129.99",
+            "https://pcpartpicker.com/mr/amazon/qtqBD3": "$122.00",
+            "https://pcpartpicker.com/mr/bestbuy/qtqBD3": "$114.99",
+            "https://pcpartpicker.com/mr/memoryc/qtqBD3": "$176.21+",
+            "https://pcpartpicker.com/mr/newegg/qtqBD3": "$114.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i3-10100F 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/r8Dkcf": "$115.00+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i3-2120T 2.6 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/pYjG3C": "$133.88+"
+        },
+        "part_info": {
+            "Core Clock": "2.6 GHz",
+            "Core Count": "2",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i3-2125 3.3 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/HtGkcf": "$146.99"
+        },
+        "part_info": {
+            "Core Clock": "3.3 GHz",
+            "Core Count": "2",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i3-3220T 2.8 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/yYsKHx": "$267.93"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "2",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i3-3225 3.3 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/XDYXsY": "$324.99"
+        },
+        "part_info": {
+            "Core Clock": "3.3 GHz",
+            "Core Count": "2",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i3-3245 3.4 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/3wR48d": "$128.86"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "2",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i3-4330 3.5 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qMLypg": "$395.27"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "2",
+            "Core Family": "Haswell",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell",
+            "Socket": "LGA1150"
+        }
+    },
+    "Intel Core i3-7320 4.1 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/HgKhP6": "$275.65"
+        },
+        "part_info": {
+            "Core Clock": "4.1 GHz",
+            "Core Count": "2",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i3-8100 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/YqKhP6": "$182.00+",
+            "https://pcpartpicker.com/mr/bestbuy/YqKhP6": "$119.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i3-8300 3.7 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/2pm323": "$199.46+"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i3-9100 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/NfKcCJ": "$147.97",
+            "https://pcpartpicker.com/mr/memoryc/NfKcCJ": "$194.44+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i3-9100F 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/YTbwrH": "$79.99",
+            "https://pcpartpicker.com/mr/amazon/YTbwrH": "$104.59",
+            "https://pcpartpicker.com/mr/memoryc/YTbwrH": "$200.38+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i3-9350K 4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/FgXYcf": "$215.00"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-10400 2.9 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/X8snTW": "$179.99",
+            "https://pcpartpicker.com/mr/amazon/X8snTW": "$164.99",
+            "https://pcpartpicker.com/mr/bestbuy/X8snTW": "$164.99",
+            "https://pcpartpicker.com/mr/memoryc/X8snTW": "$212.94+",
+            "https://pcpartpicker.com/mr/newegg/X8snTW": "$159.99"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "6",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i5-10400F 2.9 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/vrhmP6": "$181.25",
+            "https://pcpartpicker.com/mr/amazon/vrhmP6": "$149.00",
+            "https://pcpartpicker.com/mr/memoryc/vrhmP6": "$176.21+",
+            "https://pcpartpicker.com/mr/newegg/vrhmP6": "$150.99",
+            "https://pcpartpicker.com/mr/walmart/vrhmP6": "$148.90"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "6",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i5-10500 3.1 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/JKbCmG": "$236.25",
+            "https://pcpartpicker.com/mr/amazon/JKbCmG": "$237.00+",
+            "https://pcpartpicker.com/mr/bhphotovideo/JKbCmG": "$219.99",
+            "https://pcpartpicker.com/mr/memoryc/JKbCmG": "$263.23+",
+            "https://pcpartpicker.com/mr/newegg/JKbCmG": "$219.99"
+        },
+        "part_info": {
+            "Core Clock": "3.1 GHz",
+            "Core Count": "6",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i5-10600 3.3 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/hftKHx": "$235.69",
+            "https://pcpartpicker.com/mr/amazon/hftKHx": "$241.94",
+            "https://pcpartpicker.com/mr/bhphotovideo/hftKHx": "$235.69",
+            "https://pcpartpicker.com/mr/memoryc/hftKHx": "$288.82+",
+            "https://pcpartpicker.com/mr/newegg/hftKHx": "$227.99",
+            "https://pcpartpicker.com/mr/walmart/hftKHx": "$227.99"
+        },
+        "part_info": {
+            "Core Clock": "3.3 GHz",
+            "Core Count": "6",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i5-10600K 4.1 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/HcPgXL": "$279.95",
+            "https://pcpartpicker.com/mr/amazon/HcPgXL": "$227.25",
+            "https://pcpartpicker.com/mr/bestbuy/HcPgXL": "$229.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/HcPgXL": "$227.00",
+            "https://pcpartpicker.com/mr/memoryc/HcPgXL": "$268.16+",
+            "https://pcpartpicker.com/mr/newegg/HcPgXL": "$224.99",
+            "https://pcpartpicker.com/mr/walmart/HcPgXL": "$229.99"
+        },
+        "part_info": {
+            "Core Clock": "4.1 GHz",
+            "Core Count": "6",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i5-10600KF 4.1 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/p6jNnQ": "$277.50",
+            "https://pcpartpicker.com/mr/amazon/p6jNnQ": "$209.96+",
+            "https://pcpartpicker.com/mr/bhphotovideo/p6jNnQ": "$209.99",
+            "https://pcpartpicker.com/mr/newegg/p6jNnQ": "$218.63"
+        },
+        "part_info": {
+            "Core Clock": "4.1 GHz",
+            "Core Count": "6",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i5-3360M 2.8 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/CWMFf7": "$594.15+"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "2",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "PGA988"
+        }
+    },
+    "Intel Core i5-3470 3.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/PBCwrH": "$203.36"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i5-3570K 3.4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/3LZQzy": "$99.95"
+        },
+        "part_info": {
+            "Core Clock": "77 W",
+            "Core Count": "3.4 GHz",
+            "Core Family": "LGA1155",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "Intel HD Graphics 4000"
+        }
+    },
+    "Intel Core i5-4460 3.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/F63RsY": "$150.00"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Haswell Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell Refresh",
+            "Socket": "LGA1150"
+        }
+    },
+    "Intel Core i5-4690K 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/Tvzv6h": "$422.30"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Haswell Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell Refresh",
+            "Socket": "LGA1150"
+        }
+    },
+    "Intel Core i5-6500 3.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/xwhj4D": "$235.00+",
+            "https://pcpartpicker.com/mr/monoprice/xwhj4D": "$189.99"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-660 3.33 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/4csKHx": "$292.45+"
+        },
+        "part_info": {
+            "Core Clock": "3.33 GHz",
+            "Core Count": "2",
+            "Core Family": "Clarkdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Westmere",
+            "Socket": "LGA1156"
+        }
+    },
+    "Intel Core i5-6600K 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/gx648d": "$199.93",
+            "https://pcpartpicker.com/mr/memoryc/gx648d": "$241.12+",
+            "https://pcpartpicker.com/mr/monoprice/gx648d": "$219.99"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-7400 3 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qnM323": "$195.00",
+            "https://pcpartpicker.com/mr/memoryc/qnM323": "$194.65+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-750 2.66 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/D9H323": "$398.00+"
+        },
+        "part_info": {
+            "Core Clock": "2.66 GHz",
+            "Core Count": "4",
+            "Core Family": "Lynnfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Nehalem",
+            "Socket": "LGA1156"
+        }
+    },
+    "Intel Core i5-7600K 3.8 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/dQM323": "$278.98+"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-7640X 4 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9jzZxr": "$234.40"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-X",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA2066"
+        }
+    },
+    "Intel Core i5-8400 2.8 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/LHYWGX": "$219.85",
+            "https://pcpartpicker.com/mr/memoryc/LHYWGX": "$249.20+"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-8500 3 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/FgPKHx": "$314.98"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-8500T 2.1 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/PLw7YJ": "$247.11+"
+        },
+        "part_info": {
+            "Core Clock": "2.1 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-8600K 3.6 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/Mr2rxr": "$223.60",
+            "https://pcpartpicker.com/mr/bhphotovideo/Mr2rxr": "$269.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-9400 2.9 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/V4RzK8": "$172.50",
+            "https://pcpartpicker.com/mr/amazon/V4RzK8": "$168.80",
+            "https://pcpartpicker.com/mr/bestbuy/V4RzK8": "$178.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/V4RzK8": "$178.90",
+            "https://pcpartpicker.com/mr/memoryc/V4RzK8": "$230.28+"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-9400F 2.9 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/T47v6h": "$147.74",
+            "https://pcpartpicker.com/mr/amazon/T47v6h": "$145.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/T47v6h": "$149.99",
+            "https://pcpartpicker.com/mr/memoryc/T47v6h": "$176.04+",
+            "https://pcpartpicker.com/mr/newegg/T47v6h": "$147.98"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-9600K 3.7 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/28qhP6": "$216.99",
+            "https://pcpartpicker.com/mr/amazon/28qhP6": "$213.31",
+            "https://pcpartpicker.com/mr/bestbuy/28qhP6": "$199.99+",
+            "https://pcpartpicker.com/mr/bhphotovideo/28qhP6": "$216.99",
+            "https://pcpartpicker.com/mr/memoryc/28qhP6": "$215.01+",
+            "https://pcpartpicker.com/mr/newegg/28qhP6": "$214.99",
+            "https://pcpartpicker.com/mr/walmart/28qhP6": "$229.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i5-9600KF 3.7 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/MBMwrH": "$199.99",
+            "https://pcpartpicker.com/mr/amazon/MBMwrH": "$194.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/MBMwrH": "$199.99",
+            "https://pcpartpicker.com/mr/memoryc/MBMwrH": "$204.90+",
+            "https://pcpartpicker.com/mr/newegg/MBMwrH": "$194.99",
+            "https://pcpartpicker.com/mr/walmart/MBMwrH": "$199.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-10700 2.9 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/dLK2FT": "$339.99",
+            "https://pcpartpicker.com/mr/amazon/dLK2FT": "$259.99",
+            "https://pcpartpicker.com/mr/bestbuy/dLK2FT": "$259.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/dLK2FT": "$284.99",
+            "https://pcpartpicker.com/mr/memoryc/dLK2FT": "$356.11+",
+            "https://pcpartpicker.com/mr/newegg/dLK2FT": "$288.99",
+            "https://pcpartpicker.com/mr/walmart/dLK2FT": "$281.20"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "8",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i7-10700F 2.9 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/PCvqqs": "$360.00",
+            "https://pcpartpicker.com/mr/amazon/PCvqqs": "$269.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/PCvqqs": "$269.99",
+            "https://pcpartpicker.com/mr/memoryc/PCvqqs": "$346.84+",
+            "https://pcpartpicker.com/mr/newegg/PCvqqs": "$269.99",
+            "https://pcpartpicker.com/mr/walmart/PCvqqs": "$269.99"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "8",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i7-10700K 3.8 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/yhxbt6": "$335.99",
+            "https://pcpartpicker.com/mr/amazon/yhxbt6": "$325.64",
+            "https://pcpartpicker.com/mr/bestbuy/yhxbt6": "$349.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/yhxbt6": "$334.00",
+            "https://pcpartpicker.com/mr/memoryc/yhxbt6": "$411.82+",
+            "https://pcpartpicker.com/mr/newegg/yhxbt6": "$339.99"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "8",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i7-10700KF 3.8 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/sT3mP6": "$349.99",
+            "https://pcpartpicker.com/mr/amazon/sT3mP6": "$349.95",
+            "https://pcpartpicker.com/mr/bhphotovideo/sT3mP6": "$309.99",
+            "https://pcpartpicker.com/mr/memoryc/sT3mP6": "$383.51+",
+            "https://pcpartpicker.com/mr/newegg/sT3mP6": "$309.99",
+            "https://pcpartpicker.com/mr/walmart/sT3mP6": "$328.99"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "8",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i7-2600S 2.8 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/jNMFf7": "$291.76"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i7-3770 3.4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/Vjzv6h": "$200.00+"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "4",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Core i7-3970X Extreme Edition 3.5 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/spCwrH": "$699.95"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "6",
+            "Core Family": "Sandy Bridge-E",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Core i7-4770K 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/yT2kcf": "$299.99+"
+        },
+        "part_info": {
+            "Core Clock": "Haswell",
+            "Core Count": "Haswell",
+            "Core Family": "Yes",
+            "Manufacturer": "84 W",
+            "Microarchitecture": "Boxed",
+            "Socket": "4 x 256 kB"
+        }
+    },
+    "Intel Core i7-6700 3.4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/7V7CmG": "$407.00"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-6700K 4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/tdmxFT": "$304.95",
+            "https://pcpartpicker.com/mr/memoryc/tdmxFT": "$303.99+"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-7700 3.6 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9mRFf7": "$405.00",
+            "https://pcpartpicker.com/mr/monoprice/9mRFf7": "$309.99+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-7700K 4.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/VKx9TW": "$409.99",
+            "https://pcpartpicker.com/mr/monoprice/VKx9TW": "$329.99"
+        },
+        "part_info": {
+            "Core Clock": "4.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-7820X 3.6 GHz 8-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/DbJkcf": "$699.97+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "8",
+            "Core Family": "Skylake-X",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA2066"
+        }
+    },
+    "Intel Core i7-8700 3.2 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/C9hj4D": "$399.00",
+            "https://pcpartpicker.com/mr/amazon/C9hj4D": "$314.99",
+            "https://pcpartpicker.com/mr/newegg/C9hj4D": "$325.99"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-8700K 3.7 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/sxDzK8": "$319.99+",
+            "https://pcpartpicker.com/mr/bhphotovideo/sxDzK8": "$349.99",
+            "https://pcpartpicker.com/mr/memoryc/sxDzK8": "$357.36+",
+            "https://pcpartpicker.com/mr/newegg/sxDzK8": "$399.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-875K 2.93 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/hbYXsY": "$353.97"
+        },
+        "part_info": {
+            "Core Clock": "2.93 GHz",
+            "Core Count": "4",
+            "Core Family": "Lynnfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Nehalem",
+            "Socket": "LGA1156"
+        }
+    },
+    "Intel Core i7-920 2.66 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/pCQypg": "$240.61"
+        },
+        "part_info": {
+            "Core Clock": "2.66 GHz",
+            "Core Count": "4",
+            "Core Family": "Bloomfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Nehalem",
+            "Socket": "LGA1366"
+        }
+    },
+    "Intel Core i7-9700 3 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/L6vbt6": "$299.99",
+            "https://pcpartpicker.com/mr/amazon/L6vbt6": "$269.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/L6vbt6": "$284.99",
+            "https://pcpartpicker.com/mr/memoryc/L6vbt6": "$316.53+",
+            "https://pcpartpicker.com/mr/newegg/L6vbt6": "$272.99"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-9700F 3 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/W4848d": "$269.99",
+            "https://pcpartpicker.com/mr/amazon/W4848d": "$253.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/W4848d": "$269.99",
+            "https://pcpartpicker.com/mr/memoryc/W4848d": "$274.70+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-9700K 3.6 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/WtyV3C": "$379.99",
+            "https://pcpartpicker.com/mr/amazon/WtyV3C": "$289.99",
+            "https://pcpartpicker.com/mr/bestbuy/WtyV3C": "$349.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/WtyV3C": "$317.99",
+            "https://pcpartpicker.com/mr/memoryc/WtyV3C": "$308.82+",
+            "https://pcpartpicker.com/mr/newegg/WtyV3C": "$317.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-9700KF 3.6 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/LhCD4D": "$399.95",
+            "https://pcpartpicker.com/mr/amazon/LhCD4D": "$316.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/LhCD4D": "$316.00",
+            "https://pcpartpicker.com/mr/memoryc/LhCD4D": "$269.49+",
+            "https://pcpartpicker.com/mr/newegg/LhCD4D": "$315.99",
+            "https://pcpartpicker.com/mr/walmart/LhCD4D": "$349.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i7-975 Extreme Edition 3.33 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/8pvRsY": "$553.97"
+        },
+        "part_info": {
+            "Core Clock": "3.33 GHz",
+            "Core Count": "4",
+            "Core Family": "Bloomfield",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Nehalem",
+            "Socket": "LGA1366"
+        }
+    },
+    "Intel Core i7-980 3.333 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/GTkD4D": "$1105.02"
+        },
+        "part_info": {
+            "Core Clock": "3.333 GHz",
+            "Core Count": "6",
+            "Core Family": "Gulftown",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Westmere",
+            "Socket": "LGA1366"
+        }
+    },
+    "Intel Core i9-10850K 3.6 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/nGFKHx": "$429.95",
+            "https://pcpartpicker.com/mr/amazon/nGFKHx": "$409.99",
+            "https://pcpartpicker.com/mr/bestbuy/nGFKHx": "$409.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/nGFKHx": "$409.99",
+            "https://pcpartpicker.com/mr/newegg/nGFKHx": "$409.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "10",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i9-10900 2.8 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/wW7p99": "$449.95",
+            "https://pcpartpicker.com/mr/amazon/wW7p99": "$399.99",
+            "https://pcpartpicker.com/mr/bestbuy/wW7p99": "$421.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/wW7p99": "$399.99",
+            "https://pcpartpicker.com/mr/memoryc/wW7p99": "$500.72+",
+            "https://pcpartpicker.com/mr/newegg/wW7p99": "$384.99"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "10",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i9-10900F 2.8 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/DYtKHx": "$429.95",
+            "https://pcpartpicker.com/mr/amazon/DYtKHx": "$358.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/DYtKHx": "$364.99",
+            "https://pcpartpicker.com/mr/memoryc/DYtKHx": "$485.20+",
+            "https://pcpartpicker.com/mr/newegg/DYtKHx": "$358.99",
+            "https://pcpartpicker.com/mr/walmart/DYtKHx": "$415.99"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "10",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i9-10900K 3.7 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/cwFKHx": "$468.00",
+            "https://pcpartpicker.com/mr/amazon/cwFKHx": "$505.00+",
+            "https://pcpartpicker.com/mr/bestbuy/cwFKHx": "$459.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/cwFKHx": "$459.99",
+            "https://pcpartpicker.com/mr/memoryc/cwFKHx": "$603.23+",
+            "https://pcpartpicker.com/mr/newegg/cwFKHx": "$469.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "10",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i9-10900KF 3.7 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/CT3mP6": "$551.25",
+            "https://pcpartpicker.com/mr/amazon/CT3mP6": "$447.50+",
+            "https://pcpartpicker.com/mr/bhphotovideo/CT3mP6": "$429.99",
+            "https://pcpartpicker.com/mr/newegg/CT3mP6": "$419.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "10",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Core i9-10900X 3.7 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/r4NgXL": "$589.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/r4NgXL": "$589.00",
+            "https://pcpartpicker.com/mr/memoryc/r4NgXL": "$755.87+",
+            "https://pcpartpicker.com/mr/newegg/r4NgXL": "$592.49",
+            "https://pcpartpicker.com/mr/walmart/r4NgXL": "$589.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "10",
+            "Core Family": "Cascade Lake-X",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Cascade Lake",
+            "Socket": "LGA2066"
+        }
+    },
+    "Intel Core i9-10980XE 3 GHz 18-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/bhphotovideo/bmxbt6": "$999.99",
+            "https://pcpartpicker.com/mr/memoryc/bmxbt6": "$1249.28+",
+            "https://pcpartpicker.com/mr/newegg/bmxbt6": "$992.98"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "18",
+            "Core Family": "Cascade Lake-X",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Cascade Lake",
+            "Socket": "LGA2066"
+        }
+    },
+    "Intel Core i9-9900K (Standard Folding Box) 3.6 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/8jdrxr": "$373.99+",
+            "https://pcpartpicker.com/mr/bhphotovideo/8jdrxr": "$397.99",
+            "https://pcpartpicker.com/mr/memoryc/8jdrxr": "$415.68+",
+            "https://pcpartpicker.com/mr/newegg/8jdrxr": "$395.99",
+            "https://pcpartpicker.com/mr/walmart/8jdrxr": "$439.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i9-9900K 3.6 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/jHZFf7": "$399.99",
+            "https://pcpartpicker.com/mr/amazon/jHZFf7": "$389.99+",
+            "https://pcpartpicker.com/mr/bestbuy/jHZFf7": "$439.99",
+            "https://pcpartpicker.com/mr/memoryc/jHZFf7": "$435.98+",
+            "https://pcpartpicker.com/mr/walmart/jHZFf7": "$479.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i9-9900KF 3.6 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/adorama/G7KcCJ": "$389.99",
+            "https://pcpartpicker.com/mr/amazon/G7KcCJ": "$379.99",
+            "https://pcpartpicker.com/mr/bhphotovideo/G7KcCJ": "$379.99",
+            "https://pcpartpicker.com/mr/memoryc/G7KcCJ": "$499.44+",
+            "https://pcpartpicker.com/mr/newegg/G7KcCJ": "$409.99",
+            "https://pcpartpicker.com/mr/walmart/G7KcCJ": "$469.99"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Core i9-9900KS 4 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9mCFf7": "$1965.00"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "8",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Pentium E5400 2.7 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/KjMFf7": "$75.00"
+        },
+        "part_info": {
+            "Core Clock": "2.7 GHz",
+            "Core Count": "2",
+            "Core Family": "Wolfdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Pentium E6300 2.8 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/FjMFf7": "$119.95+"
+        },
+        "part_info": {
+            "Core Clock": "2.8 GHz",
+            "Core Count": "2",
+            "Core Family": "Wolfdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Pentium E6500 2.93 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/rKTmP6": "$95.71+"
+        },
+        "part_info": {
+            "Core Clock": "2.93 GHz",
+            "Core Count": "2",
+            "Core Family": "Wolfdale",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Wolfdale",
+            "Socket": "LGA775"
+        }
+    },
+    "Intel Pentium G4520 3.6 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/j3tWGX": "$265.39"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "2",
+            "Core Family": "Skylake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Pentium G4600 3.6 GHz Dual-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/xJqbt6": "$229.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "2",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Pentium G630T 2.3 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/KPrG3C": "$75.00"
+        },
+        "part_info": {
+            "Core Clock": "2.3 GHz",
+            "Core Count": "2",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Pentium G640T 2.4 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/zVV48d": "$69.88+"
+        },
+        "part_info": {
+            "Core Clock": "2.4 GHz",
+            "Core Count": "2",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Pentium G850 2.9 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/tyn2FT": "$191.97"
+        },
+        "part_info": {
+            "Core Clock": "2.9 GHz",
+            "Core Count": "2",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Pentium G870 3.1 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/PFjG3C": "$77.00+"
+        },
+        "part_info": {
+            "Core Clock": "3.1 GHz",
+            "Core Count": "2",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Pentium Gold G6400 4 GHz Dual-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/FvCFf7": "$64.75",
+            "https://pcpartpicker.com/mr/memoryc/FvCFf7": "$89.67+",
+            "https://pcpartpicker.com/mr/newegg/FvCFf7": "$67.98"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "2",
+            "Core Family": "Comet Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Comet Lake",
+            "Socket": "LGA1200"
+        }
+    },
+    "Intel Xeon E-2124G 3.4 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/ZBKcCJ": "$243.12+"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2136 3.3 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/cw22FT": "$341.56+"
+        },
+        "part_info": {
+            "Core Clock": "3.3 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2144G 3.6 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/CTc48d": "$303.58"
+        },
+        "part_info": {
+            "Core Clock": "3.6 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2146G 3.5 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/nHGnTW": "$344.64"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2174G 3.8 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/G7x2FT": "$396.97"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2176G 3.7 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/DYF48d": "$405.54+"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2176G 3.7 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/rPyV3C": "$394.75",
+            "https://pcpartpicker.com/mr/memoryc/rPyV3C": "$470.90+",
+            "https://pcpartpicker.com/mr/newegg/rPyV3C": "$421.99",
+            "https://pcpartpicker.com/mr/walmart/rPyV3C": "$379.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2274G 4 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/GGPgXL": "$524.73+"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "4",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E-2286G 4 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/D2848d": "$668.79+"
+        },
+        "part_info": {
+            "Core Clock": "4 GHz",
+            "Core Count": "6",
+            "Core Family": "Coffee Lake Refresh",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Coffee Lake Refresh",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1220 3.1 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/j9kD4D": "$179.97"
+        },
+        "part_info": {
+            "Core Clock": "3.1 GHz",
+            "Core Count": "4",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E3-1220 V5 3 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/C3Z2FT": "$239.00+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-H",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1220 V5 3 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/4bhj4D": "$557.00+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-H",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1220 V6 3 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/vFzZxr": "$226.62+"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1225 V2 3.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/rsDwrH": "$247.50+"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E3-1225 V6 3.3 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/XBwqqs": "$238.03",
+            "https://pcpartpicker.com/mr/newegg/XBwqqs": "$230.99"
+        },
+        "part_info": {
+            "Core Clock": "3.3 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1230 3.2 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/q8DwrH": "$417.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.2 GHz",
+            "Core Count": "4",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E3-1230 V6 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/HjtWGX": "$267.99",
+            "https://pcpartpicker.com/mr/memoryc/HjtWGX": "$338.88+",
+            "https://pcpartpicker.com/mr/newegg/HjtWGX": "$266.99"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1240 V6 3.7 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/PDBrxr": "$499.00+"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1240 V6 3.7 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/dWx9TW": "$287.99",
+            "https://pcpartpicker.com/mr/memoryc/dWx9TW": "$368.04+",
+            "https://pcpartpicker.com/mr/newegg/dWx9TW": "$291.99",
+            "https://pcpartpicker.com/mr/walmart/dWx9TW": "$287.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1245 V5 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/BVcMnQ": "$878.51"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Skylake-H",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Skylake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1245 V6 3.7 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/gxX2FT": "$589.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1245 V6 3.7 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/tds8TW": "$322.49+",
+            "https://pcpartpicker.com/mr/newegg/tds8TW": "$301.99"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1270 V6 3.8 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qJYWGX": "$354.75+",
+            "https://pcpartpicker.com/mr/newegg/qJYWGX": "$352.99"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1275 3.4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/CPZQzy": "$749.00+"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "4",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E3-1275 V2 3.5 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/br9KHx": "$749.00"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Ivy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E3-1275 V6 3.8 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/F938TW": "$358.53+"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1275 V6 3.8 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/QncMnQ": "$366.72+",
+            "https://pcpartpicker.com/mr/bhphotovideo/QncMnQ": "$362.59",
+            "https://pcpartpicker.com/mr/newegg/QncMnQ": "$376.47"
+        },
+        "part_info": {
+            "Core Clock": "3.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1151"
+        }
+    },
+    "Intel Xeon E3-1280 3.5 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/bhphotovideo/k37wrH": "$616.26"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Sandy Bridge",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E3-1285 V6 4.1 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/R938TW": "$485.96"
+        },
+        "part_info": {
+            "Core Clock": "4.1 GHz",
+            "Core Count": "4",
+            "Core Family": "Kaby Lake-S",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Kaby Lake",
+            "Socket": "LGA1155"
+        }
+    },
+    "Intel Xeon E5-1620 V4 3.5 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/9t7CmG": "$469.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.5 GHz",
+            "Core Count": "4",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-1660 V2 3.7 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qr9KHx": "$1798.95+",
+            "https://pcpartpicker.com/mr/otherworldcomputing/qr9KHx": "$1129.00"
+        },
+        "part_info": {
+            "Core Clock": "3.7 GHz",
+            "Core Count": "6",
+            "Core Family": "Ivy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-1660 V3 3 GHz 8-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/DjZ2FT": "$404.44"
+        },
+        "part_info": {
+            "Core Clock": "3 GHz",
+            "Core Count": "8",
+            "Core Family": "Haswell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2603 V2 1.8 GHz Quad-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/M72kcf": "$441.12+"
+        },
+        "part_info": {
+            "Core Clock": "1.8 GHz",
+            "Core Count": "4",
+            "Core Family": "Ivy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-2609 2.4 GHz Quad-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/hL3RsY": "$143.60"
+        },
+        "part_info": {
+            "Core Clock": "2.4 GHz",
+            "Core Count": "4",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-2609 V4 1.7 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/pfvZxr": "$246.63+"
+        },
+        "part_info": {
+            "Core Clock": "1.7 GHz",
+            "Core Count": "8",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2620 2 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/2M9KHx": "$391.59"
+        },
+        "part_info": {
+            "Core Clock": "2 GHz",
+            "Core Count": "6",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-2630 V3 2.4 GHz 8-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/JZx9TW": "$675.00+"
+        },
+        "part_info": {
+            "Core Clock": "2.4 GHz",
+            "Core Count": "8",
+            "Core Family": "Haswell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2640 2.5 GHz 6-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/xKvRsY": "$149.94+"
+        },
+        "part_info": {
+            "Core Clock": "2.5 GHz",
+            "Core Count": "6",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-2640 V4 2.4 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/J6rcCJ": "$998.95+",
+            "https://pcpartpicker.com/mr/memoryc/J6rcCJ": "$1281.72+"
+        },
+        "part_info": {
+            "Core Clock": "2.4 GHz",
+            "Core Count": "10",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2643 V3 3.4 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/h8Trxr": "$2499.94+"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "6",
+            "Core Family": "Haswell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2643 V4 3.4 GHz 6-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/hVwqqs": "$865.00",
+            "https://pcpartpicker.com/mr/bhphotovideo/hVwqqs": "$1812.50"
+        },
+        "part_info": {
+            "Core Clock": "3.4 GHz",
+            "Core Count": "6",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2650 2 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/837wrH": "$57.00"
+        },
+        "part_info": {
+            "Core Clock": "2 GHz",
+            "Core Count": "8",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-2650L V4 1.7 GHz 14-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/MLs8TW": "$1499.00+"
+        },
+        "part_info": {
+            "Core Clock": "1.7 GHz",
+            "Core Count": "14",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2660 V4 2 GHz 14-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/6k98TW": "$1470.06"
+        },
+        "part_info": {
+            "Core Clock": "2 GHz",
+            "Core Count": "14",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2665 2.4 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/QvXfrH": "$489.95+"
+        },
+        "part_info": {
+            "Core Clock": "2.4 GHz",
+            "Core Count": "8",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-2683 V4 2.1 GHz 16-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/B2mxFT": "$2195.00+"
+        },
+        "part_info": {
+            "Core Clock": "2.1 GHz",
+            "Core Count": "16",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2687W V3 3.1 GHz 10-Core OEM/Tray Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/qgX2FT": "$2998.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.1 GHz",
+            "Core Count": "10",
+            "Core Family": "Haswell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2687W V3 3.1 GHz 10-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/TMnG3C": "$2998.95+"
+        },
+        "part_info": {
+            "Core Clock": "3.1 GHz",
+            "Core Count": "10",
+            "Core Family": "Haswell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Haswell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2690 V4 2.6 GHz 14-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/fNcMnQ": "$7376.35"
+        },
+        "part_info": {
+            "Core Clock": "2.6 GHz",
+            "Core Count": "14",
+            "Core Family": "Broadwell-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Broadwell",
+            "Socket": "LGA2011-3"
+        }
+    },
+    "Intel Xeon E5-2695 V2 2.4 GHz 12-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/tQtCmG": "$453.52+"
+        },
+        "part_info": {
+            "Core Clock": "2.4 GHz",
+            "Core Count": "12",
+            "Core Family": "Ivy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Ivy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-4620 2.2 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/bhphotovideo/xdZQzy": "$1599.99"
+        },
+        "part_info": {
+            "Core Clock": "2.2 GHz",
+            "Core Count": "8",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    },
+    "Intel Xeon E5-4650 2.7 GHz 8-Core Processor": {
+        "buying_info": {
+            "https://pcpartpicker.com/mr/amazon/w2JwrH": "$948.90+",
+            "https://pcpartpicker.com/mr/bhphotovideo/w2JwrH": "$4229.00"
+        },
+        "part_info": {
+            "Core Clock": "2.7 GHz",
+            "Core Count": "8",
+            "Core Family": "Sandy Bridge-EP",
+            "Manufacturer": "Intel",
+            "Microarchitecture": "Sandy Bridge",
+            "Socket": "LGA2011"
+        }
+    }
+}
