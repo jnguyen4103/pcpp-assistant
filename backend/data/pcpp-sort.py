@@ -35,12 +35,12 @@ for part in all_parts:
   buy_links= []
   price = []
   for item in all_parts[part]:
-    if (not pandas.isnull(item['info-labels'])):
-      info_labels.append(item['info-labels'])
+    if (not pandas.isnull(item['info-lable'])):
+      info_labels.append(item['info-lable'])
     elif (not pandas.isnull(item['info'])):
       info.append(item['info'])
-    elif (not pandas.isnull(item['buy-links-href'])):
-      buy_links.append(item['buy-links-href'])
+    elif (not pandas.isnull(item['buylink-href'])):
+      buy_links.append(item['buylink-href'])
     elif (not pandas.isnull(item['price'])):
       price.append(item['price'])
     
@@ -57,11 +57,11 @@ for part in all_parts:
   buying_info = dict(zip(buy_links, price))
 
  # if(len(info_labels) != 0 and info_labels is not None and (len(info_labels) == len(info))):
-if(len(info_labels) != 0 and info_labels is not None):
+  if(len(info_labels) != 0 and info_labels is not None):
     print(len(info_labels))
     print(len(info), '\n')
     result[part] = {'part_info': info_dict, 'buying_info': buying_info, 'image_link': item['image-src']}
 
-with open('./cpu_data2.json', 'w') as outfile:
+with open('./power_supply_data.json', 'w') as outfile:
    json.dump(result, outfile, indent=4, sort_keys=True)
   
