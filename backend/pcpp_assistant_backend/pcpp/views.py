@@ -4,6 +4,8 @@ from .serializers import HardwearSerializer
 from rest_framework.response import Response
 from django.http import HttpResponse
 import json
+from django.db.models import Avg, Max, Min, Sum
+from django.core import serializers
 from .models import Price, CPU, Case, GPU, Memory, Motherboard, power
 
 # Create your views here.
@@ -11,7 +13,37 @@ from .models import Price, CPU, Case, GPU, Memory, Motherboard, power
 class HardwareView(views.APIView):
 
     def get(self, request):
-        return HttpResponse("hello")
+        # Testing finding the min price
+        # price = GPU.objects.all().aggregate(Min('minPrice'))
+        # g = GPU.objects.filter(minPrice__exact = price["minPrice__min"])
+        # gpus = serializers.serialize('json', g)
+
+        hardType = request.query_params["hard"]
+        min_hard = process_num(request.query_params["min"])
+        max_hard = process_num(request.query_params["max"])
+
+        product = {}
+        product["error"] = "was unable to find a product in the price range"
+        if hardType.lower() == "cpu":
+            product = CPU.objects.filter(minPrice__range = (min_hard, max_hard))
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "case":
+            product = Case.objects.filter(minPrice__range = (min_hard, max_hard))
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "gpu":
+            product = GPU.objects.filter(minPrice__range = (min_hard, max_hard))
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "memory":
+            product = Memory.objects.filter(minPrice__range = (min_hard, max_hard))
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "motherboard":
+            product = Motherboard.objects.filter(minPrice__range = (min_hard, max_hard))
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "power":
+            product = power.objects.filter(minPrice__range = (min_hard, max_hard))
+            product = serializers.serialize('json', product)
+
+        return HttpResponse(product, content_type="text/json-comment-filtered")
 
 
 class SeedData(views.APIView):
@@ -57,7 +89,7 @@ def min_price(p):
 
     return minp
 
-def process_num(num, split_string):
+def process_num(num, split_string = ""):
     try:
         if num == None:
             return num
