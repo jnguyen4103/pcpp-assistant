@@ -17,8 +17,29 @@ class HardwareView(views.APIView):
 class SeedData(views.APIView):
 
     def get(self, request):
+        #Power
         clean_database(power)
-        seedPower()
+        print(seedPower())
+        
+        #motherboard
+        clean_database(Motherboard)
+        print(seedMboard())
+
+        #memory
+        clean_database(Memory)
+        print(seedMemory())
+
+        #gpu
+        clean_database(GPU)
+        print(seedGPU())
+
+        #case
+        clean_database(Case)
+        print(seedCase())
+
+        #cpu
+        clean_database(CPU)
+        print(seedCPU())
 
         return HttpResponse("hello")
 
@@ -52,7 +73,6 @@ def process_field(info, field):
 def seedCPU():
     f = open(r'../../backend/data/good_data/cpu_data.json',)
     data = json.load(f)
-    print(type(data))
     for name, info in data.items():
         price = info["buying_info"]
         part_info = info["part_info"]
@@ -66,18 +86,17 @@ def seedCPU():
                 socket=process_field(part_info, ""))
         c.save()
 
-        if len(price.items()) != 0:
-            for link, p in price.items():
-                cost = float(p.strip("$").strip("+"))
-                p = Price(price=cost, link=link, item=c)
-                p.save()
+        # if len(price.items()) != 0:
+        #     for link, p in price.items():
+        #         cost = float(p.strip("$").strip("+"))
+        #         p = Price(price=cost, link=link, item=c)
+        #         p.save()
     return "Seeded CPU"
 
 
 def seedCase():
     f = open(r'../../backend/data/good_data/case_data.json',)
     data = json.load(f)
-    print(type(data))
     for name, info in data.items():
         price = info["buying_info"]
         part_info = info["part_info"]
@@ -103,17 +122,16 @@ def seedCase():
             Volume=process_field(part_info, "Volume"))
         c.save()
 
-        if len(price.items()) != 0:
-            for link, p in price.items():
-                cost = float(p.strip("$").strip("+"))
-                p = Price(price=cost, link=link, item=c)
-                p.save()
+        # if len(price.items()) != 0:
+        #     for link, p in price.items():
+        #         cost = float(p.strip("$").strip("+"))
+        #         p = Price(price=cost, link=link, item=c)
+        #         p.save()
     return "Seeded CASE"
 
 def seedGPU():
     f = open(r'../../backend/data/good_data/gpu_data.json',)
     data = json.load(f)
-    print(type(data))
     for name, info in data.items():
         price = info["buying_info"]
         part_info = info["part_info"]
@@ -145,17 +163,16 @@ def seedGPU():
             VGA = process_field(part_info, "VGA"))
         c.save()
 
-        if len(price.items()) != 0:
-            for link, p in price.items():
-                cost = float(p.strip("$").strip("+"))
-                p = Price(price=cost, link=link, item=c)
-                p.save()
+        # if len(price.items()) != 0:
+        #     for link, p in price.items():
+        #         cost = float(p.strip("$").strip("+"))
+        #         p = Price(price=cost, link=link, item=c)
+        #         p.save()
     return "Seeded GPU"
 
 def seedMemory():
     f = open(r'../../backend/data/good_data/memory_data.json',)
     data = json.load(f)
-    print(type(data))
     for name, info in data.items():
         price = info["buying_info"]
         part_info = info["part_info"]
@@ -174,18 +191,17 @@ def seedMemory():
                 Voltage = process_field(part_info, "Voltage"))
         c.save()
 
-        if len(price.items()) != 0:
-            for link, p in price.items():
-                cost = float(p.strip("$").strip("+"))
-                p = Price(price=cost, link=link, item=c)
-                p.save()
-    return "Seeded memory"
+        # if len(price.items()) != 0:
+        #     for link, p in price.items():
+        #         cost = float(p.strip("$").strip("+"))
+        #         p = Price(price=cost, link=link, item=c)
+        #         p.save()
+    return "Seeded Memory"
 
 
 def seedMboard():
     f = open(r'../../backend/data/good_data/motherboard_data.json',)
     data = json.load(f)
-    print(type(data))
     for name, info in data.items():
         price = info["buying_info"]
         part_info = info["part_info"]
@@ -222,17 +238,16 @@ def seedMboard():
             mSATA_Slots = process_num(process_field(part_info, "mSATA Slots"), ""))
         c.save()
 
-        if len(price.items()) != 0:
-            for link, p in price.items():
-                cost = float(p.strip("$").strip("+"))
-                p = Price(price=cost, link=link, item=c)
-                p.save()
+        # if len(price.items()) != 0:
+        #     for link, p in price.items():
+        #         cost = float(p.strip("$").strip("+"))
+        #         p = Price(price=cost, link=link, item=c)
+        #         p.save()
     return "Seeded M Board"
 
 def seedPower():
     f = open(r'../../backend/data/good_data/power_supply_data.json',)
     data = json.load(f)
-    print(type(data))
     for name, info in data.items():
         price = info["buying_info"]
         part_info = info["part_info"]
@@ -261,4 +276,4 @@ def seedPower():
         #         cost = float(p.strip("$").strip("+"))
         #         p = Price(price=cost, link=link, item=c)
         #         p.save()
-    return "Seeded power"
+    return "Seeded Power"
