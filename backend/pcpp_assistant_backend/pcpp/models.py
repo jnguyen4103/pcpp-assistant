@@ -10,10 +10,10 @@ class CPU(models.Model):
 
     coreClock = models.FloatField(null = True)
     coreCount = models.IntegerField(null = True)
-    coreFamily = models.CharField(max_length=128)
-    manufacturer = models.CharField(max_length=128)
-    microarchitecture = models.CharField(max_length=128)
-    socket = models.CharField(max_length=64)
+    coreFamily = models.CharField(max_length=128, null=True)
+    manufacturer = models.CharField(max_length=128, null=True)
+    microarchitecture = models.CharField(max_length=128, null=True)
+    socket = models.CharField(max_length=64, null=True)
 
     def __str__(self):
         return self.name

@@ -38,8 +38,8 @@ class SeedData(views.APIView):
         print(seedCase())
 
         #cpu
-        # clean_database(CPU)
-        # print(seedCPU())
+        clean_database(CPU)
+        print(seedCPU())
 
         return HttpResponse("hello")
 
