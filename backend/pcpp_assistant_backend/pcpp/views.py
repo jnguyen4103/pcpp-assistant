@@ -58,10 +58,14 @@ def min_price(p):
     return minp
 
 def process_num(num, split_string):
-    if num == None:
-        return num
-    else:
-        return float(num.strip(split_string))
+    try:
+        if num == None:
+            return num
+        else:
+            return float(num.strip(split_string))
+    except Exception:
+        print(f"this ({num}) wasn't a number: split {split_string}")
+
 
 def process_field(info, field):
     if field in info:
