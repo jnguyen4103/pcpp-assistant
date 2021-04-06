@@ -6,7 +6,7 @@ from django.db import models
 class CPU(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)   
-    minPrice = models.DecimalField(decimal_places=2, max_digits=10)
+    minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
 
     coreClock = models.FloatField(null = True)
     coreCount = models.IntegerField(null = True)
@@ -22,7 +22,7 @@ class CPU(models.Model):
 class Case(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
-    minPrice = models.DecimalField(decimal_places=2, max_digits=10)
+    minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
 
     Color = models.TextField(null = True)
     Dimensions = models.TextField(null = True)
@@ -50,7 +50,7 @@ class Case(models.Model):
 class GPU(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
-    minPrice = models.DecimalField(decimal_places=2, max_digits=10)
+    minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
 
     Boost_Clock = models.FloatField(null = True)
     Chipset = models.TextField(null = True)
@@ -83,7 +83,7 @@ class GPU(models.Model):
 class Memory(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)   
-    minPrice = models.DecimalField(decimal_places=2, max_digits=10)
+    minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
 
     CAS_Latency = models.IntegerField(null = True)
     Color = models.TextField(null = True)
@@ -104,7 +104,7 @@ class Memory(models.Model):
 class Motherboard(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
-    minPrice = models.DecimalField(decimal_places=2, max_digits=10)
+    minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
 
     Chipset = models.TextField(null = True)
     Color = models.TextField(null = True)

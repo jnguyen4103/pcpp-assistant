@@ -18,16 +18,16 @@ class SeedData(views.APIView):
 
     def get(self, request):
         #Power
-        clean_database(power)
-        print(seedPower())
+        # clean_database(power)
+        # print(seedPower())
         
         #motherboard
-        clean_database(Motherboard)
-        print(seedMboard())
+        # clean_database(Motherboard)
+        # print(seedMboard())
 
         #memory
-        clean_database(Memory)
-        print(seedMemory())
+        # clean_database(Memory)
+        # print(seedMemory())
 
         #gpu
         clean_database(GPU)
@@ -38,8 +38,8 @@ class SeedData(views.APIView):
         print(seedCase())
 
         #cpu
-        clean_database(CPU)
-        print(seedCPU())
+        # clean_database(CPU)
+        # print(seedCPU())
 
         return HttpResponse("hello")
 
@@ -154,7 +154,7 @@ def seedGPU():
             Interface = process_field(part_info, "Interface"),
             Length = process_field(part_info, "Length"),
             Manufacturer = process_field(part_info, "Manufacturer"),
-            Memory = process_num(process_field(part_info, "Memory"), ""),
+            Memory = process_num(process_field(part_info, "Memory"), "GB"),
             Memory_Type = process_field(part_info, "Memory Type"),
             Mini_DisplayPort_Ports = process_field(part_info, "Mini-DisplayPort Ports"),
             Mini_HDMI_Ports = process_field(part_info, "Mini-HDMI Ports"),
