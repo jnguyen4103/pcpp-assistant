@@ -17,9 +17,13 @@ class HardwareView(views.APIView):
 class SeedData(views.APIView):
 
     def get(self, request):
-        seedCPU()
+        clean_database(power)
+        seedPower()
 
         return HttpResponse("hello")
+
+def clean_database(data_type):
+    data_type.objects.all().delete()
 
 def min_price(p):
     minp = None
@@ -33,10 +37,13 @@ def min_price(p):
     return minp
 
 def process_num(num, split_string):
-    return float(num.strip(split_string))
+    if num == None:
+        return num
+    else:
+        return float(num.strip(split_string))
 
 def process_field(info, field):
-    if info.has_key(field):
+    if field in info:
         return info[field]
     else:
         return None
@@ -223,7 +230,7 @@ def seedMboard():
     return "Seeded M Board"
 
 def seedPower():
-    f = open(r'../../backend/data/good_data/memory_data.json',)
+    f = open(r'../../backend/data/good_data/power_supply_data.json',)
     data = json.load(f)
     print(type(data))
     for name, info in data.items():
@@ -249,9 +256,9 @@ def seedPower():
                 Wattage = process_num(process_field(part_info, "Wattage"), "W"))
         c.save()
 
-        if len(price.items()) != 0:
-            for link, p in price.items():
-                cost = float(p.strip("$").strip("+"))
-                p = Price(price=cost, link=link, item=c)
-                p.save()
+        # if len(price.items()) != 0:
+        #     for link, p in price.items():
+        #         cost = float(p.strip("$").strip("+"))
+        #         p = Price(price=cost, link=link, item=c)
+        #         p.save()
     return "Seeded power"
