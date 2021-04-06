@@ -1,6 +1,10 @@
 from django.contrib import admin
-from .models import CPU, power
+from .models import Price, CPU, Case, GPU, Memory, Motherboard, power
 
 # Register your models here.
-admin.site.register(CPU)
 admin.site.register(power)
+admin.site.register(Motherboard)
+admin.site.register(Memory)
+admin.site.register(GPU)
+admin.site.register(Case)
+admin.site.register(CPU)
