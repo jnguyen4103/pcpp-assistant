@@ -6,7 +6,7 @@ from django.http import HttpResponse
 import json
 from django.db.models import Avg, Max, Min, Sum
 from django.core import serializers
-from .models import Price, CPU, Case, GPU, Memory, Motherboard, power
+from .models import Price, CPU, Case, GPU, Memory, Motherboard, power, PriceLink
 
 # Create your views here.
 
@@ -49,19 +49,23 @@ class HardwareView(views.APIView):
 class SeedData(views.APIView):
 
     def get(self, request):
+        #clean priceing
+        clean_database(Price)
+        clean_database(PriceLink)
+
         #Power
-        # clean_database(power)
-        # print(seedPower())
+        clean_database(power)
+        print(seedPower())
         
         #motherboard
-        # clean_database(Motherboard)
-        # print(seedMboard())
+        clean_database(Motherboard)
+        print(seedMboard())
 
         #memory
-        # clean_database(Memory)
-        # print(seedMemory())
+        clean_database(Memory)
+        print(seedMemory())
 
-        #gpu
+        #gpuz
         clean_database(GPU)
         print(seedGPU())
 
@@ -74,6 +78,42 @@ class SeedData(views.APIView):
         print(seedCPU())
 
         return HttpResponse("hello")
+
+class Pricing(views.APIView):
+
+    def get(self, request):
+        
+        hardType = request.query_params["hard"]
+        key = process_num(request.query_params["key"])
+
+        prices = {}
+        prices["error"] = "was unable to find a price for that product"
+        if hardType.lower() == "cpu":
+            product = CPU.objects.get(id=key)
+            prices = Price.objects.filter(priceLink__exact = product.priceLink)
+            prices = serializers.serialize('json', prices)
+        elif hardType.lower() == "case":
+            product = Case.objects.get(id=key)
+            prices = Price.objects.filter(priceLink__exact = product.priceLink)
+            prices = serializers.serialize('json', prices)
+        elif hardType.lower() == "gpu":
+            product = GPU.objects.get(id=key)
+            prices = Price.objects.filter(priceLink__exact = product.priceLink)
+            prices = serializers.serialize('json', prices)
+        elif hardType.lower() == "memory":
+            product = Memory.objects.get(id=key)
+            prices = Price.objects.filter(priceLink__exact = product.priceLink)
+            prices = serializers.serialize('json', prices)
+        elif hardType.lower() == "motherboard":
+            product = Motherboard.objects.get(id=key)
+            prices = Price.objects.filter(priceLink__exact = product.priceLink)
+            prices = serializers.serialize('json', prices)
+        elif hardType.lower() == "power":
+            product = power.objects.get(id=key)
+            prices = Price.objects.filter(priceLink__exact = product.priceLink)
+            prices = serializers.serialize('json', prices)
+
+        return HttpResponse(prices, content_type="text/json-comment-filtered")
 
 def clean_database(data_type):
     data_type.objects.all().delete()
@@ -114,19 +154,23 @@ def seedCPU():
         part_info = info["part_info"]
 
         c = CPU(name=name, image="missing", minPrice=min_price(price),
-                coreClock=process_num(process_field(part_info, ""), "GHz"), 
-                coreCount=process_num(process_field(part_info, ""), ""),
-                coreFamily=process_field(part_info, ""),
-                manufacturer=process_field(part_info, ""),
-                microarchitecture=process_field(part_info, ""),
-                socket=process_field(part_info, ""))
+                coreClock=process_num(process_field(part_info, "Core Clock"), "GHz"), 
+                coreCount=process_num(process_field(part_info, "Core Count"), ""),
+                coreFamily=process_field(part_info, "Core Family"),
+                manufacturer=process_field(part_info, "Manufacturer"),
+                microarchitecture=process_field(part_info, "Microarchitecture"),
+                socket=process_field(part_info, "Socket"))
         c.save()
 
-        # if len(price.items()) != 0:
-        #     for link, p in price.items():
-        #         cost = float(p.strip("$").strip("+"))
-        #         p = Price(price=cost, link=link, item=c)
-        #         p.save()
+        if len(price.items()) != 0:
+            lin = PriceLink(lin="")
+            lin.save()
+            c.priceLink = lin
+            c.save()
+            for link, p in price.items():
+                cost = float(p.strip("$").strip("+"))                
+                p = Price(price=cost, link=link, priceLink=lin)
+                p.save()
     return "Seeded CPU"
 
 
@@ -158,11 +202,15 @@ def seedCase():
             Volume=process_field(part_info, "Volume"))
         c.save()
 
-        # if len(price.items()) != 0:
-        #     for link, p in price.items():
-        #         cost = float(p.strip("$").strip("+"))
-        #         p = Price(price=cost, link=link, item=c)
-        #         p.save()
+        if len(price.items()) != 0:
+            lin = PriceLink(lin="")
+            lin.save()
+            c.priceLink = lin
+            c.save()
+            for link, p in price.items():
+                cost = float(p.strip("$").strip("+"))                
+                p = Price(price=cost, link=link, priceLink=lin)
+                p.save()
     return "Seeded CASE"
 
 def seedGPU():
@@ -199,11 +247,15 @@ def seedGPU():
             VGA = process_field(part_info, "VGA"))
         c.save()
 
-        # if len(price.items()) != 0:
-        #     for link, p in price.items():
-        #         cost = float(p.strip("$").strip("+"))
-        #         p = Price(price=cost, link=link, item=c)
-        #         p.save()
+        if len(price.items()) != 0:
+            lin = PriceLink(lin="")
+            lin.save()
+            c.priceLink = lin
+            c.save()
+            for link, p in price.items():
+                cost = float(p.strip("$").strip("+"))                
+                p = Price(price=cost, link=link, priceLink=lin)
+                p.save()
     return "Seeded GPU"
 
 def seedMemory():
@@ -227,11 +279,15 @@ def seedMemory():
                 Voltage = process_field(part_info, "Voltage"))
         c.save()
 
-        # if len(price.items()) != 0:
-        #     for link, p in price.items():
-        #         cost = float(p.strip("$").strip("+"))
-        #         p = Price(price=cost, link=link, item=c)
-        #         p.save()
+        if len(price.items()) != 0:
+            lin = PriceLink(lin="")
+            lin.save()
+            c.priceLink = lin
+            c.save()
+            for link, p in price.items():
+                cost = float(p.strip("$").strip("+"))                
+                p = Price(price=cost, link=link, priceLink=lin)
+                p.save()
     return "Seeded Memory"
 
 
@@ -274,11 +330,15 @@ def seedMboard():
             mSATA_Slots = process_num(process_field(part_info, "mSATA Slots"), ""))
         c.save()
 
-        # if len(price.items()) != 0:
-        #     for link, p in price.items():
-        #         cost = float(p.strip("$").strip("+"))
-        #         p = Price(price=cost, link=link, item=c)
-        #         p.save()
+        if len(price.items()) != 0:
+            lin = PriceLink(lin="")
+            lin.save()
+            c.priceLink = lin
+            c.save()
+            for link, p in price.items():
+                cost = float(p.strip("$").strip("+"))                
+                p = Price(price=cost, link=link, priceLink=lin)
+                p.save()
     return "Seeded M Board"
 
 def seedPower():
@@ -307,9 +367,13 @@ def seedPower():
                 Wattage = process_num(process_field(part_info, "Wattage"), "W"))
         c.save()
 
-        # if len(price.items()) != 0:
-        #     for link, p in price.items():
-        #         cost = float(p.strip("$").strip("+"))
-        #         p = Price(price=cost, link=link, item=c)
-        #         p.save()
+        if len(price.items()) != 0:
+            lin = PriceLink(lin="")
+            lin.save()
+            c.priceLink = lin
+            c.save()
+            for link, p in price.items():
+                cost = float(p.strip("$").strip("+"))                
+                p = Price(price=cost, link=link, priceLink=lin)
+                p.save()
     return "Seeded Power"

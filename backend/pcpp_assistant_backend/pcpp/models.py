@@ -2,11 +2,23 @@ from django.db import models
 
 # Create your models here.
 
+class PriceLink(models.Model):
+    lin = models.TextField(null = True)
+    
+
+class Price(models.Model):
+    price = models.DecimalField(decimal_places=2, max_digits=10)
+    link = models.TextField(null = True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
+
+    def __str__(self):
+        return str(self.price)
 
 class CPU(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)   
     minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
 
     coreClock = models.FloatField(null = True)
     coreCount = models.IntegerField(null = True)
@@ -23,6 +35,7 @@ class Case(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
     minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
 
     Color = models.TextField(null = True)
     Dimensions = models.TextField(null = True)
@@ -51,6 +64,7 @@ class GPU(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
     minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
 
     Boost_Clock = models.FloatField(null = True)
     Chipset = models.TextField(null = True)
@@ -84,6 +98,7 @@ class Memory(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)   
     minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
 
     CAS_Latency = models.IntegerField(null = True)
     Color = models.TextField(null = True)
@@ -105,6 +120,7 @@ class Motherboard(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
     minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
 
     Chipset = models.TextField(null = True)
     Color = models.TextField(null = True)
@@ -143,6 +159,7 @@ class power(models.Model):
     name = models.CharField(max_length=256)
     image = models.TextField(null = True)
     minPrice = models.DecimalField(decimal_places=2, max_digits=10, null=True)
+    priceLink = models.ForeignKey(PriceLink, on_delete=models.CASCADE, null = True)
 
     Color = models.TextField(null = True)
     EPS_Connectors = models.IntegerField(null=True)
@@ -164,12 +181,6 @@ class power(models.Model):
     def __str__(self):
         return self.name
 
-class Price(models.Model):
-    price = models.DecimalField(decimal_places=2, max_digits=10)
-    link = models.TextField(null = True)
-    item = models.ForeignKey(CPU, on_delete=models.CASCADE)
 
-    def __str__(self):
-        return str(self.price)
 
 
