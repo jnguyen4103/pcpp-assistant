@@ -32,6 +32,7 @@
 {"game":"Aquanox Deep Descent","intelCpu":"Core i5-6600K 3.5GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"0BJSScxe4sTdRxhz"}
 {"game":"Kick Ass Commandos","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"0BJYke2J38RUv3SL"}
 {"game":"Prey (2017)","intelCpu":"Core i7-2600K 4-Core 3.40GHz","amdCpu":"FX-8320","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"16 GB","_id":"0Bm0ayN6bgAYgw15"}
+{"game":"Hunting Simulator","intelCpu":"Core i5-3470 3.2GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 470 4GB","memory":"4 GB","_id":"0CH6LVZDSsNvD0zB"}
 {"game":"Batman: Arkham Origins - Initiation","intelCpu":"Core i5-750 2.66GHz","amdCpu":"Phenom II X4 965","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 6950","memory":"4 GB","_id":"0CZlVjtILSWDRVqu"}
 {"game":"Remind","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"0CgtzPo8qdA9usy7"}
 {"game":"Paw Paw Paw","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon II X2 280","nvidiaGpu":"GeForce GT 710","amdGpu":"Radeon HD 7470","memory":"2 GB","_id":"0CiXUmDW9B8anvHj"}
@@ -227,6 +228,7 @@
 {"game":"Dust: An Elysian Tail","intelCpu":"Core 2 Duo E7400 2.80GHz","amdCpu":"Athlon 64 X2 Dual Core 5600+","nvidiaGpu":"GeForce 9800 GT","amdGpu":"Radeon HD 5670 1024MB","memory":"2 GB","_id":"1WNo8YzBUOI7bgOA"}
 {"game":"Formula Fusion","intelCpu":"Core i5-4690 3.5GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"16 GB","_id":"1WdFPYnHH7TXvKz3"}
 {"game":"Hexodius","intelCpu":"Core 2 Duo E7600 3.06GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 6670","memory":"2 GB","_id":"1WqEuA9nqqREOZMu"}
+{"game":"Dorfromantik","intelCpu":"Pentium G645T 2.5GHz","amdCpu":"Phenom II X3 700e","nvidiaGpu":"GeForce GT 640","amdGpu":"Radeon HD 7670","memory":"4 GB","_id":"1WwJTa3rHYMigRWz"}
 {"game":"Blitz","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"1WzG4FANk6jsLRRF"}
 {"game":"Airstrife: Assault of the Aviators","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 B40","nvidiaGpu":"GeForce 8800 GTS 512MB","amdGpu":"Radeon HD 5750 1024MB","memory":"2 GB","_id":"1XCRsvyprHYXUfZI"}
 {"game":"Titan Quest Anniversary Edition","intelCpu":"Core 2 Duo E6850 3.0GHz","amdCpu":"Athlon II X3 450","nvidiaGpu":"GeForce 8600 GTS 256MB","amdGpu":"Radeon X1950 XTX","memory":"1 GB","_id":"1XeAFlStJt25mmEo"}
@@ -392,12 +394,14 @@
 {"game":"Delores: A Thimbleweed Park Mini-Adventure","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"4 GB","_id":"2m7ObP5BM1mf88eu"}
 {"game":"Cobalt Order: Ameliorant","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"2nFVblPyWn9mGvpF"}
 {"game":"Redeemer","intelCpu":"Core i7-4770K 4-Core 3.5GHz","amdCpu":"FX-9370","nvidiaGpu":"GeForce GTX 780","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"2nMU39L2r2sRVJyN"}
+{"game":"Long Live Caesar","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"4 GB","_id":"2nsagJHZHERfuszp"}
 {"game":"Sonic Mania","intelCpu":"Core 2 Duo E4600 2.4GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce 8800 GT","amdGpu":"Radeon HD 3800 series","memory":"2 GB","_id":"2oMgBcNlMqwYiZXl"}
 {"game":"Bleeding Edge","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"2olZvw3CN4rj3tCw"}
 {"game":"Doom 4","intelCpu":"Core i7-3770 4-Core 3.4GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"2oqvKs7QIbDkexZk"}
 {"game":"Battle Sheep!","intelCpu":"Pentium 4 2.0GHz","amdCpu":"Athlon XP 2000+","nvidiaGpu":"GeForce 6600","amdGpu":"Radeon X300 Series","memory":"1 GB","_id":"2p8aiYIrKlZhqFrU"}
 {"game":"Danganronpa 2: Goodbye Despair","intelCpu":"Core i5-3470 3.2GHz","amdCpu":"FX-8300","nvidiaGpu":"GeForce GT 740","amdGpu":"Radeon R7 240 v2 1GB","memory":"4 GB","_id":"2pAeFPzftmv1TuZq"}
 {"game":"Dead Island Bloodbath Arena DLC","intelCpu":"Core 2 Duo E6600 2.4GHz","amdCpu":"Athlon 64 X2 Dual Core 6000+","nvidiaGpu":"GeForce GT 220","amdGpu":"Radeon X800 Pro","memory":"3 GB","_id":"2pCeiB4M69uw7hEL"}
+{"game":"Black Legend","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R5 1600X","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"GeForce GTX 480","memory":"8 GB","_id":"2pg2uibDPfYBVNwj"}
 {"game":"Far Cry 5","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R7 1700X","nvidiaGpu":"GeForce GTX 1080 SLI","amdGpu":"Radeon RX Vega 56 8GB Crossfire","memory":"16 GB","_id":"2pgyNYMRvY1I2VSe"}
 {"game":"Orcs Must Die!: Lost Adventures","intelCpu":"Core 2 Duo E6750 2.66GHz","amdCpu":"Athlon II X2 245e","nvidiaGpu":"GeForce 8800 GTS","amdGpu":"Radeon HD 3850 X2","memory":"3 GB","_id":"2ppVZRBpPyFH0q2P"}
 {"game":"Woodcutter Simulator 2011","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"2q1Qd60fkmT2IP7l"}
@@ -496,6 +500,7 @@
 {"game":"Detective","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"3Z9ExXfhTWLMo0mZ"}
 {"game":"King of Seas","intelCpu":"Core i5-4460 3.2GHz","amdCpu":"Ryzen R5 1600X","nvidiaGpu":"GeForce GTX 960 2GB","amdGpu":"Radeon HD 7950","memory":"8 GB","_id":"3ZWRX7LD5Z3okSNb"}
 {"game":"Call of Gods","intelCpu":"Pentium 4 2.4GHz","amdCpu":"Athlon XP 2400+","nvidiaGpu":"GeForce 9300 GE","amdGpu":"Radeon X1200 128mb","memory":"1 GB","_id":"3Zfg4f0QZ29AfEZh"}
+{"game":"Train Sim World 2020","intelCpu":"Core i7-4790 4-Core 3.6GHz","amdCpu":"Ryzen R7 1700","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"3aY9vj1G0gXUBVBk"}
 {"game":"Wingspan","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GT 720","amdGpu":"Radeon HD 5550 1024MB","memory":"4 GB","_id":"3bQ6mqZKkOWZbeuf"}
 {"game":"Space Warfare: Infinite","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"3bQqIjK7vXjhNjPc"}
 {"game":"The Intergalactic Trashman","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"3be9rlcb0lpWu3t9"}
@@ -517,6 +522,7 @@
 {"game":"Craftopia","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"4 GB","_id":"3isnL4QQarAhrxrb"}
 {"game":"Action Taimanin","intelCpu":"Core i5-750 2.66GHz","amdCpu":"FX-4350","nvidiaGpu":"GeForce GTX 760","amdGpu":"Radeon RX 460 2GB","memory":"4 GB","_id":"3jl4imwXtOni2xKN"}
 {"game":"Code Vein","intelCpu":"Core i5-7400 3.0GHz","amdCpu":"Ryzen 3 2200G","nvidiaGpu":"GeForce GTX 960 2GB","amdGpu":"Radeon R9 380X","memory":"8 GB","_id":"3kW6EH295cpZj1P8"}
+{"game":"Puyo Puyo Tetris 2","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"8 GB","_id":"3kiwVVtGdfQGlq5N"}
 {"game":"Gothic 3: Forsaken Gods","intelCpu":"Pentium 4 3.0GHz","amdCpu":"Athlon XP 3000+","nvidiaGpu":"GeForce 6800 Series 128MB","amdGpu":"Radeon X1600","memory":"1 GB","_id":"3lCzBPRdG131qKq2"}
 {"game":"FortressCraft Evolved","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Phenom II X4 805","nvidiaGpu":"GeForce GTX 660 Gigabyte OC 3GB Edi...","amdGpu":"Radeon HD 7950","memory":"4 GB","_id":"3ljS5XZXEjusCEE1"}
 {"game":"The Wild Eight","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"4 GB","_id":"3n3xZ3xDIWKM4dsW"}
@@ -662,6 +668,7 @@
 {"game":"Bear With Me - Episode Two","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"4 GB","_id":"4pEZDKiubn0xeGxf"}
 {"game":"Road Redemption","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 6670","memory":"2 GB","_id":"4pRloHNqcnjPVQRm"}
 {"game":"Time Our Father","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"4pY1QWqprVU1EO70"}
+{"game":"Inspector Waffles","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"4 GB","_id":"4pZAt9dgyDQ6M4zB"}
 {"game":"Knights of Honor II: Sovereign","intelCpu":"Core i7-4790 4-Core 3.6GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"4qjpR0wrlRZRUZ7F"}
 {"game":"Furtherance","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"4rGaLpXKKCBHQhRK"}
 {"game":"GunSwords","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"4sLE7rigFJ5zcneq"}
@@ -746,6 +753,7 @@
 {"game":"Civilization V - Asia","intelCpu":"Core 2 Quad Q6400 2.13GHz","amdCpu":"Phenom 9600B Quad-Core","nvidiaGpu":"GeForce 9800 GTX+","amdGpu":"Radeon HD 4830 512MB","memory":"4 GB","_id":"5UCI7a1Py9ElfUQv"}
 {"game":"RaceRoom Racing Experience","intelCpu":"Core i7-860 Quad 2.80GHz","amdCpu":"FX-8120","nvidiaGpu":"GeForce GTX 760","amdGpu":"Radeon R9 280","memory":"8 GB","_id":"5UVSuAxPD16U5uD9"}
 {"game":"Sine Mora","intelCpu":"Core 2 Duo E4700 2.6GHz","amdCpu":"Athlon 64 X2 Dual Core 5600+","nvidiaGpu":"GeForce GTX 260","amdGpu":"Radeon HD 3800 series","memory":"1.5 GB","_id":"5UiTmNvTA6vacnU4"}
+{"game":"Dragon Front","intelCpu":"Core i5-4590 3.3GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"5UkMDjFulUlfOD8Y"}
 {"game":"Northern Lights","intelCpu":"Core i7-7700K 4-Core 4.2GHz","amdCpu":"Ryzen 5 2500X 4-Core 3.6GHz","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX 580 8GB","memory":"16 GB","_id":"5Vl6IVPasAT5GS1f"}
 {"game":"DOTA 2","intelCpu":"Core 2 Duo E7400 2.80GHz","amdCpu":"Athlon 64 X2 Dual Core 5600+","nvidiaGpu":"GeForce 8600 GTS 512MB","amdGpu":"Radeon HD 2600 Pro","memory":"4 GB","_id":"5W00gNahEIWQk6LQ"}
 {"game":"Section 8: Prejudice","intelCpu":"Core 2 Duo E4600 2.4GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce 9800 GTX","amdGpu":"Radeon HD 4830 512MB","memory":"2 GB","_id":"5WIDdV7QW3TQpvBg"}
@@ -1256,6 +1264,7 @@
 {"game":"Life is Strange: Before the Storm Episode 2","intelCpu":"Core i3-6100 3.7GHz","amdCpu":"Athlon X4 845","nvidiaGpu":"GeForce GTX 1050","amdGpu":"Radeon RX 460 2GB","memory":"6 GB","_id":"94Dex00fNozYJSZ6"}
 {"game":"Ikaruga","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"94bc9TyxIHhv7vId"}
 {"game":"Lost Saga","intelCpu":"Pentium 4 2.0GHz","amdCpu":"Athlon XP 2000+","nvidiaGpu":"GeForce 6600 GT","amdGpu":"Radeon X600 Series","memory":"512 MB","_id":"94rtuCdTmiy139tC"}
+{"game":"Dropshipping Simulator","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce GTX 650 1GB","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"4 GB","_id":"95JSfg82AJkLx6tV"}
 {"game":"Top Gun: Hard Lock","intelCpu":"Core 2 Duo E6700 2.66GHz","amdCpu":"Athlon II X2 215","nvidiaGpu":{},"amdGpu":"Radeon HD 4850","memory":"4 GB","_id":"95ma8SsLHfuIawEM"}
 {"game":"Trainz: A New Era","intelCpu":"Core i5-3330 3.0GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 6950","memory":"8 GB","_id":"95oRuPT1t1x4Va6L"}
 {"game":"Encodya","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GT 710","amdGpu":"Radeon HD 7470","memory":"4 GB","_id":"979ztGGQ1A1hOAxG"}
@@ -1347,6 +1356,7 @@
 {"game":"Survived","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"9lCwxTMMw0Na3BOs"}
 {"game":"Dollar Dash: Winter Pack","intelCpu":"Core 2 Duo E4700 2.6GHz","amdCpu":"Athlon X2 7550","nvidiaGpu":"GeForce 8800 GT","amdGpu":"Radeon HD 3850","memory":"2 GB","_id":"9lMBZP0BTS4RZEoa"}
 {"game":"Payday: The Heist","intelCpu":"Core 2 Duo E6600 2.4GHz","amdCpu":"Athlon II X2 215","nvidiaGpu":"GeForce GT 240","amdGpu":"Radeon HD 4670 512MB","memory":"2 GB","_id":"9mCeEZomww74plUz"}
+{"game":"Total War: Rome Remastered","intelCpu":"Core i5-2500T 2.3GHz","amdCpu":"Phenom II X4 975","nvidiaGpu":"GeForce GTS 450","amdGpu":"Radeon HD 4870","memory":"4 GB","_id":"9oJNIi5K3qgZqRNF"}
 {"game":"Sebastien Loeb Rally Evo","intelCpu":"Core i7-920 Quad 2.67GHz","amdCpu":"FX-4100","nvidiaGpu":"GeForce GTX 645 (OEM)","amdGpu":"Radeon HD 2600 XT","memory":"4 GB","_id":"9ox7o9m4UCckhfFJ"}
 {"game":"Killer Instinct","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-4300","nvidiaGpu":"GeForce GTX 670","amdGpu":"Radeon HD 7950","memory":"8 GB","_id":"9pzKfIDpF5Cmh1VB"}
 {"game":"Empires in Ruins","intelCpu":"Core i7-4790 4-Core 3.6GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 1050","amdGpu":"Radeon RX 460 4GB","memory":"8 GB","_id":"9q9XCyFsSBNMaDlK"}
@@ -1426,6 +1436,7 @@
 {"game":"Arma Tactics","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"AKyPq622RgK41NZ8"}
 {"game":"Slenderman Eyes","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"AL3laC2Ej165ZFEh"}
 {"game":"TOTM","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"ALMIK32EcrNS3lND"}
+{"game":"Mech Mechanic Simulator","intelCpu":"Core i5-7600 3.5GHz","amdCpu":"Ryzen 5 2400G","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"16 GB","_id":"AN33IlbLIj0JYNUW"}
 {"game":"ToA: Seasons of the Wolf","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"ANXOeeaZvWBtVhWi"}
 {"game":"In Other Waters","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"4 GB","_id":"ANqSbWQded2Gr69x"}
 {"game":"Impact Winter","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"AOgQ9Z7HZQOlzdk7"}
@@ -1477,6 +1488,7 @@
 {"game":"Life is Strange: Episode 4 - Dark Room","intelCpu":"Core 2 Duo E8400 3.0GHz","amdCpu":"Athlon 64 X2 Dual Core 6000+","nvidiaGpu":"GeForce GTX 260","amdGpu":"Radeon HD 4890","memory":"2 GB","_id":"AjxQYgVb9nHPdqah"}
 {"game":"The Thalassic Pattern ","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"Al1cqIwxhukkB16n"}
 {"game":"Star Wars Galaxies","intelCpu":"Pentium 4 1.5GHz","amdCpu":"Athlon XP 1500+","nvidiaGpu":"GeForce 4 MX 440","amdGpu":"Radeon 8500 Series 64MB","memory":"512 MB","_id":"AlPbVTsNVtcor9hc"}
+{"game":"Project Athia","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX Vega 56 8GB","memory":"16 GB","_id":"AmDrKSsNh9I0cDeT"}
 {"game":"Ukrainian Ninja","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"An3SXJicwhKh5dkY"}
 {"game":"Life is Strange: Before the Storm","intelCpu":"Core i3-6100 3.7GHz","amdCpu":"Athlon X4 845","nvidiaGpu":"GeForce GTX 1050","amdGpu":"Radeon RX 460 2GB","memory":"6 GB","_id":"AoHXIejnVuMsByLD"}
 {"game":"Without Within","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"AoPWTgpDftY1s2Q1"}
@@ -1523,6 +1535,7 @@
 {"game":"Arms Dealer","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce 8800 GT","amdGpu":"Radeon X1900 GT","memory":"4 GB","_id":"B3E9sR1pPnfFM52D"}
 {"game":"Friday the 13th: Killer Puzzle - Episode 11: Knightmare","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GT 710","amdGpu":"Radeon R5 235X","memory":"4 GB","_id":"B3Ir9zTpLwRwDENK"}
 {"game":"Hyperdimension Neptunia Rebirth2","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GT 640 v3","amdGpu":"Radeon R7 250 v2 2GB","memory":"6 GB","_id":"B3JRaxIpEhmnuR1s"}
+{"game":"Planet of the Apes: Last Frontier","intelCpu":"Core i3-4160 3.6GHz","amdCpu":"Athlon X4 740","nvidiaGpu":"GeForce GTX 650 Ti","amdGpu":"Radeon HD 6850","memory":"8 GB","_id":"B3dvQNBiY7eINSab"}
 {"game":"Goscurry","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"B3kdAwHoN3bBA7aE"}
 {"game":"Combat Extreme 2.0","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"B4mVIlRhknd4qiAN"}
 {"game":"Wrath of The Goliaths: Dinosaurs","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"B4xhaZGLQLHxoWsE"}
@@ -2578,6 +2591,7 @@
 {"game":"Infinity Runner","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"512 MB","_id":"JAd2mxkIMSigiDqT"}
 {"game":"TrackMania Nations Forever","intelCpu":"Pentium 4 2.4GHz","amdCpu":"Athlon XP 2000+","nvidiaGpu":"GeForce 8200","amdGpu":"Radeon HD 3200","memory":"500 MB","_id":"JBOhyl7VwYULSs3x"}
 {"game":"Yu-Gi-Oh! Online: Duel Evolution","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"JDfXEBXVyRL5Rj9j"}
+{"game":"The Legend of Heroes: Sen no Kiseki III","intelCpu":"Core i5-7600T 2.8GHz","amdCpu":"Ryzen R5 1400","nvidiaGpu":"GeForce GTX 570","amdGpu":"Radeon R7 370","memory":"16 GB","_id":"JDrEhXHW3KpPfsNv"}
 {"game":"Diablo III: Reaper Of Souls","intelCpu":"Core 2 Duo E6600 2.4GHz","amdCpu":"Athlon 64 X2 Dual Core 5600+","nvidiaGpu":"GeForce GTX 260","amdGpu":"Radeon HD 4870","memory":"2 GB","_id":"JEEchAgzge2vOvrj"}
 {"game":"FIFA 21","intelCpu":"Core i5-3550 3.3GHz","amdCpu":"FX-8150","nvidiaGpu":"GeForce GTX 670","amdGpu":"Radeon R9 270X","memory":"8 GB","_id":"JGg9Yh5RES6DPPl7"}
 {"game":"GetAmped","intelCpu":"Pentium III 800MHz","amdCpu":"Athlon XP 1500+","nvidiaGpu":"GeForce 9500 GT","amdGpu":"Radeon HD 4200","memory":"1 GB","_id":"JGgoghnf6fnccmkU"}
@@ -2662,6 +2676,7 @@
 {"game":"Mutropolis","intelCpu":"Core 2 Quad Q6700 2.66GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce GTX 650 1GB","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"8 GB","_id":"JmLQ4ADOOGBHpZPA"}
 {"game":"Hand of Fate","intelCpu":"Core i7-870S Quad 2.67GHz","amdCpu":"FX-8120","nvidiaGpu":"GeForce GTX 460","amdGpu":"Radeon HD 5770 1024MB","memory":"4 GB","_id":"JmyFrVzw5zg0nLd3"}
 {"game":"The Legend of Heroes: Trails of Cold Steel IV","intelCpu":"Core i5-6400 2.7GHz","amdCpu":"FX-8320","nvidiaGpu":"GeForce GTX 950 2GB","amdGpu":"Radeon R7 370","memory":"16 GB","_id":"JnDsNWaSUOeKj5eq"}
+{"game":"Bloodline","intelCpu":"Pentium III","amdCpu":"Athlon MP","nvidiaGpu":"GeForce 6200 LE","amdGpu":"Radeon Xpress 1200 Series","memory":"500 MB","_id":"Jnz71TfLRcF0V14j"}
 {"game":"The Witness","intelCpu":"Core i3-4330TE 2.4GHz","amdCpu":"Phenom II X4 805","nvidiaGpu":"GeForce GTX 780","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"Jo2YNl1a1e8eNPYk"}
 {"game":"How To Survive","intelCpu":"Core 2 Duo E4300 1.8GHz","amdCpu":"Athlon 64 X2 Dual Core 3800+","nvidiaGpu":"GeForce GT 240","amdGpu":"Radeon HD 5750 512MB","memory":"4 GB","_id":"JonTDe2PkRFXLUjB"}
 {"game":"Verdun","intelCpu":"Core 2 Duo E4300 1.8GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GTX 950 2GB","amdGpu":"Radeon RX 460 4GB","memory":"4 GB","_id":"JozbFsZIIkPTlkzU"}
@@ -2844,6 +2859,7 @@
 {"game":"Hull BreacH","intelCpu":"Core i7-920 Quad 2.67GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 275","amdGpu":"Radeon HD 6850","memory":"4 GB","_id":"LHnWUapeV2F3Dq10"}
 {"game":"Terminal","intelCpu":"Core i5-4590 3.3GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 480 8GB","memory":"12 GB","_id":"LI7aOd2gVfmGeYRV"}
 {"game":"Fireburst","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"LIbxtGUw9FfyOQHy"}
+{"game":"Evo\\Wave","intelCpu":"Core i5-750S 2.4GHz","amdCpu":"Phenom II X4 965","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon R7 360X","memory":"16 GB","_id":"LIfH6CR6EJmb7U5T"}
 {"game":"Sorcery: Part 4","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"LJlTQvTCG9UFlOQs"}
 {"game":"Airport Contraband","intelCpu":"Core i5-6400 2.7GHz","amdCpu":"FX-8300","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"LJt9dZYOBGb8rlHw"}
 {"game":"Impostor Factory","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"LKENxYQgr3JZyjl4"}
@@ -3218,6 +3234,7 @@
 {"game":"RollerCoaster Tycoon Adventures","intelCpu":"Core i5-2320 3.0GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 760","amdGpu":"Radeon R9 280","memory":"8 GB","_id":"OD0heTH6SbVP8LJj"}
 {"game":"Americas Army Proving Grounds","intelCpu":"Core i5-3550 3.3GHz","amdCpu":"FX-8320","nvidiaGpu":"GeForce GTX 560 Ti","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"8 GB","_id":"ODiWAdsjWE3AJZUN"}
 {"game":"RF Online","intelCpu":"Pentium 4 1.6GHz","amdCpu":"Athlon XP 1600+","nvidiaGpu":"GeForce 405","amdGpu":"Radeon X800 SE","memory":"1 GB","_id":"ODjjyfweiRRcveGl"}
+{"game":"The Bus","intelCpu":"Core i7-9700K 8-Core 3.6GHz","amdCpu":"Ryzen 5 5600 6-Core 3.5GHz","nvidiaGpu":"GeForce RTX 2060 6GB","amdGpu":"Radeon RX 5600 XT 6GB","memory":"16 GB","_id":"OFCxyQbYIQulFlrZ"}
 {"game":"Orion: Prelude","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":{},"amdGpu":"Radeon R7 250 v2 2GB","memory":"4 GB","_id":"OFaiMimAVZ8QTtmG"}
 {"game":"Tom Clancys Rainbow Six: Vegas","intelCpu":"Pentium 4 3.8GHz","amdCpu":"Sempron 3800+","nvidiaGpu":"GeForce 6800 GS","amdGpu":"Radeon X700 Series","memory":"1 GB","_id":"OG5nSG7kIry1aizd"}
 {"game":"Trials of the Blood Dragon","intelCpu":"Core i5-2400S 2.5GHz","amdCpu":"Phenom II X4 955","nvidiaGpu":"GeForce GTX 560 Ti","amdGpu":"Radeon HD 7850","memory":"6 GB","_id":"OGF3FGyGGdLyd1Uv"}
@@ -3236,6 +3253,7 @@
 {"game":"Necromunda: Underhive Wars","intelCpu":"Core i5-6600 3.3GHz","amdCpu":"Ryzen R3 1200","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 580 8GB","memory":"16 GB","_id":"OKlMYxU0CylqPOMH"}
 {"game":"Adam - Lost Memories","intelCpu":"Core i5-2500 3.3GHz","amdCpu":"FX-6350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"OKnAOgqCnvv6MgO3"}
 {"game":"Poharex : The Second Invansion","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"OKud4AxeuIPSECHB"}
+{"game":"DodgeBlock","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"1 GB","_id":"OLUpQrkFbNXeemBX"}
 {"game":"Call of Anime: Vietnam War","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GTX 650 1GB","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"4 GB","_id":"OMA363WN3H1QcvsE"}
 {"game":"Outward","intelCpu":"Core i5-2400 3.1GHz","amdCpu":"FX-6350","nvidiaGpu":"GeForce GTX 960 2GB","amdGpu":"Radeon R9 380","memory":"8 GB","_id":"ON4rS4d18iXEcUAt"}
 {"game":"Last Days of Old Earth","intelCpu":"Core 2 Quad Q9650 3.0GHz","amdCpu":"FX-4100","nvidiaGpu":"GeForce GTX 770","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"OO8KzzFBXnAIqilp"}
@@ -3261,6 +3279,7 @@
 {"game":"NightCry","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"OZT8mnei5LnMFZyH"}
 {"game":"Dawn of War II","intelCpu":"Core 2 Duo E6300 1.86GHz","amdCpu":"Athlon 64 X2 Dual Core 4400+","nvidiaGpu":"GeForce 7800 GT","amdGpu":"Radeon X1950 Pro","memory":"2 GB","_id":"OaWKZS1w6HKBxqQ9"}
 {"game":"Strike Suit Zero","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Athlon II X4 620","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 5850 2048MB","memory":"4 GB","_id":"OafArngJWUdbZXeH"}
+{"game":"Life is Strange Remastered","intelCpu":"Core i5-3470 3.2GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 280X","memory":"6 GB","_id":"Oawn1g4mjNq5w4Px"}
 {"game":"Super Strip Fighter IV","intelCpu":"Core 2 Duo E6400 2.13GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce 8800 GTS","amdGpu":"Radeon X1900 Series","memory":"2 GB","_id":"ObAtzj8HihpW2UXp"}
 {"game":"Children of Zodiarcs","intelCpu":"Core i3-6300 3.8GHz","amdCpu":"APU A10-7850K Quad-Core","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 7850","memory":"4 GB","_id":"ObEh6qMYTipmUoZt"}
 {"game":"Wolfenstein II: The Freedom Chronicles - Episode 3","intelCpu":"Core i7-4770 4-Core 3.4GHz","amdCpu":"FX-9370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 470 4GB","memory":"16 GB","_id":"Obo8HIpcLDyKmOGg"}
@@ -3545,6 +3564,7 @@
 {"game":"Galactic Usurper ","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"QSwEkjQl1ToaNnH7"}
 {"game":"Later Daters","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon II X2 280","nvidiaGpu":"GeForce 9600 GSO 512MB","amdGpu":"Radeon HD 3850","memory":"4 GB","_id":"QTKQQRCD07sf9d5R"}
 {"game":"Luckless Seven","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"QTpcs0BP69cGkLZ5"}
+{"game":"State of Mind","intelCpu":"Core 2 Quad Q9705 3.16GHz","amdCpu":"Phenom II X4 975","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon R7 370","memory":"8 GB","_id":"QTv8pMaWEjeKiZ0S"}
 {"game":"Konami Anniversary Collection: Arcade Classics","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"4 GB","_id":"QU6sF5xJ8XGusKei"}
 {"game":"Pizza Nostra","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"QUNKGrt8agdgTzHD"}
 {"game":"F1 2014","intelCpu":"Core i7-920 Quad 2.67GHz","amdCpu":"FX-4100","nvidiaGpu":"GeForce GTX 550 Ti","amdGpu":"Radeon HD 6750","memory":"4 GB","_id":"QVCfHauxC0sVvcZS"}
@@ -3818,6 +3838,7 @@
 {"game":"Seven Nights at Pegs","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SFCkcHIP4MsaRv9n"}
 {"game":"Super Matt Jordan","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SFyiHs6E5cD0t1Ta"}
 {"game":"Malleus","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SGYkea0hm565Qgbz"}
+{"game":"Dandy Ace","intelCpu":"Core i5-750S 2.4GHz","amdCpu":"Phenom II X4 965","nvidiaGpu":"GeForce GTX 460","amdGpu":"Radeon HD 7850","memory":"6 GB","_id":"SGpXemlySzqHIHNm"}
 {"game":"ABZU","intelCpu":"Core i7-860 Quad 2.80GHz","amdCpu":"FX-8120","nvidiaGpu":"GeForce GTX 960 2GB","amdGpu":"Radeon R9 370X","memory":"6 GB","_id":"SGq5WlkdwALGNdgF"}
 {"game":"Holdfast: Nations at War","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"SHMqi5QjRB4M835p"}
 {"game":"Rock and Roll","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SHkllgwb4XQUtH41"}
@@ -3904,6 +3925,7 @@
 {"game":"Wildlife Park 3","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SxQ1wE4YreeDdbIJ"}
 {"game":"Decay of Logos","intelCpu":"Core i7-4790 4-Core 3.6GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 960 2GB","amdGpu":"Radeon R9 285 2GB","memory":"8 GB","_id":"SxUOXebDid9jdH3N"}
 {"game":"Deponia","intelCpu":"Pentium D 950 3.4GHz","amdCpu":"Athlon 64 X2 Dual Core 3800+","nvidiaGpu":"GeForce 9600 GSO 512MB","amdGpu":"Radeon HD 6530D","memory":"4 GB","_id":"SxtojsOP1rwov11x"}
+{"game":"MotoGP 21","intelCpu":"Core i7-5820K 6-Core 3.3GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 5700 8GB","memory":"16 GB","_id":"SyEjrNFNG1QT2hRT"}
 {"game":"Saints Row 2","intelCpu":"Pentium 4 3.2GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce 8800 GTS","amdGpu":"Radeon HD 3800 series","memory":"2 GB","_id":"SyGyR24VIbX8DHYM"}
 {"game":"Phoenix Universe of Space Combat","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SyIkxlGm9MBdtmHK"}
 {"game":"Old Man Game","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"SyWbWxkHpTQ8oGi9"}
@@ -3944,6 +3966,7 @@
 {"game":"They Are Billions","intelCpu":"Core i5-2320 3.0GHz","amdCpu":"FX-6350","nvidiaGpu":"GeForce GTX 670","amdGpu":"Radeon HD 7950","memory":"8 GB","_id":"TGA21cSJAQuVXaIg"}
 {"game":"Canis Lupus","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"TGHSctIAv2dpfnXa"}
 {"game":"BlueLight","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"TGIfSdha9GLHojNF"}
+{"game":"Alan Wake 2","intelCpu":"Core i7-4790 4-Core 3.6GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 980 Ti 6GB","amdGpu":"Radeon R9 FURY X 4GB","memory":"16 GB","_id":"TGs50Bz8ZdKmhIwO"}
 {"game":"Little Big Workshop","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 5830","memory":"4 GB","_id":"THLWYFi3ZMuR7oRz"}
 {"game":"Battlefield 4: Final Stand","intelCpu":"Core i7-930 Quad 2.80GHz","amdCpu":"Phenom II X6 1055T","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"8 GB","_id":"THPUSogoMamaMlDp"}
 {"game":"Starion Tactics","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"THTU3aRXEQMgAm9K"}
@@ -4012,6 +4035,7 @@
 {"game":"Wasteland 3","intelCpu":"Core i5-4590 3.3GHz","amdCpu":"Ryzen R5 1400","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"16 GB","_id":"ThrE7E8OmUx5LWoT"}
 {"game":"TowerFall: Ascension","intelCpu":"Core i3-530 2.9GHz","amdCpu":"Phenom II X2 565","nvidiaGpu":"GeForce 8600 GTS 512MB","amdGpu":"Intel HD Graphics 4000 Desktop","memory":"2 GB","_id":"Ths8otcQeVSKjpQt"}
 {"game":"Steep: Winterfest Pack","intelCpu":"Core i7-3770K 4-Core 3.5GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 390","memory":"8 GB","_id":"Ti4tAl9w6dndB2W8"}
+{"game":"Shadow Tactics: Blades of the Shogun - Aiko's Choice","intelCpu":"Core i3-4150T 3.0GHz","amdCpu":"Athlon II X4 651K","nvidiaGpu":"GeForce GTX 570","amdGpu":"Radeon HD 6950","memory":"6 GB","_id":"TiWwQtoL6ozpvACw"}
 {"game":"Overdosed: A Trip To Hell","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"TimlR5thi1QI9Mx3"}
 {"game":"Science Girls","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"Tj9KwrygicpOY88s"}
 {"game":"Clash: Mutants Vs Pirates","intelCpu":"Core i5-7500 3.4GHz","amdCpu":"Ryzen R5 1400","nvidiaGpu":"GeForce GTX 950 2GB","amdGpu":"Radeon R9 270X","memory":"8 GB","_id":"TjTs4c6lGAOZAZZA"}
@@ -4140,6 +4164,7 @@
 {"game":"Tropico 5 - Joint Venture","intelCpu":"Core 2 Quad Q8300 2.5GHz","amdCpu":"APU A6-3620 Quad Core","nvidiaGpu":"GeForce GT 545 1.5GB","amdGpu":"Radeon HD 5570 1024MB","memory":"8 GB","_id":"Ud9v5Tserq23bJ6T"}
 {"game":"Steel and Steam","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"UeuCL03sRkeJeAX2"}
 {"game":"Guns of Icarus","intelCpu":"Pentium 4 2.0GHz","amdCpu":"Athlon XP 1700+","nvidiaGpu":"GeForce 7600 GT 256MB","amdGpu":"Radeon X800 GT","memory":"2 GB","_id":"Uf7Km4YNBkvUOPuI"}
+{"game":"Kaze and the Wild Masks","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GTX 650 1GB","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"4 GB","_id":"Uf823sEzZe7woBqH"}
 {"game":"Age of Conan: Rise Of The Godslayer","intelCpu":"Core 2 Duo E8300 2.83GHz","amdCpu":"Athlon II X2 245e","nvidiaGpu":"GeForce 8800 GTS","amdGpu":"Radeon HD 7570","memory":"4 GB","_id":"UfXymUSqLRlBahQo"}
 {"game":"The Adventures of Tintin","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 4450B Dual Core","nvidiaGpu":"GeForce 9800 GTX","amdGpu":"Radeon HD 5830","memory":"2 GB","_id":"UgsgXaXrbNe4imPX"}
 {"game":"Adventures of Chris","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GT 710","amdGpu":"Radeon HD 7470","memory":"2 GB","_id":"UhjKopCZzetwnq2h"}
@@ -4393,12 +4418,14 @@
 {"game":"ExoCorps","intelCpu":"Core i7-8700 6-Core 3.2GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"16 GB","_id":"WUI7Zz4TjRRKJIv2"}
 {"game":"Angels Fall First","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"WUIFkSxBTCHITgUR"}
 {"game":"Crumble","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GT 710","amdGpu":"Radeon HD 7470","memory":"8 GB","_id":"WUR5nelcrRPYvtH5"}
+{"game":"Life is Strange: Before the Storm Remastered","intelCpu":"Core i5-3470 3.2GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 280X","memory":"6 GB","_id":"WUZyyIag5qptZxJB"}
 {"game":"SCP: The Foundation","intelCpu":"Core i7-4770 4-Core 3.4GHz","amdCpu":"Ryzen 3 3300X 4-Core 3.8GHz","nvidiaGpu":"GeForce GTX 1050 Ti 4GB","amdGpu":"Radeon R9 280X","memory":"8 GB","_id":"WVZB0Qe2yDkQ70Wj"}
 {"game":"Zineth","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"WVfT1uZ7WkAPgLvP"}
 {"game":"Tony Hawks Pro Skater 1 and 2","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"WVpDsjtjuB8gHUSr"}
 {"game":"Wide Cross","intelCpu":"Core i5-4590 3.3GHz","amdCpu":"Ryzen 3 2200G","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"8 GB","_id":"WWkz2ll3j5a7cjGR"}
 {"game":"Re:Legend","intelCpu":"Core i7-3770 4-Core 3.4GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 960 Ti 4GB","amdGpu":"Radeon RX 560X 4GB","memory":"8 GB","_id":"WWw9ZsA0dVs2ChMP"}
 {"game":"Agricultural Simulator 2012","intelCpu":"Core 2 Duo E4300 1.8GHz","amdCpu":"Athlon 64 X2 Dual Core 3800+","nvidiaGpu":"GeForce GT 440","amdGpu":"Radeon HD 5570 512MB","memory":"2 GB","_id":"WX4OraYVOnZkOqA0"}
+{"game":"Terra Invicta","intelCpu":"Core 2 Duo E8400 3.0GHz","amdCpu":"Phenom II X2 B55","nvidiaGpu":"GeForce 510","amdGpu":"Radeon HD 6450A","memory":"8 GB","_id":"WXTlWgbaxlnGgW4r"}
 {"game":"Nascar Racing Season 2003 ","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"WXZz6tmVrer1lslW"}
 {"game":"Wolfenstein: The Old Blood","intelCpu":"Core i7-2600S 4-Core 2.8GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon R9 280","memory":"8 GB","_id":"WZAE3d7wGOly1g1d"}
 {"game":"TY the Tasmanian Tiger","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 6850","memory":"8 GB","_id":"WZLsLmNB9DEDs4P1"}
@@ -4406,6 +4433,7 @@
 {"game":"Carrier Command: Gaea Mission","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"Athlon 4850e Dual Core","nvidiaGpu":"GeForce GTX 460","amdGpu":"Radeon HD 5850 1024MB","memory":"4 GB","_id":"WaCdU9aV8gYsT0gq"}
 {"game":"Ancient Space","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"Athlon X4 760K","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"8 GB","_id":"WayS3AQieJpubmC9"}
 {"game":"Tropico 5 - T-Day","intelCpu":"Core 2 Quad Q8300 2.5GHz","amdCpu":"APU A6-3620 Quad Core","nvidiaGpu":"GeForce GT 545 1.5GB","amdGpu":"Radeon HD 5570 1024MB","memory":"8 GB","_id":"Wb9j7mLi7WiO4QM7"}
+{"game":"Life is Strange: True Colors","intelCpu":"Core i5-3470 3.2GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 280X","memory":"6 GB","_id":"WbggpARTsPrSbJeZ"}
 {"game":"Sam and Max Save the World Remastered","intelCpu":"Core 2 Duo E4600 2.4GHz","amdCpu":"Athlon II X2 280","nvidiaGpu":"GeForce GTS 450","amdGpu":"Radeon HD 7750 1GB GDDR5","memory":"2 GB","_id":"WcLeFIlNMpsuYrO3"}
 {"game":"Guardians of Orion","intelCpu":"Core 2 Quad Q9705 3.16GHz","amdCpu":"FX-4350","nvidiaGpu":"GeForce GTX 560 Ti","amdGpu":"Radeon HD 7850","memory":"4 GB","_id":"WcSViX6noaAhRAFi"}
 {"game":"Grimm Ep 7 - The Devil and His Three Golden Hairs","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"WdP5ni3ndvpvHFcL"}
@@ -4446,6 +4474,7 @@
 {"game":"Batbarian: Testament of the Primordials","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 6870","memory":"8 GB","_id":"WvDOkBOvpQT8g8X9"}
 {"game":"Sumerians","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 770","amdGpu":"Radeon R9 270X","memory":"8 GB","_id":"WwPU8gwAT7zUmJZN"}
 {"game":"The Lost Mythologies","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 1GB","amdGpu":"Radeon HD 7750 1GB GDDR5","memory":"4 GB","_id":"Wwem7F8iAOZ9guDc"}
+{"game":"Rogue State Revolution","intelCpu":"Core i5-8600K 6-Core 3.6GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1050 Ti 4GB","amdGpu":"Radeon HD 6990","memory":"16 GB","_id":"Wx2trf8yahyeHkAt"}
 {"game":"Unholy Heights ","intelCpu":"Pentium 4 2.0GHz","amdCpu":"Athlon XP 1500+","nvidiaGpu":"GeForce 6600","amdGpu":"Radeon 9550","memory":"1 GB","_id":"Wx8TJKvCNPCzUEmb"}
 {"game":"Valkyria Chronicles","intelCpu":"Core 2 Duo E7400 2.80GHz","amdCpu":"Athlon II X3 450","nvidiaGpu":"GeForce GTX 280","amdGpu":"Radeon HD 4870","memory":"3 GB","_id":"WxoGq7HMft7Uy7ni"}
 {"game":"Angels That Kill","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"WxvqdwnWA5RfWFLc"}
@@ -4570,6 +4599,7 @@
 {"game":"Marble Age: Remastered","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon II X2 280","nvidiaGpu":"GeForce GT 710","amdGpu":"Radeon HD 7470","memory":"2 GB","_id":"XxpBRrlBJshgfS0X"}
 {"game":"The Flame in the Flood","intelCpu":"Pentium Dual Core E6700 3.2GHz","amdCpu":"Athlon 64 X2 Dual Core 6000+","nvidiaGpu":"GeForce GT 730","amdGpu":"Radeon HD 7570","memory":"8 GB","_id":"XxtjFBHlbacMgRP1"}
 {"game":"Need For Speed: Most Wanted 2 Time Saver","intelCpu":"Core 2 Quad Q6400 2.13GHz","amdCpu":"Phenom 9550 Quad-Core","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 6950","memory":"4 GB","_id":"Xxwb0D62TauxKMmA"}
+{"game":"Gray Dawn","intelCpu":"Core i7-3930K 6-Core 3.20GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1660 Ti 6GB","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"Xy6ldOJRJrJootIe"}
 {"game":"Zero Punctuation: Hatfall - Hatters Gonna Hat Edition","intelCpu":"Pentium 4 1.8GHz","amdCpu":"Athlon XP 1700+","nvidiaGpu":"GeForce GT 720","amdGpu":"Radeon HD 4650 1GB","memory":"4 GB","_id":"XyUSOuH2DNfTpKVN"}
 {"game":"Busloop","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"Xyi1zzXGgRKzRUvV"}
 {"game":"The Terminal 2","intelCpu":"Core 2 Duo E7600 3.06GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 6670","memory":"2 GB","_id":"XyykCHbhgtu5cteA"}
@@ -5029,6 +5059,7 @@
 {"game":"Dungeon Hearts","intelCpu":"Core 2 Duo E4300 1.8GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"bWTXiJAbQNali400"}
 {"game":"Alpha Protocol","intelCpu":"Core 2 Duo E4500 2.2GHz","amdCpu":"Athlon 64 X2 Dual Core 4600+","nvidiaGpu":"GeForce 8800 GS","amdGpu":"Radeon X1800 Series 256MB","memory":"2 GB","_id":"bWVCprFZ8JBfWssP"}
 {"game":"Surviving Mars","intelCpu":"Core i5-4690 3.5GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"bWtQrW10FPo7W7xA"}
+{"game":"11-11 Memories Retold","intelCpu":"Core i7-3770 4-Core 3.4GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 8GB","memory":"8 GB","_id":"bXEsKIMR2Mu1Uu1T"}
 {"game":"Swords n Magic and Stuff","intelCpu":"Core i7-2600 4-Core 3.40GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 480 8GB","memory":"16 GB","_id":"bXJl73NHrq5VhrR1"}
 {"game":"The Mission","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"bXNopq75YpSb5TTs"}
 {"game":"Ion Fury","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Athlon II X4 610e","nvidiaGpu":"GeForce 605 1GB","amdGpu":"Radeon HD 5450 Asus Silent 1GB Edit...","memory":"2 GB","_id":"bXRu1NFPK92yDdfl"}
@@ -5280,6 +5311,7 @@
 {"game":"Dead Room","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"dEWPD3mXJa9gQe5b"}
 {"game":"Planet Explorers","intelCpu":"Core i5-655K 3.2GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce GTX 670","amdGpu":"Radeon HD 7850","memory":"6 GB","_id":"dEoozazfAa7hEgEZ"}
 {"game":"Corrupt Cup Contest","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"dF6xKL6jFnZDM9Wi"}
+{"game":"The Slormancer","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"8 GB","_id":"dFaVszyDWz3M6DeR"}
 {"game":"Samurai Warriors 4-II","intelCpu":"Core i7-860 Quad 2.80GHz","amdCpu":"Phenom II X6 1065T","nvidiaGpu":"GeForce GTX 750","amdGpu":"Radeon R7 360","memory":"2 GB","_id":"dGg7zWkMy06IrNIS"}
 {"game":"C-Ball","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"dIaFZde0W0lSuh6u"}
 {"game":"Max Payne 3: Hostage Negotiation Pack","intelCpu":"Core i7-2600S 4-Core 2.8GHz","amdCpu":"FX-6200","nvidiaGpu":"GeForce GTX 480","amdGpu":"Radeon HD 5870 1024MB","memory":"3 GB","_id":"dIsESqyrqirbk5ZH"}
@@ -5363,6 +5395,7 @@
 {"game":"Panzer Dragoon: Remake","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"dw5xobQZdqbDfn7m"}
 {"game":"No Heroes","intelCpu":"Core 2 Duo E7500 2.93GHz","amdCpu":"Phenom II X2 560 Black Edition","nvidiaGpu":{},"amdGpu":"Radeon HD 6670","memory":"4 GB","_id":"dwczIPnm7aCOo9RF"}
 {"game":"Club Manager 2016","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4600+","nvidiaGpu":"GeForce 6800 Series 128MB","amdGpu":"Radeon Xpress 1100 128mb","memory":"1 GB","_id":"dwmDgsBOkKtVXY2J"}
+{"game":"Paradise Lost","intelCpu":"Core i7-860S Quad 2.53GHz","amdCpu":"Phenom II X6 1035T","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"dxCfhSDDBnZja9b8"}
 {"game":"BloodRayne 2","intelCpu":"Pentium 4 2.0GHz","amdCpu":"Athlon XP 2000+","nvidiaGpu":"GeForce FX 5600 Ultra","amdGpu":"Radeon 9600 Series","memory":"512 MB","_id":"dxGX6WhTmouyLZEY"}
 {"game":"Black Myth: Wu Kong","intelCpu":"Core i7-6700 4-Core 3.4GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX 5600 6GB","memory":"16 GB","_id":"dxTFkg4M7f5e2r2R"}
 {"game":"Aura TCG","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"dxhmywiiX9tpCnY4"}
@@ -5695,6 +5728,7 @@
 {"game":"Before We Leave","intelCpu":"Core i5-4460 3.2GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 580 4GB","memory":"8 GB","_id":"gWVgJnCCwgLDlZim"}
 {"game":"Train Valley 2","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"4 GB","_id":"gWw0Lfaddtm62HmM"}
 {"game":"Sherlock Holmes: The New Adventures","intelCpu":"Core 2 Duo E6850 3.0GHz","amdCpu":"Phenom II X2 555 Black Edition","nvidiaGpu":"GeForce GT 240","amdGpu":"Radeon HD 2900 XT 512MB","memory":"3 GB","_id":"gWzN9rGY9ZeSyZpu"}
+{"game":"5D Chess With Multiverse Time Travel","intelCpu":"Celeron E1400 Dual-Core 2GHz","amdCpu":"Athlon 64 3200+","nvidiaGpu":"GeForce 9600 GSO","amdGpu":"Radeon HD 4670 Asus 512MB Edition","memory":"500 MB","_id":"gXOKKPHNYFdygNqx"}
 {"game":"Need for Speed 2022","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1660","amdGpu":"Radeon RX 590 8GB","memory":"16 GB","_id":"gYorcF9b7Gf0pR8F"}
 {"game":"ArcheAge","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-8300","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 4850","memory":"4 GB","_id":"gYpJ4UHjMOWvc33o"}
 {"game":"Rift: Storm Legion","intelCpu":"Celeron E1500 Dual-Core 2.2GHz","amdCpu":"Athlon 64 X2 Dual Core 4800+","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 3870","memory":"4 GB","_id":"gYuUoYaJVUsSwPQy"}
@@ -5718,6 +5752,7 @@
 {"game":"Secret Files: Sam Peters","intelCpu":"Pentium 4 2.4GHz","amdCpu":"Athlon XP 2700+","nvidiaGpu":"GeForce 6800 Series 128MB","amdGpu":"Radeon 9600 Series","memory":"1 GB","_id":"ghgmgUZrEUVj6d9x"}
 {"game":"The Culling","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-6350","nvidiaGpu":"GeForce GTX 760","amdGpu":"Radeon R9 280","memory":"8 GB","_id":"giPUtUMDWb0tqX2M"}
 {"game":"Damned Nation Reborn","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"gjWXa4DcanXnOFnn"}
+{"game":"Warhammer Age of Sigmar: Storm Ground","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"gk9eIwUHoaFXVR1z"}
 {"game":"Wars of Zodiarcs","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"gkMOFPNWmNY96XAt"}
 {"game":"Breathedge","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"gkRhHctKaoOlfH2K"}
 {"game":"Opencast Mining","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce GT 640","amdGpu":"Radeon HD 5670 1024MB","memory":"4 GB","_id":"gkYFASNLNkKGFsbx"}
@@ -5768,6 +5803,7 @@
 {"game":"Teamfight Manager","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"8 GB","_id":"h32FaOCSXoLKWdT7"}
 {"game":"Partial Quest","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"h3bno3TyLkxHnjl1"}
 {"game":"Call Of Duty: Ghosts - Devastation","intelCpu":"Core 2 Quad Q8400 2.66GHz","amdCpu":"Phenom II X4 805","nvidiaGpu":"GeForce GTX 660 Ti","amdGpu":"Radeon HD 7950 Boost Edition","memory":"8 GB","_id":"h4A1LfQRwDedYDi7"}
+{"game":"8Doors: Arums Afterlife Adventure","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Phenom 9950 Quad-Core Black Edition","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 7790","memory":"8 GB","_id":"h4GrEPPvOtXdp4Ly"}
 {"game":"Torque Drift","intelCpu":"Core i7-9700K 8-Core 3.6GHz","amdCpu":"Ryzen 7 2700X","nvidiaGpu":"GeForce GTX 1080","amdGpu":"Radeon RX Vega 56 8GB","memory":"8 GB","_id":"h53RsASmogTQ9olm"}
 {"game":"Zoroastra","intelCpu":"Core i5-7500 3.4GHz","amdCpu":"Ryzen 7 2700X","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"h5VvOymm5Dp5Zpow"}
 {"game":"Endless Legend - Guardians","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-4350","nvidiaGpu":"GeForce GTX 760","amdGpu":"Radeon R9 280","memory":"8 GB","_id":"h5dDH2s9YxK5mG9z"}
@@ -6018,6 +6054,7 @@
 {"game":"Halo 2: Anniversary","intelCpu":"Core i7-870 Quad 2.93GHz","amdCpu":"FX-4100","nvidiaGpu":"GeForce GTX 560 Ti","amdGpu":"Radeon R7 360","memory":"8 GB","_id":"iwuL4tfFMKGpl3tE"}
 {"game":"Rocksmith - blink-182 - 3-Song Pack","intelCpu":"Core 2 Duo E6750 2.66GHz","amdCpu":"Athlon 64 X2 Dual Core 6000+","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 3800 series","memory":"4 GB","_id":"ix3epkA9hCL7nKF0"}
 {"game":"The Settlers: Rise of an Empire","intelCpu":"Pentium 4 3.40GHz","amdCpu":"Athlon 64 3500+","nvidiaGpu":"GeForce 9400","amdGpu":"Radeon 9500 Pro","memory":"1 GB","_id":"ix9m1FpBbg4N1xCe"}
+{"game":"Shelter 3","intelCpu":"Core 2 Duo E4300 1.8GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"ixOX3Uy1IHkYzLHH"}
 {"game":"Guts and Glory","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Phenom II X3 B77","nvidiaGpu":"GeForce GTX 750","amdGpu":"Radeon R7 360","memory":"4 GB","_id":"ixWBXOvzbT9CSw0v"}
 {"game":"Elite Dangerous: Odyssey","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX Vega 56 8GB","memory":"16 GB","_id":"ixbT38TCZ6WFFuDC"}
 {"game":"Okami HD","intelCpu":"Core i7-3770 4-Core 3.4GHz","amdCpu":"Ryzen R5 1400","nvidiaGpu":"GeForce GTX 950 2GB","amdGpu":"Radeon R9 270X","memory":"8 GB","_id":"ixkuW6sv8U9ijKQ7"}
@@ -6065,6 +6102,7 @@
 {"game":"The Surge","intelCpu":"Core i7-3820 4-Core 3.60GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"16 GB","_id":"jKH5z4jmLwdJbEu6"}
 {"game":"Diablo 4","intelCpu":"Core i5-9500 6-Core 3.0GHz","amdCpu":"Ryzen 5 2500X 4-Core 3.6GHz","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX Vega 56 8GB","memory":"16 GB","_id":"jKlmfGQ3n6vljoP7"}
 {"game":"Wizardry 7: Crusaders of the Dark Savant","intelCpu":"Pentium 4 1.6GHz","amdCpu":"Duron 2.0GHz","nvidiaGpu":"Riva TNT2 Ultra","amdGpu":"Rage 128 Pro","memory":"1 GB","_id":"jLW9HWG8DASHwuUp"}
+{"game":"Necromunda: Hired Gun","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"jLlOViVWf99Wy5KC"}
 {"game":"Dragon Ball Xenoverse 2","intelCpu":"Core i5-3470 3.2GHz","amdCpu":"FX-6300","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7770 2GB GHz Edition","memory":"4 GB","_id":"jLpFxnliatIvgbxY"}
 {"game":"Stratoscape","intelCpu":"Core i5-4590 3.3GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"jM9wPGjRXpLQSZLY"}
 {"game":"Table Top Racing: World Tour","intelCpu":"Core i5-2500 3.3GHz","amdCpu":"FX-8120","nvidiaGpu":"GeForce GTX 750","amdGpu":"Radeon HD 6950","memory":"8 GB","_id":"jMzyvvMyHxROCAAl"}
@@ -6166,6 +6204,7 @@
 {"game":"Dead by Daylight","intelCpu":"Core i5-4430 3.0GHz","amdCpu":"FX-8300","nvidiaGpu":"GeForce GTX 760 EVGA 4GB Edition","amdGpu":"Radeon R7 370 Sapphire Nitro 4GB Ed...","memory":"8 GB","_id":"k4DSN9p8kqCqeURq"}
 {"game":"Clive and the stones of ancient bunnies","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"k4XBH6Oti0Dxu9ie"}
 {"game":"Tom Clancy: Ghost Recon Online","intelCpu":"Core 2 Duo E7200 2.53GHz","amdCpu":"Athlon 64 X2 Dual Core 5800+","nvidiaGpu":"GeForce 8800 GT","amdGpu":"Radeon HD 3870","memory":"2 GB","_id":"k5M1Pa6SrD0NeVIB"}
+{"game":"Yakuza 6: The Song of Life","intelCpu":"Core i7-6700 4-Core 3.4GHz","amdCpu":"Ryzen 5 2600","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX Vega 56 8GB","memory":"6 GB","_id":"k5NJVcC3WUnyjeuz"}
 {"game":"The Snowfield","intelCpu":"Core 2 Duo E7600 3.06GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 6670","memory":"4 GB","_id":"k5gXGdqPvl88j6VL"}
 {"game":"Robo Terror","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce 210 1GB","amdGpu":"Intel HD Graphics 2000 Desktop","memory":"2 GB","_id":"k5i7SJmbrsDxHBTO"}
 {"game":"The Walking Dead: Michonne","intelCpu":"Core 2 Duo E4600 2.4GHz","amdCpu":"Athlon 5050e Dual Core","nvidiaGpu":"GeForce GT 130","amdGpu":"Radeon HD 4650 1GB","memory":"3 GB","_id":"k5wa0EbcKGW76Wxf"}
@@ -6513,6 +6552,7 @@
 {"game":"Just Cause 4: Los Demonios","intelCpu":"Core i7-4770 4-Core 3.4GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX Vega 56 8GB","memory":"16 GB","_id":"mnpmIh1Cmf8UTqQc"}
 {"game":"Warframe: Heart of Deimos","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GT 640","amdGpu":"Radeon R7 250 1GB","memory":"4 GB","_id":"mnvILNB3ZLFCPO75"}
 {"game":"BrickBlast U!","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"moEsklu0F8XW3DT2"}
+{"game":"First Class Trouble","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Ryzen R5 1300","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 280X","memory":"8 GB","_id":"movi6NYskIFvwuCv"}
 {"game":"Heavy Duty","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"moy2dOtVxfsfSvIz"}
 {"game":"Kingdom Two Crowns: Dead Lands","intelCpu":"Pentium G4560 3.5GHz","amdCpu":"FX-4300","nvidiaGpu":"GeForce GTX 1050","amdGpu":"Radeon RX 460 2GB","memory":"4 GB","_id":"mqPdiuZHndPPs7Pl"}
 {"game":"Investigator","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"mqzVStPnBxVXv8Nt"}
@@ -6592,6 +6632,7 @@
 {"game":"Dark Souls 3","intelCpu":"Core i7-3770 4-Core 3.4GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290X","memory":"8 GB","_id":"nN1OgwMIP9pOnja3"}
 {"game":"NBA 2k12","intelCpu":"Core 2 Duo E8300 2.83GHz","amdCpu":"Athlon II X2 255","nvidiaGpu":"GeForce 8800 GTS","amdGpu":"Radeon HD 3800 series","memory":"3 GB","_id":"nNH0j61v3i0Q6eot"}
 {"game":"MustSurvive","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"nNSUBqsfF3TlOuw0"}
+{"game":"Battle Ball","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Phenom 9850 Quad-Core Black Edition","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon R7 360X","memory":"4 GB","_id":"nNpPCpBJEvmh9USA"}
 {"game":"The Seed","intelCpu":"Core 2 Duo E6400 2.13GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce 7900 GTX","amdGpu":"Radeon X1950 Series","memory":"2 GB","_id":"nO89q33XvndmxHXq"}
 {"game":"Papers Please","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"nOpoePefcs996YlP"}
 {"game":"Racecraft","intelCpu":"Core 2 Duo E4600 2.4GHz","amdCpu":"Athlon X2 7750","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290X","memory":"6 GB","_id":"nOrcj9xlm4LSYQLI"}
@@ -6741,6 +6782,7 @@
 {"game":"The Hunters Destiny","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"odY9Y769CWnXQFL4"}
 {"game":"Kromaia","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"odZLh38egZhdz3mE"}
 {"game":"Imperiums: Greek Wars","intelCpu":"Core 2 Quad Q8300 2.5GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"8 GB","_id":"oeD6DdmMKPmLLfdX"}
+{"game":"Oddworld: Soulstorm","intelCpu":"Core 2 Quad Q8200 2.33GHz","amdCpu":"Phenom 9850 Quad-Core","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 390","memory":"16 GB","_id":"oeEKEdKwve8M5Y3C"}
 {"game":"Star Wars: The Old Republic","intelCpu":"Pentium Dual Core G6960 2.93GHz","amdCpu":"Phenom II X3 B75","nvidiaGpu":"GeForce GTX 465","amdGpu":"Radeon HD 5850 1024MB","memory":"4 GB","_id":"oeXeNWfmajQVATSV"}
 {"game":"Battlefield Play4Free","intelCpu":"Pentium D 830 3.0GHz","amdCpu":"Athlon LE-1660","nvidiaGpu":"GeForce 7900 GT","amdGpu":"Radeon X850 XT","memory":"2 GB","_id":"oebAPloCcMd1oAog"}
 {"game":"Hollow Knight","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Phenom 9850 Quad-Core","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 5850 1024MB","memory":"8 GB","_id":"ofTQgmET9f8oeWPq"}
@@ -6761,6 +6803,7 @@
 {"game":"SIMELONE ","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"onj17OJd2UNOHD4d"}
 {"game":"MotoRun","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce 6600 GT 256MB","amdGpu":"Intel HD Graphics 2000 Desktop","memory":"1 GB","_id":"onjD5pWW87SkPmpb"}
 {"game":"Wasteland Remastered","intelCpu":"Core i5-3570K 3.4GHz","amdCpu":"Phenom 9600 Quad-Core","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon HD 7770 1GB GDDR5","memory":"8 GB","_id":"ontE91T3tcDBk8vS"}
+{"game":"SaGa Frontier Remastered","intelCpu":"Celeron G1610T 2.3GHz","amdCpu":"APU A4-5300 Dual-Core","nvidiaGpu":"GeForce GT 730 v3","amdGpu":"Radeon HD 7730 v2","memory":"8 GB","_id":"oo62DCGHWreh6kB1"}
 {"game":"Cyanide and Happiness - Freakpocalypse","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"oooW1bta5z93GUpV"}
 {"game":"Blades of Time","intelCpu":"Core 2 Duo E6700 2.66GHz","amdCpu":"Athlon II X2 240","nvidiaGpu":"GeForce GT 240","amdGpu":"Radeon HD 2900 XT 512MB","memory":"3 GB","_id":"op1CukQrZp7z9uEW"}
 {"game":"Rebel Inc: Escalation","intelCpu":"Core i5-4430 3.0GHz","amdCpu":"FX-8300","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon R9 270X","memory":"4 GB","_id":"opVRWdFYokDaRxTY"}
@@ -6821,7 +6864,9 @@
 {"game":"Maneater","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 290","memory":"8 GB","_id":"pGwMAqgJKadje6PP"}
 {"game":"Darkest Dungeon","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"4 GB","_id":"pHZtu4JGH2QcT59Y"}
 {"game":"Dream","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"pIqMADI7AYGXIrX5"}
+{"game":"SYNTHETIK: Arena","intelCpu":"Core i3-4160 3.6GHz","amdCpu":"APU A8-7670K Quad-Core ","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon R9 270","memory":"4 GB","_id":"pJ5n6PzeYOVjU1Hr"}
 {"game":"Out of the Park Baseball 21","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"Phenom II X4 900e","nvidiaGpu":"GeForce 9600 GSO 512MB","amdGpu":"Radeon HD 3850","memory":"4 GB","_id":"pJ7Ekp1CjZbq4xB5"}
+{"game":"Tales of the Neon Sea","intelCpu":"Core i5-2300 2.8GHz","amdCpu":"FX-4150","nvidiaGpu":"GeForce GTX 650 1GB","amdGpu":"Radeon HD 7750 Asus 1GB Edition","memory":"8 GB","_id":"pJquXO13Ct5PfUdm"}
 {"game":"Dead horizon","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"pKaQNAJDAivGFuFh"}
 {"game":"Star Wars: The Old Republic - Rise of the Hutt Cartel","intelCpu":"Pentium Dual Core G6960 2.93GHz","amdCpu":"Phenom II X3 B75","nvidiaGpu":"GeForce GTX 465","amdGpu":"Radeon HD 5850 1024MB","memory":"4 GB","_id":"pKfGrFIIl7jofIl2"}
 {"game":"Euro Truck Simulator 2","intelCpu":"Core 2 Duo E6850 3.0GHz","amdCpu":"Athlon 64 X2 Dual Core 5800+","nvidiaGpu":"GeForce GTS 450","amdGpu":"Radeon HD 6670","memory":"4 GB","_id":"pKvbwQywKmZyNOgn"}
@@ -7110,6 +7155,7 @@
 {"game":"Aura Kingdom","intelCpu":"Core 2 Duo E6700 2.66GHz","amdCpu":"Athlon 64 X2 Dual Core 6000+","nvidiaGpu":"GeForce 9500 GS","amdGpu":"Radeon HD 2600 Pro","memory":"4 GB","_id":"rVWrJlRAc9qebA70"}
 {"game":"Yesterday","intelCpu":"Pentium D 820 2.8GHz","amdCpu":"Athlon LE-1600","nvidiaGpu":"GeForce 7800 GT","amdGpu":"Radeon X800 XT","memory":"2 GB","_id":"rVoovw3NhdzstTMl"}
 {"game":"Industry Manager Future Simulator","intelCpu":"Core i5-750S 2.4GHz","amdCpu":"Phenom II X4 965","nvidiaGpu":"GeForce GT 740 v2 EVGA FTW 2GB Edit...","amdGpu":"Radeon R7 250X","memory":"6 GB","_id":"rVvCUfHPO4ERr0Bz"}
+{"game":"Isonzo","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"rWxsmVESYRWEVdhe"}
 {"game":"Cry of Fear","intelCpu":"Pentium 4 2.66GHz","amdCpu":"Athlon XP 1800+","nvidiaGpu":"GeForce 8600 GT","amdGpu":"Radeon X1900 Series","memory":"2 GB","_id":"rWySx4x0JYYBdpOA"}
 {"game":"Capricorn 7: Future Cop","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"rXmtHxG2tqNh2xMr"}
 {"game":"In Verbis Virtus","intelCpu":"Core 2 Quad Q6600 2.4GHz","amdCpu":"APU A6-3600 Quad-Core","nvidiaGpu":"GeForce GT 430","amdGpu":"Radeon HD 6550D","memory":"4 GB","_id":"rXr5JfjcEm1mBwIZ"}
@@ -7181,6 +7227,7 @@
 {"game":"The Brink of Destiny","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"rxCPsgrzQdduUdBX"}
 {"game":"7 Nightmares","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"rxrlj7UXu5jhkHDl"}
 {"game":"Hood: Outlaws and Legends","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"ryDATb8VR3T9m3aJ"}
+{"game":"Yandere Simulator","intelCpu":"Xeon E5-2650 v3","amdCpu":"Ryzen 3 3100 4-Core 3.6GHz","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 FURY X 4GB","memory":"8 GB","_id":"ryHAMGsMZWHvtNmP"}
 {"game":"Kingpin: Life Of Crime","intelCpu":"Pentium II 266MHz","amdCpu":"K6 266MHz","nvidiaGpu":"Vanta LT","amdGpu":"Rage 128 Ultra 16MB","memory":"64 MB","_id":"rzjDVxaPaw8aVUih"}
 {"game":"Kerbal Space Program 2","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"rzkREG6Xl3o3E4eJ"}
 {"game":"Sinking Simulator","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"rztIn5wlcHpz3BcK"}
@@ -7456,6 +7503,7 @@
 {"game":"Liberated","intelCpu":"Core i5-6500 3.2GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 580 4GB","memory":"8 GB","_id":"tvimj2ILtgoPMnh6"}
 {"game":"Eden Star","intelCpu":"Core 2 Duo E7600 3.06GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 6670","memory":"4 GB","_id":"twM81nWNobecZiRa"}
 {"game":"Starbase","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R7 1700","nvidiaGpu":"GeForce GTX 1080 Ti","amdGpu":"Radeon RX Vega 64 Nano 8GB","memory":"16 GB","_id":"twQpp747ySfVWIjY"}
+{"game":"1979 Revolution: Black Friday","intelCpu":"Core 2 Extreme QX6800 2.93GHz","amdCpu":"Phenom II X4 B50","nvidiaGpu":"GeForce 8400 GS","amdGpu":"FireGL V7350","memory":"4 GB","_id":"twT44HmyvB6Gq5EW"}
 {"game":"Valley","intelCpu":"Core 2 Quad Q9700 3.16GHz","amdCpu":"Phenom II X4 955 Black Edition","nvidiaGpu":"GeForce GTX 660","amdGpu":"Radeon HD 7870","memory":"16 GB","_id":"twsuDxDm5jk90sHb"}
 {"game":"Lock On Flaming Cliffs 3","intelCpu":"Core 2 Duo E7600 3.06GHz","amdCpu":"Athlon II X2 270","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 6670","memory":"4 GB","_id":"txfFsExowRJ41OGI"}
 {"game":"Jet Lancer","intelCpu":"Pentium G3250 3.2GHz","amdCpu":"FX-4350","nvidiaGpu":"GeForce GTX 750","amdGpu":"Radeon RX 560X 4GB","memory":"4 GB","_id":"tyTQFrNfije7yA6B"}
@@ -7465,6 +7513,7 @@
 {"game":"Rocksmith - The Police 3-Song Pack","intelCpu":"Core 2 Duo E6750 2.66GHz","amdCpu":"Athlon 64 X2 Dual Core 6000+","nvidiaGpu":"GeForce GTS 250","amdGpu":"Radeon HD 3800 series","memory":"4 GB","_id":"u1tVShCq2KdLDRXp"}
 {"game":"Duke Nukem Forever","intelCpu":"Core 2 Duo E4600 2.4GHz","amdCpu":"Athlon 64 X2 Dual Core 4800+","nvidiaGpu":"GeForce 8800 GTS","amdGpu":"Radeon HD 3850","memory":"2 GB","_id":"u1yRGomLXP5VXUuo"}
 {"game":"Six Ages: Ride Like the Wind","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"u1zoECB2hqsln1l4"}
+{"game":"Adios","intelCpu":"Core i5-4670K 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 580 8GB","memory":"8 GB","_id":"u25ECUByUIY8ySgz"}
 {"game":"Aliens: Fireteam","intelCpu":"Core i5-4460 3.2GHz","amdCpu":"Ryzen 3 3200G","nvidiaGpu":"GeForce GTX 1050","amdGpu":"Radeon RX 460 4GB","memory":"8 GB","_id":"u2DnlHiUNNF437WV"}
 {"game":"Arthurs Knights","intelCpu":"Pentium III 1200Mhz","amdCpu":"Athlon MP","nvidiaGpu":"GeForce 2 MX 400 64MB","amdGpu":"Radeon 9000 Series 64MB","memory":"256 MB","_id":"u2KQp6GNRTDRU9Cs"}
 {"game":"Red Olymps: A CGA Death Rampage","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"u2O6zLvO5kei6awG"}
@@ -7563,6 +7612,7 @@
 {"game":"The Sun Misses the Moon","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"ulAzHEfoUrCgFsjM"}
 {"game":"Avorion","intelCpu":"Core 2 Quad Q9450 2.66GHz","amdCpu":"Phenom II X4 805","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon R7 360X","memory":"6 GB","_id":"um4No7QOcQ0vXEmF"}
 {"game":"Genesis Alpha One Deluxe Edition","intelCpu":"Core i5-4590 3.3GHz","amdCpu":"FX-8350","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon R9 390","memory":"8 GB","_id":"umqNNfMzMncX3IFr"}
+{"game":"Before Your Eyes","intelCpu":"Core i5-4690 3.5GHz","amdCpu":"Ryzen R5 1500X","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"unUPRIwQ8dtivYGD"}
 {"game":"Yomawari: Night Alone","intelCpu":"Core i3-4370T 3.3GHz","amdCpu":"APU A10-5800K Quad-Core","nvidiaGpu":"GeForce GTX 560 Ti","amdGpu":"Radeon HD 7850 Direct CU II","memory":"2 GB","_id":"unsG1a70ntbSju61"}
 {"game":"Anomaly 2","intelCpu":"Core i5-2390T 2.7GHz","amdCpu":"Phenom II X4 850","nvidiaGpu":"GeForce 8800 GTS 512MB","amdGpu":"Radeon HD 5770 1024MB","memory":"4 GB","_id":"uoPeBokmbmSxW4SV"}
 {"game":"Orion: Dino Beatdown","intelCpu":"Core 2 Quad Q6400 2.13GHz","amdCpu":"Phenom 9600B Quad-Core","nvidiaGpu":"GeForce GT 530","amdGpu":"Radeon HD 2900 XT 512MB","memory":"3 GB","_id":"upKyg5nLFWfrVlC6"}
@@ -7614,6 +7664,7 @@
 {"game":"Samurai Shodown","intelCpu":"Core i7-3770S 4-Core 3.1GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 480 4GB","memory":"16 GB","_id":"v77J7WcO03mtrFRN"}
 {"game":"Sniper Elite 4","intelCpu":"Core i7-3770 4-Core 3.4GHz","amdCpu":"FX-8370","nvidiaGpu":"GeForce GTX 970 4GB","amdGpu":"Radeon RX 480 4GB","memory":"8 GB","_id":"v8HKXbMswyE9olMk"}
 {"game":"Defenders of Time","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"v9myebWot5GKgar7"}
+{"game":"Shadow Man Remastered","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"4 GB","_id":"vA1CdNkGDZfDSWER"}
 {"game":"Pillars of Eternity 2: Deadfire","intelCpu":"Core i5-2400 3.1GHz","amdCpu":"Phenom II X6 1100T","nvidiaGpu":"GeForce GTX 570","amdGpu":"Radeon HD 7790","memory":"8 GB","_id":"vA8E3GKd02xlSS6x"}
 {"game":"Graveyard Keeper","intelCpu":"Core i3-3240 3.4GHz","amdCpu":"Phenom II X4 40","nvidiaGpu":"GeForce GTX 650 2GB","amdGpu":"Radeon HD 6770","memory":"4 GB","_id":"vAOqihkUBvKnxf8n"}
 {"game":"Journey of Greed","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"FX-4100","nvidiaGpu":"GeForce GT 740","amdGpu":"Radeon R7 240 2GB","memory":"4 GB","_id":"vAsdJZjbALUOoZLN"}
@@ -7626,6 +7677,7 @@
 {"game":"Blackguards","intelCpu":"Core 2 Quad Q6400 2.13GHz","amdCpu":"Phenom 9600B Quad-Core","nvidiaGpu":"GeForce GTX 275","amdGpu":"Radeon HD 4770 512MB","memory":"4 GB","_id":"vEAtwS8HaqPs57Hx"}
 {"game":".hack//G.U. Last Recode","intelCpu":"Core i3-2125 3.3GHz","amdCpu":"APU A10-7850K Quad-Core","nvidiaGpu":"GeForce GTX 660 Ti","amdGpu":"Radeon HD 7950","memory":"4 GB","_id":"vEEfKYrJlQTVkUtx"}
 {"game":"NCG-19:Gravitus","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"vEHSBQkYQnTDVUlk"}
+{"game":"Do Not Feed the Monkeys","intelCpu":"Core 2 Duo E8190 2.66GHz","amdCpu":"Athlon 5200B Dual Core","nvidiaGpu":"GeForce GT 610","amdGpu":"Radeon HD 4650","memory":"4 GB","_id":"vEWWIPwFPIxouASy"}
 {"game":"Antisquad","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"vH6bMbkETu1sN5IL"}
 {"game":"Merchant","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"vHZslwUqsxGIR64K"}
 {"game":"Aporia: Beyond The Valley","intelCpu":"Core i5-650 3.2GHz","amdCpu":"Athlon II X4 605e","nvidiaGpu":"GeForce GTX 960 2GB","amdGpu":"Radeon R9 380","memory":"8 GB","_id":"vJGFs8l2QrWVGlxE"}
@@ -7987,6 +8039,7 @@
 {"game":"Victory","intelCpu":"Core 2 Duo E7500 2.93GHz","amdCpu":"Phenom II X2 560 Black Edition","nvidiaGpu":{},"amdGpu":"Radeon HD 6670","memory":"4 GB","_id":"yFWv56z7yv8VM5nr"}
 {"game":"Moonbase Commander","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"1 GB","_id":"yFXsHwd6hQPkJTGw"}
 {"game":"Auto Assault","intelCpu":"Pentium 4 2.53GHz","amdCpu":"Athlon XP 2500+","nvidiaGpu":"GeForce FX 5500","amdGpu":"Radeon 8500 Series 64MB","memory":"1 GB","_id":"yFbFXOBhYD1LQCRZ"}
+{"game":"Forspoken","intelCpu":"Core i7-6700K 4-Core 4.0GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1070","amdGpu":"Radeon RX Vega 56 8GB","memory":"16 GB","_id":"yFmGF5GManzvAyAY"}
 {"game":"Oddworld: Abes Oddysee New n Tasty","intelCpu":"Core i5-2500T 2.3GHz","amdCpu":"FX-6120","nvidiaGpu":"GeForce GTX 560","amdGpu":"Radeon HD 6850","memory":"4 GB","_id":"yG2P93k7P7nMHPTL"}
 {"game":"Sproggiwood","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"yG5MdLrWert1WRhc"}
 {"game":"Octodad","intelCpu":"Celeron E1200 Dual-Core 1.6GHz","amdCpu":"Athlon 64 X2 Dual Core 4000+","nvidiaGpu":"GeForce GT 230","amdGpu":"Radeon HD 6550D","memory":"2 GB","_id":"yGUlIhCDwkfbQl0e"}
@@ -8118,6 +8171,7 @@
 {"game":"One Piece: Pirate Warriors 4","intelCpu":"Core i5-8400 6-Core 2.8GHz","amdCpu":"Ryzen 5 3600 6-Core 3.6GHz","nvidiaGpu":"GeForce GTX 1060 3GB","amdGpu":"Radeon RX 580 4GB","memory":"12 GB","_id":"zC085YdRN3emFfKo"}
 {"game":"Hunters of The Dead","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"zCJ5N5h2ljTfrjYU"}
 {"game":"Soda Dungeon 2","intelCpu":"Core i3-2100 3.1GHz","amdCpu":"Phenom II X4 910e","nvidiaGpu":"GeForce GT 630","amdGpu":"Radeon R5 240 v1","memory":"2 GB","_id":"zDDlr5XkwdVpkZXp"}
+{"game":"Assassins Creed: Valhalla - Wrath of the Druids","intelCpu":"Core i7-4790 4-Core 3.6GHz","amdCpu":"Ryzen R5 1600","nvidiaGpu":"GeForce GTX 1060","amdGpu":"Radeon RX 570 8GB","memory":"8 GB","_id":"zDeZtibLizovwxuq"}
 {"game":"Guncraft","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"zDl6L1EGdGuC17vR"}
 {"game":"The Airfighter 2010","intelCpu":"Core 2 Duo E4400 2.0GHz","amdCpu":"Athlon 64 X2 Dual Core 4200+","nvidiaGpu":"GeForce GT 340","amdGpu":"Radeon X1900 GT","memory":"2 GB","_id":"zFNASoH2HnYzr5Zk"}
 {"game":"Okami 2","intelCpu":"Core i5-750S 2.4GHz","amdCpu":"Phenom II X4 965","nvidiaGpu":"GeForce GTX 750 Ti","amdGpu":"Radeon R7 360X","memory":"6 GB","_id":"zFeVSxNSxUzigzyQ"}

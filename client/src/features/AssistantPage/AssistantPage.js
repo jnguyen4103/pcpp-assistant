@@ -6,7 +6,11 @@ const AssistantPage = () => {
     const [sessionId, setSessionId] = useState(null);
     const [message, setMessage] = useState({ text: '', type: null });
     const [messages, setMessages] = useState([]);
+    const [games, setGames] = useState([]);
+    const [budget, setBudget] = useState('0');
+    const [sysReq, setSysReq] = useState({});
 
+    // Initialize the assistant
     useEffect(() => {
         let id = axios.get('/getAssistantID').then((res) => {
             setSessionId(res.data.session_id);
@@ -21,6 +25,27 @@ const AssistantPage = () => {
         });
     }, []);
 
+    // Find system requirements based on games
+    useEffect(() => {
+        if (games.length > 0) {
+            let gamesArray = [];
+            games[0].forEach((game) => {
+                if (game.entity == 'game') {
+                    gamesArray.push(game.value);
+                }
+            });
+
+            axios
+                .post('/getGamesRequirements', {
+                    games: gamesArray,
+                    budget: budget,
+                })
+                .then((res) => {
+                    setSysReq(res.data);
+                });
+        }
+    }, [games]);
+
     const getResponse = (id, message) => {
         let response = axios
             .post('/getAssistantResponse', {
@@ -29,6 +54,23 @@ const AssistantPage = () => {
             })
             .then(
                 (res) => {
+                    if (
+                        res.data.output.generic[0].text.includes(
+                            "Nice. I'll find a PC that can handle"
+                        )
+                    ) {
+                        setGames((games) => [
+                            ...games,
+                            res.data.output.entities,
+                        ]);
+                    }
+                    if (
+                        res.data.output.generic[0].text.includes(
+                            'Got it, thanks! Your budget'
+                        )
+                    ) {
+                        setBudget(res.data.output.entities[1].value);
+                    }
                     return res.data.output.generic[0].text;
                 },
                 (error) => {
@@ -74,6 +116,7 @@ const AssistantPage = () => {
             handleUserInput={handleUserInput}
             message={message}
             messages={messages}
+            sysReq={sysReq}
         />
     );
 };

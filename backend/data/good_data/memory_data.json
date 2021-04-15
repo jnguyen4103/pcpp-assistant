@@ -49,7 +49,7 @@
     },
     "ADATA XPG GAMMIX D10 32 GB (4 x 8 GB) DDR4-2400 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Red / White",
@@ -97,7 +97,7 @@
     },
     "ADATA XPG GAMMIX D10 64 GB (4 x 16 GB) DDR4-2400 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Red / White",
@@ -113,7 +113,7 @@
     },
     "ADATA XPG GAMMIX D10 64 GB (4 x 16 GB) DDR4-2666 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / White",
@@ -132,7 +132,7 @@
             "https://pcpartpicker.com/mr/amazon/Hsxbt6": "$149.11+",
             "https://pcpartpicker.com/mr/bhphotovideo/Hsxbt6": "$84.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "ECC / Registered": "Non-ECC / Unbuffered",
@@ -150,7 +150,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/KmfhP6": "$76.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Silver / Black",
@@ -649,7 +649,7 @@
     },
     "Avexir Budget Series 4 GB (1 x 4 GB) DDR3-1333 CL9 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "9",
             "Color": "Black",
@@ -681,7 +681,7 @@
     },
     "Avexir Budget Series 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "11",
             "Color": "Black",
@@ -697,7 +697,7 @@
     },
     "Avexir Core Series 16 GB (2 x 8 GB) DDR3-1600 CL11 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "11",
             "Color": "Black / Green",
@@ -713,7 +713,7 @@
     },
     "Avexir Core Series 32 GB (4 x 8 GB) DDR4-2400 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Red",
@@ -778,7 +778,7 @@
     },
     "Avexir Core Series 8 GB (2 x 4 GB) DDR4-2666 CL17 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "17",
             "Color": "Black / Red",
@@ -829,7 +829,7 @@
     },
     "Avexir Green Tesla 32 GB (4 x 8 GB) DDR4-3000 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Green",
@@ -878,7 +878,7 @@
     },
     "Avexir ROG Red Tesla 16 GB (4 x 4 GB) DDR4-2666 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Red",
@@ -1010,7 +1010,7 @@
             "https://pcpartpicker.com/mr/corsair/CgtWGX": "$819.99",
             "https://pcpartpicker.com/mr/memoryc/CgtWGX": "$1323.30+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Silver",
@@ -1031,7 +1031,7 @@
             "https://pcpartpicker.com/mr/amazon/f7KcCJ": "$259.95",
             "https://pcpartpicker.com/mr/corsair/f7KcCJ": "$226.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1054,7 +1054,7 @@
             "https://pcpartpicker.com/mr/memoryc/kChmP6": "$382.59+",
             "https://pcpartpicker.com/mr/newegg/kChmP6": "$329.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "White",
@@ -1077,7 +1077,7 @@
             "https://pcpartpicker.com/mr/memoryc/qdkD4D": "$108.27+",
             "https://pcpartpicker.com/mr/newegg/qdkD4D": "$89.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "9",
             "Color": "Black / Yellow",
@@ -1098,7 +1098,7 @@
             "https://pcpartpicker.com/mr/amazon/4hHRsY": "$4261.25",
             "https://pcpartpicker.com/mr/corsair/4hHRsY": "$1789.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "19",
             "Color": "Black / Yellow",
@@ -1119,7 +1119,7 @@
             "https://pcpartpicker.com/mr/amazon/tPVBD3": "$188.99",
             "https://pcpartpicker.com/mr/corsair/tPVBD3": "$61.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Red",
@@ -1143,7 +1143,7 @@
             "https://pcpartpicker.com/mr/memoryc/J27CmG": "$118.36+",
             "https://pcpartpicker.com/mr/newegg/J27CmG": "$88.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Yellow",
@@ -1167,7 +1167,7 @@
             "https://pcpartpicker.com/mr/memoryc/MYH48d": "$111.23+",
             "https://pcpartpicker.com/mr/newegg/MYH48d": "$101.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Yellow",
@@ -1199,7 +1199,7 @@
             "https://pcpartpicker.com/mr/newegg/p6RFf7": "$86.99",
             "https://pcpartpicker.com/mr/walmart/p6RFf7": "$86.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Yellow",
@@ -1223,7 +1223,7 @@
             "https://pcpartpicker.com/mr/memoryc/VNJtt6": "$121.31+",
             "https://pcpartpicker.com/mr/newegg/VNJtt6": "$105.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black",
@@ -1250,7 +1250,7 @@
             "https://pcpartpicker.com/mr/memoryc/W6ndnQ": "$227.08+",
             "https://pcpartpicker.com/mr/newegg/W6ndnQ": "$191.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Yellow",
@@ -1273,7 +1273,7 @@
             "https://pcpartpicker.com/mr/memoryc/Yg3mP6": "$230.76+",
             "https://pcpartpicker.com/mr/newegg/Yg3mP6": "$164.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black / Yellow",
@@ -1296,7 +1296,7 @@
             "https://pcpartpicker.com/mr/memoryc/mtXnTW": "$244.13+",
             "https://pcpartpicker.com/mr/newegg/mtXnTW": "$196.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black / Yellow",
@@ -1320,7 +1320,7 @@
             "https://pcpartpicker.com/mr/memoryc/sMbkcf": "$66.05+",
             "https://pcpartpicker.com/mr/newegg/sMbkcf": "$48.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Yellow",
@@ -1343,7 +1343,7 @@
             "https://pcpartpicker.com/mr/memoryc/Tb97YJ": "$66.47+",
             "https://pcpartpicker.com/mr/newegg/Tb97YJ": "$56.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Yellow",
@@ -1372,7 +1372,7 @@
             "https://pcpartpicker.com/mr/newegg/QDhKHx": "$119.99",
             "https://pcpartpicker.com/mr/newegg/vfDJ7P": "$96.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1397,7 +1397,7 @@
             "https://pcpartpicker.com/mr/newegg/XWGnTW": "$99.99",
             "https://pcpartpicker.com/mr/newegg/zgpmP6": "$127.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black",
@@ -1424,7 +1424,7 @@
             "https://pcpartpicker.com/mr/corsair/NyTPxr": "$176.99",
             "https://pcpartpicker.com/mr/newegg/27TzK8": "$174.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1478,7 +1478,7 @@
             "https://pcpartpicker.com/mr/newegg/3yQG3C": "$224.99",
             "https://pcpartpicker.com/mr/newegg/vZrmP6": "$224.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1505,7 +1505,7 @@
             "https://pcpartpicker.com/mr/newegg/68zkcf": "$254.99",
             "https://pcpartpicker.com/mr/newegg/PfrYcf": "$229.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black",
@@ -1526,7 +1526,7 @@
             "https://pcpartpicker.com/mr/amazon/X7xbt6": "$344.00",
             "https://pcpartpicker.com/mr/newegg/X7xbt6": "$409.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black",
@@ -1702,7 +1702,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/pyRzK8": "$48.95",
             "https://pcpartpicker.com/mr/newegg/pyRzK8": "$43.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "17",
             "Color": "Green",
@@ -1735,7 +1735,7 @@
     },
     "Crucial 8 GB (1 x 8 GB) Registered DDR4-2666 CL19 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "19",
             "ECC / Registered": "ECC / Registered",
@@ -1754,7 +1754,7 @@
             "https://pcpartpicker.com/mr/amazon/rtkgXL": "$118.00",
             "https://pcpartpicker.com/mr/bhphotovideo/rtkgXL": "$84.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1785,7 +1785,7 @@
             "https://pcpartpicker.com/mr/newegg/Wy848d": "$79.99",
             "https://pcpartpicker.com/mr/newegg/jbyqqs": "$79.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "White",
@@ -1812,7 +1812,7 @@
             "https://pcpartpicker.com/mr/memoryc/BxTzK8": "$114.76+",
             "https://pcpartpicker.com/mr/newegg/rWmFf7": "$79.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1838,7 +1838,7 @@
             "https://pcpartpicker.com/mr/newegg/2TFKHx": "$93.99",
             "https://pcpartpicker.com/mr/newegg/njvqqs": "$93.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1862,7 +1862,7 @@
             "https://pcpartpicker.com/mr/memoryc/gCCFf7": "$553.87+",
             "https://pcpartpicker.com/mr/newegg/gCCFf7": "$183.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1884,7 +1884,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/KkqBD3": "$187.95",
             "https://pcpartpicker.com/mr/newegg/KkqBD3": "$187.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1901,7 +1901,7 @@
     },
     "Crucial Ballistix Elite 16 GB (1 x 16 GB) DDR4-3000 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black",
@@ -1917,7 +1917,7 @@
     },
     "Crucial Ballistix Elite 32 GB (2 x 16 GB) DDR4-3000 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black",
@@ -1936,7 +1936,7 @@
             "https://pcpartpicker.com/mr/amazon/DLZzK8": "$989.99",
             "https://pcpartpicker.com/mr/memoryc/DLZzK8": "$1161.80+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "19",
             "Color": "Black",
@@ -1964,7 +1964,7 @@
             "https://pcpartpicker.com/mr/newegg/4JBhP6": "$99.99",
             "https://pcpartpicker.com/mr/newegg/WPvqqs": "$104.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -1982,7 +1982,7 @@
     },
     "Crucial Ballistix Sport LT 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "White",
@@ -2108,7 +2108,7 @@
     },
     "G.Skill Aegis 16 GB (4 x 4 GB) DDR4-2400 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Red",
@@ -2170,7 +2170,7 @@
             "https://pcpartpicker.com/mr/memoryc/88rcCJ": "$48.18+",
             "https://pcpartpicker.com/mr/newegg/88rcCJ": "$40.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Red",
@@ -2191,7 +2191,7 @@
             "https://pcpartpicker.com/mr/memoryc/XJYWGX": "$49.96+",
             "https://pcpartpicker.com/mr/newegg/XJYWGX": "$42.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Red",
@@ -2264,7 +2264,7 @@
     },
     "G.Skill Flare X 32 GB (4 x 8 GB) DDR4-2400 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black",
@@ -2281,7 +2281,7 @@
     },
     "G.Skill Flare X 64 GB (4 x 16 GB) DDR4-2133 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Red",
@@ -2315,7 +2315,7 @@
     },
     "G.Skill Ripjaws Series 16 GB (1 x 16 GB) DDR4-2800 CL18 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black / Blue",
@@ -2331,7 +2331,7 @@
     },
     "G.Skill Ripjaws Series 32 GB (2 x 16 GB) DDR4-2800 CL18 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black / Blue",
@@ -2363,7 +2363,7 @@
     },
     "G.Skill Ripjaws Series 32 GB (4 x 8 GB) DDR4-2800 CL18 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black / Blue",
@@ -2379,7 +2379,7 @@
     },
     "G.Skill Ripjaws Series 8 GB (1 x 8 GB) DDR4-2800 CL18 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black / Blue",
@@ -2399,7 +2399,7 @@
             "https://pcpartpicker.com/mr/memoryc/36zv6h": "$51.44+",
             "https://pcpartpicker.com/mr/newegg/36zv6h": "$47.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "9",
             "Color": "Black / Red",
@@ -2456,7 +2456,7 @@
             "https://pcpartpicker.com/mr/amazon/n6RgXL": "$89.99",
             "https://pcpartpicker.com/mr/newegg/n6RgXL": "$84.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Black",
@@ -2477,7 +2477,7 @@
             "https://pcpartpicker.com/mr/amazon/zcH8TW": "$199.99",
             "https://pcpartpicker.com/mr/newegg/zcH8TW": "$209.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -2523,7 +2523,7 @@
             "https://pcpartpicker.com/mr/newegg/Nqp323": "$89.99",
             "https://pcpartpicker.com/mr/newegg/qGqbt6": "$89.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Red",
@@ -2540,7 +2540,7 @@
     },
     "G.Skill Ripjaws V Series 16 GB (4 x 4 GB) DDR4-2666 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Red",
@@ -2559,7 +2559,7 @@
             "https://pcpartpicker.com/mr/amazon/kXbkcf": "$164.99",
             "https://pcpartpicker.com/mr/newegg/kXbkcf": "$164.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -2608,7 +2608,7 @@
     },
     "G.Skill Ripjaws V Series 64 GB (4 x 16 GB) DDR4-3200 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black",
@@ -2656,7 +2656,7 @@
     },
     "G.Skill Ripjaws V Series 64 GB (8 x 8 GB) DDR4-3200 CL14 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "14",
             "Color": "Black",
@@ -2675,7 +2675,7 @@
             "https://pcpartpicker.com/mr/amazon/D6RFf7": "$68.18+",
             "https://pcpartpicker.com/mr/newegg/D6RFf7": "$54.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -2709,7 +2709,7 @@
     },
     "G.Skill Trident Z 16 GB (2 x 8 GB) DDR4-3733 CL17 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "17",
             "Color": "Red / Silver",
@@ -2778,7 +2778,7 @@
     },
     "G.Skill Trident Z 32 GB (4 x 8 GB) DDR4-3333 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Red / Silver",
@@ -2810,7 +2810,7 @@
     },
     "G.Skill Trident Z 64 GB (8 x 8 GB) DDR4-3000 CL14 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "14",
             "Color": "Red / Silver",
@@ -2828,7 +2828,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/newegg/d2mxFT": "$669.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "14",
             "Color": "Red / Silver",
@@ -2913,7 +2913,7 @@
             "https://pcpartpicker.com/mr/amazon/XJVG3C": "$339.00",
             "https://pcpartpicker.com/mr/newegg/XJVG3C": "$291.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Silver / Black",
@@ -2933,7 +2933,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/newegg/hFdrxr": "$499.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Silver",
@@ -3121,7 +3121,7 @@
             "https://pcpartpicker.com/mr/amazon/pyzkcf": "$139.99",
             "https://pcpartpicker.com/mr/newegg/pyzkcf": "$134.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Silver",
@@ -3162,7 +3162,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/newegg/c722FT": "$334.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "17",
             "Color": "Gold",
@@ -3180,7 +3180,7 @@
     },
     "G.Skill Trident Z Royal 64 GB (8 x 8 GB) DDR4-3200 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Gold",
@@ -3669,7 +3669,7 @@
             "https://pcpartpicker.com/mr/bestbuy/7YkgXL": "$89.99",
             "https://pcpartpicker.com/mr/memoryc/7YkgXL": "$112.66+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -3690,7 +3690,7 @@
             "https://pcpartpicker.com/mr/bestbuy/QBrYcf": "$94.99",
             "https://pcpartpicker.com/mr/memoryc/QBrYcf": "$116.21+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Silver",
@@ -3711,7 +3711,7 @@
             "https://pcpartpicker.com/mr/memoryc/LfDkcf": "$60.43+",
             "https://pcpartpicker.com/mr/newegg/LfDkcf": "$59.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black",
@@ -3732,7 +3732,7 @@
             "https://pcpartpicker.com/mr/bestbuy/YcTzK8": "$103.99",
             "https://pcpartpicker.com/mr/memoryc/YcTzK8": "$133.27+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -3749,7 +3749,7 @@
     },
     "Kingston Impact 16 GB (1 x 16 GB) DDR4-2133 CL13 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "13",
             "Color": "Black",
@@ -3800,7 +3800,7 @@
     },
     "Kingston Impact 64 GB (4 x 16 GB) DDR4-2133 CL14 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "14",
             "Color": "Black",
@@ -3818,7 +3818,7 @@
     },
     "Kingston Savage 16 GB (4 x 4 GB) DDR4-2400 CL12 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "12",
             "Color": "Black",
@@ -3834,7 +3834,7 @@
     },
     "Kingston Savage 4 GB (1 x 4 GB) DDR4-2400 CL12 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "12",
             "Color": "Black",
@@ -3850,7 +3850,7 @@
     },
     "Kingston Savage 64 GB (4 x 16 GB) DDR4-2666 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Silver",
@@ -4175,7 +4175,7 @@
             "https://pcpartpicker.com/mr/amazon/tRsnTW": "$109.99",
             "https://pcpartpicker.com/mr/newegg/tRsnTW": "$99.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Gold",
@@ -4193,7 +4193,7 @@
     },
     "OLOy WarHawk RGB 32 GB (2 x 16 GB) DDR4-3000 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Red / White",
@@ -4772,7 +4772,7 @@
     },
     "Panram Value 8 GB (1 x 8 GB) DDR4-3000 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -4790,7 +4790,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/twhj4D": "$9.82"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "6",
             "Color": "Black / Green",
@@ -4826,7 +4826,7 @@
             "https://pcpartpicker.com/mr/amazon/mhtKHx": "$53.99",
             "https://pcpartpicker.com/mr/newegg/mhtKHx": "$53.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black",
@@ -4844,7 +4844,7 @@
     },
     "Patriot Viper Elite 8 GB (2 x 4 GB) DDR4-2400 CL15 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "15",
             "Color": "Black / Blue",
@@ -4861,7 +4861,7 @@
     },
     "Patriot Viper Elite 8 GB (2 x 4 GB) DDR4-2800 CL16 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "16",
             "Color": "Black / Blue",
@@ -4899,7 +4899,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/vVVD4D": "$154.99",
             "https://pcpartpicker.com/mr/newegg/vVVD4D": "$159.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "19",
             "Color": "Silver / Black",
@@ -4965,7 +4965,7 @@
     },
     "Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "18",
             "Color": "Blue / Black",
@@ -5452,7 +5452,7 @@
     },
     "Team XTREEM ARGB 32 GB (2 x 16 GB) DDR4-3200 CL14 Memory": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "CAS Latency": "14",
             "Color": "White / Black",

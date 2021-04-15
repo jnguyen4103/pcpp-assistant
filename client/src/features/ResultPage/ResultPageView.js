@@ -1,38 +1,48 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import Header from 'components/Header';
 import { Box, Card, Typography } from '@material-ui/core';
 import useStyles from './styles';
-import parts from 'data/ResultPageTests/test1';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 
-const ResultPageView = () => {
+const ResultPageView = (props) => {
     const styles = useStyles();
 
-    const DisplayParts = (part) => {
+    const DisplayParts = (part, key) => {
         return (
-            <Card className={styles.partContainer} variant="outlined">
+            <Card className={styles.partContainer} variant="outlined" key={key}>
                 <Box className={styles.leftContainer}>
                     <Typography className={styles.partLabel}>{part}</Typography>
                 </Box>
                 <Box className={styles.middleContainer}>
-                    <img src={parts[part].image} className={styles.image} />
+                    {props.parts[part].image != '' ? (
+                        <img
+                            src={props.parts[part].image}
+                            className={styles.image}
+                        />
+                    ) : (
+                        <img
+                            src="https://i.stack.imgur.com/y9DpT.jpg"
+                            className={styles.image}
+                        />
+                    )}
                     <Typography className={styles.partName}>
-                        {parts[part].name}
+                        {props.parts[part].name}
                     </Typography>
                 </Box>
                 <Box className={styles.rightContainer}>
                     <Box>
                         <Typography className={styles.priceAndStore}>
-                            {parts[part].price}
+                            {props.parts[part].price}
                         </Typography>
                         <Typography className={styles.priceAndStore}>
-                            {parts[part].store}
+                            {props.parts[part].store}
                         </Typography>
                     </Box>
                     <ShoppingCartIcon
                         className={styles.cartIcon}
                         onClick={() => {
-                            window.open(parts[part].link);
+                            window.open(props.parts[part].link);
                         }}
                     />
                 </Box>
@@ -45,7 +55,9 @@ const ResultPageView = () => {
             <Header />
             <Box className={styles.innerContainer}>
                 <Box className={styles.contentContainer}>
-                    {Object.keys(parts).map((part) => DisplayParts(part))}
+                    {Object.keys(props.parts).map((part, key) =>
+                        DisplayParts(part, key)
+                    )}
                 </Box>
             </Box>
         </Box>

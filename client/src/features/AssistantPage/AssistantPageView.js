@@ -4,6 +4,7 @@ import { Box, IconButton, Input, Typography } from '@material-ui/core';
 import useStyles from './styles';
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 
 const AssistantPageView = (props) => {
     const styles = useStyles();
@@ -48,6 +49,20 @@ const AssistantPageView = (props) => {
             <Box className={styles.innerContainer}>
                 <Box className={styles.chatContainer}>
                     {createChatFeed}
+                    {Object.keys(props.sysReq).length > 0 ? (
+                        <Box className={styles.systemResponseBubble}>
+                            <Typography
+                                className={styles.responseText}
+                                component={Link}
+                                to={{
+                                    pathname: '/result-page',
+                                    pc: props.sysReq,
+                                }}
+                            >
+                                Click here to see your PC!
+                            </Typography>
+                        </Box>
+                    ) : null}
                     <Box ref={messagesEndRef} />
                 </Box>
                 <Input
@@ -77,6 +92,7 @@ AssistantPageView.propTypes = {
     handleUserInput: PropTypes.func,
     message: PropTypes.object,
     messages: PropTypes.array,
+    sysReq: PropTypes.object,
 };
 
 export default AssistantPageView;

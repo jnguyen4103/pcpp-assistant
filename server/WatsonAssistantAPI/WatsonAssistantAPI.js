@@ -1,6 +1,10 @@
 const AssistantV2 = require("ibm-watson/assistant/v2");
 const { IamAuthenticator } = require("ibm-watson/auth");
 const express = require("express");
+const Datastore = require("nedb");
+const axios = require("axios");
+const Fuse = require("fuse.js");
+const findParts = require("./FindParts");
 const app = express();
 const port = 5000;
 
@@ -12,8 +16,8 @@ app.listen(port, () => {
 });
 
 app.get("/", (req, res) => {
-  res.send('This is the API that serves up Watson Assistant to the front-end.');
-})
+  res.send("This is the API that serves up Watson Assistant to the front-end.");
+});
 
 // Create Assistant service object.
 const assistant = new AssistantV2({
@@ -60,7 +64,48 @@ app.post("/getAssistantResponse", (req, res) => {
       console.log(err);
     });
 
-    assistantResponse.then((response) => {
-      res.send(response);
+  assistantResponse.then((response) => {
+    res.send(response);
+  });
+});
+
+// This method requests the game API from game-debate.com and creates a list of all the games available for search.
+const getGameList = async () => {
+  try {
+    const response = await axios.get(
+      "https://www.game-debate.com/game/api/list"
+    );
+
+    const gameList = [];
+    response.data.forEach((game) => {
+      gameList.push(game["g_title"]);
     });
+    return gameList;
+  } catch (error) {
+    console.error(error);
+  }
+};
+
+db = new Datastore({ filename: "../SysReqScraperAPI/SysReq.db", autoload: true });
+
+app.post("/getGamesRequirements", (req, res) => {
+  getGameList().then((games) => {
+    const fuse = new Fuse(games);
+
+    const requirements = req.body.games.map(async (game) => {
+      result = fuse.search(game);
+
+      let foundGame = await new Promise((resolve, reject) => {
+        db.find({ game: result[0].item }, function (err, docs) {
+          resolve(docs[0]);
+        });
+      });
+
+      return foundGame;
+    });
+
+    Promise.all(requirements).then(result => {
+      res.send(findParts.buildComputer(result, req.body.budget));
+    });
+  });
 });
