@@ -20,9 +20,17 @@ const Header = () => {
                     PCPP-ASSISTANT
                 </Typography>
             </Box>
-            <Typography className={styles.accountText}>
-                sign in | register
-            </Typography>
+            <Box
+                className={styles.logoContainer}
+                component={Link}
+                to={{
+                    pathname: '/register-page',
+                }}>
+                <Typography className={styles.accountText}>
+                    sign in | register
+                </Typography>
+            </Box>
+
         </Box>
     );
 };

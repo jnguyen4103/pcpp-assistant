@@ -7,6 +7,7 @@ import LandingPage from 'features/LandingPage';
 import InputPage from 'features/InputPage';
 import AssistantPage from 'features/AssistantPage';
 import ResultPage from 'features/ResultPage';
+import RegisterPage from 'features/RegisterPage';
 
 const useStyles = makeStyles({
     root: {
@@ -34,6 +35,11 @@ function App() {
                             exact
                             path="/result-page"
                             component={ResultPage}
+                        />
+                        <Route
+                            exact
+                            path="/register-page"
+                            component={RegisterPage}
                         />
                     </Switch>
                 </div>
