@@ -33,7 +33,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/h8MTwP": "$229.00",
             "https://pcpartpicker.com/mr/newegg/h8MTwP": "$239.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1290 MHz",
             "Chipset": "Radeon Pro WX 3200",
@@ -61,7 +61,7 @@
     },
     "ATI FirePro 2270 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "FirePro 2270",
             "Color": "Black / Red",
@@ -366,7 +366,7 @@
     },
     "ATI FirePro W4100 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "FirePro W4100",
             "Color": "Black / Red",
@@ -538,7 +538,7 @@
     },
     "Asus GeForce GT 430 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 430",
             "Color": "Black / Blue",
@@ -567,7 +567,7 @@
     },
     "Asus GeForce GT 520 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 520",
             "Color": "Black / Blue",
@@ -595,7 +595,7 @@
     },
     "Asus GeForce GT 620 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 620",
             "Color": "Black / Silver",
@@ -624,7 +624,7 @@
     },
     "Asus GeForce GT 620 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 620",
             "Color": "Black / Red",
@@ -653,7 +653,7 @@
     },
     "Asus GeForce GT 720 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black",
@@ -682,7 +682,7 @@
     },
     "Asus GeForce GT 730 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 730",
             "Color": "Black / Blue",
@@ -855,7 +855,7 @@
             "https://pcpartpicker.com/mr/asus/p3K2FT": "$729.99+",
             "https://pcpartpicker.com/mr/newegg/p3K2FT": "$753.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1845 MHz",
             "Chipset": "GeForce RTX 3070",
@@ -886,7 +886,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/asus/VW2bt6": "$1149.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1935 MHz",
             "Chipset": "GeForce RTX 3080",
@@ -917,7 +917,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/asus/G32WGX": "$2299.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1890 MHz",
             "Chipset": "GeForce RTX 3090",
@@ -947,7 +947,7 @@
     },
     "Asus Radeon HD 5570 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5570",
             "Cooling": "1 Fan",
@@ -1002,7 +1002,7 @@
     },
     "Asus Radeon HD 6770 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6770",
             "Cooling": "1 Fan",
@@ -1060,7 +1060,7 @@
     },
     "Asus Radeon HD 7750 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7750",
             "Color": "Black / Red",
@@ -1090,7 +1090,7 @@
     },
     "Asus Radeon HD 7850 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7850",
             "Color": "Black / Red",
@@ -1120,7 +1120,7 @@
     },
     "Asus Radeon R7 250X 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 250X",
             "Color": "Black / Red",
@@ -1150,7 +1150,7 @@
     },
     "Asus Radeon R7 260 1 GB DirectCU II Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 260",
             "Color": "Black / Red",
@@ -1180,7 +1180,7 @@
     },
     "Asus Radeon R7 260X 1 GB DirectCU II Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 260X",
             "Color": "Black / Red",
@@ -1214,7 +1214,7 @@
             "https://pcpartpicker.com/mr/amazon/ZxbCmG": "$699.99",
             "https://pcpartpicker.com/mr/asus/ZxbCmG": "$289.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1865 MHz",
             "Chipset": "Radeon RX 5500 XT",
@@ -1546,7 +1546,7 @@
     },
     "Club 3D Radeon R7 260X 2 GB royalKing Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1160 MHz",
             "Chipset": "Radeon R7 260X",
@@ -1841,7 +1841,7 @@
     },
     "Diamond Radeon HD 5830 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5830",
             "Color": "Black / Red",
@@ -1896,7 +1896,7 @@
     },
     "Diamond Radeon HD 6450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Red",
@@ -2190,7 +2190,7 @@
     },
     "Diamond Radeon R7 240 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 240",
             "Color": "Black / Silver",
@@ -2220,7 +2220,7 @@
     },
     "Diamond Radeon R7 240 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "780 MHz",
             "Chipset": "Radeon R7 240",
@@ -2251,7 +2251,7 @@
     },
     "Diamond Radeon R7 250 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1050 MHz",
             "Chipset": "Radeon R7 250",
@@ -2314,7 +2314,7 @@
     },
     "Diamond Radeon R9 295X2 8 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R9 295X2",
             "Color": "Black / Silver",
@@ -2723,7 +2723,7 @@
     },
     "EVGA GeForce 7200 GS 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 7200 GS",
             "Color": "Black / Green",
@@ -2749,7 +2749,7 @@
     },
     "EVGA GeForce 8400 GS 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 8400 GS",
             "Color": "Black / Green",
@@ -2776,7 +2776,7 @@
     },
     "EVGA GeForce GT 430 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 430",
             "Color": "Black / Green",
@@ -2834,7 +2834,7 @@
     },
     "EVGA GeForce GT 640 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Color": "Black",
@@ -2863,7 +2863,7 @@
     },
     "EVGA GeForce GT 720 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black / Green",
@@ -2892,7 +2892,7 @@
     },
     "EVGA GeForce GT 730 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 730",
             "Color": "Black",
@@ -2922,7 +2922,7 @@
     },
     "EVGA GeForce GT 740 1 GB Superclocked Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black / Silver",
@@ -2951,7 +2951,7 @@
     },
     "EVGA GeForce GT 740 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black",
@@ -2982,7 +2982,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/DJCD4D": "$619.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1830 MHz",
             "Chipset": "GeForce GTX 1660",
@@ -3012,7 +3012,7 @@
     },
     "EVGA GeForce GTX 1660 SUPER 6 GB SC ULTRA GAMING Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1830 MHz",
             "Chipset": "GeForce GTX 1660 SUPER",
@@ -3042,7 +3042,7 @@
     },
     "EVGA GeForce GTX 460 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 460",
             "Color": "Black / Silver",
@@ -3070,7 +3070,7 @@
     },
     "EVGA GeForce GTX 460 768 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 460",
             "Color": "Black / Gold",
@@ -3098,7 +3098,7 @@
     },
     "EVGA GeForce GTX 560 Ti 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560 Ti",
             "Color": "Black / Green",
@@ -3158,7 +3158,7 @@
     },
     "EVGA GeForce RTX 2060 SUPER 8 GB SC ULTRA GAMING Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1680 MHz",
             "Chipset": "GeForce RTX 2060 SUPER",
@@ -3291,7 +3291,7 @@
             "https://pcpartpicker.com/mr/evga/7MkgXL": "$799.99+",
             "https://pcpartpicker.com/mr/newegg/7MkgXL": "$829.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1710 MHz",
             "Chipset": "GeForce RTX 3080",
@@ -3593,7 +3593,7 @@
     },
     "Galaxy GeForce GTX 650 Ti Boost 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 650 Ti Boost",
             "Color": "Black",
@@ -3623,7 +3623,7 @@
     },
     "Galaxy GeForce GTX 650 Ti Boost 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 650 Ti Boost",
             "Color": "Black",
@@ -3684,7 +3684,7 @@
     },
     "Gigabyte GeForce GT 440 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 440",
             "Cooling": "1 Fan",
@@ -3740,7 +3740,7 @@
     },
     "Gigabyte GeForce GT 630 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black / Blue",
@@ -3769,7 +3769,7 @@
     },
     "Gigabyte GeForce GT 640 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Color": "Black / Blue",
@@ -3798,7 +3798,7 @@
     },
     "Gigabyte GeForce GT 640 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Color": "Black / Blue",
@@ -3827,7 +3827,7 @@
     },
     "Gigabyte GeForce GT 720 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black",
@@ -3854,7 +3854,7 @@
     },
     "Gigabyte GeForce GT 740 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black / Blue",
@@ -3883,7 +3883,7 @@
     },
     "Gigabyte GeForce GTS 450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTS 450",
             "Color": "Black / Blue",
@@ -3914,7 +3914,7 @@
             "https://pcpartpicker.com/mr/amazon/Dw4NnQ": "$359.99",
             "https://pcpartpicker.com/mr/memoryc/Dw4NnQ": "$778.78+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1442 MHz",
             "Chipset": "GeForce GTX 1050 Ti",
@@ -4004,7 +4004,7 @@
     },
     "Gigabyte GeForce GTX 1660 SUPER 6 GB GAMING OC Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1860 MHz",
             "Chipset": "GeForce GTX 1660 SUPER",
@@ -4035,7 +4035,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/bestbuy/CnpmP6": "$239.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1830 MHz",
             "Chipset": "GeForce GTX 1660 SUPER",
@@ -4205,7 +4205,7 @@
     },
     "Gigabyte GeForce RTX 2070 SUPER 8 GB WINDFORCE OC 3X Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1785 MHz",
             "Chipset": "GeForce RTX 2070 SUPER",
@@ -4332,7 +4332,7 @@
             "https://pcpartpicker.com/mr/bestbuy/dVxbt6": "$799.99+",
             "https://pcpartpicker.com/mr/newegg/dVxbt6": "$809.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1845 MHz",
             "Chipset": "GeForce RTX 3070",
@@ -4429,7 +4429,7 @@
             "https://pcpartpicker.com/mr/bestbuy/3fWBD3": "$1099.99+",
             "https://pcpartpicker.com/mr/newegg/3fWBD3": "$1109.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1800 MHz",
             "Chipset": "GeForce RTX 3080",
@@ -4603,7 +4603,7 @@
     },
     "Gigabyte Radeon HD 5670 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5670",
             "Color": "Black / Silver",
@@ -4688,7 +4688,7 @@
     },
     "Gigabyte Radeon HD 6450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Black / Blue",
@@ -4717,7 +4717,7 @@
     },
     "Gigabyte Radeon HD 6450 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Blue / Silver",
@@ -4745,7 +4745,7 @@
     },
     "Gigabyte Radeon HD 6850 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6850",
             "Color": "Black / Blue",
@@ -4801,7 +4801,7 @@
     },
     "Gigabyte Radeon HD 6990 4 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6990",
             "Cooling": "1 Fan",
@@ -4889,7 +4889,7 @@
     },
     "Gigabyte Radeon R5 230 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R5 230",
             "Color": "Blue / Silver",
@@ -4918,7 +4918,7 @@
     },
     "Gigabyte Radeon R7 250 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 250",
             "Color": "Black / Silver",
@@ -4978,7 +4978,7 @@
     },
     "Gigabyte Radeon R7 260X 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 260X",
             "Color": "Black / Blue",
@@ -5131,7 +5131,7 @@
     },
     "HIS Radeon HD 5450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5450",
             "Color": "Black / Blue",
@@ -5218,7 +5218,7 @@
     },
     "HIS Radeon HD 5570 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5570",
             "Color": "Black / Blue",
@@ -5247,7 +5247,7 @@
     },
     "HIS Radeon HD 5570 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5570",
             "Color": "Black / Blue",
@@ -5276,7 +5276,7 @@
     },
     "HIS Radeon HD 5670 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5670",
             "Color": "Black / Green",
@@ -5335,7 +5335,7 @@
     },
     "HIS Radeon HD 6450 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Black / Blue",
@@ -5361,7 +5361,7 @@
     },
     "HIS Radeon HD 6570 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6570",
             "Color": "Translucent Blue",
@@ -5389,7 +5389,7 @@
     },
     "HIS Radeon HD 6670 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6670",
             "Color": "Black / Blue",
@@ -5446,7 +5446,7 @@
     },
     "HIS Radeon HD 6750 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6750",
             "Color": "Black / Blue",
@@ -5536,7 +5536,7 @@
     },
     "HIS Radeon HD 6870 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6870",
             "Color": "Translucent Blue",
@@ -5566,7 +5566,7 @@
     },
     "HIS Radeon HD 7750 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7750",
             "Color": "Black / Silver",
@@ -5596,7 +5596,7 @@
     },
     "HIS Radeon HD 7790 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7790",
             "Color": "Black / Blue",
@@ -5687,7 +5687,7 @@
     },
     "HIS Radeon HD 7850 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7850",
             "Color": "Black / Silver",
@@ -5717,7 +5717,7 @@
     },
     "HIS Radeon HD 7850 4 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7850",
             "Color": "Black / Blue",
@@ -5776,7 +5776,7 @@
     },
     "HIS Radeon R7 240 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "780 MHz",
             "Chipset": "Radeon R7 240",
@@ -5807,7 +5807,7 @@
     },
     "HIS Radeon R7 250 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1050 MHz",
             "Chipset": "Radeon R7 250",
@@ -5838,7 +5838,7 @@
     },
     "HIS Radeon R7 250 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "780 MHz",
             "Chipset": "Radeon R7 250",
@@ -5869,7 +5869,7 @@
     },
     "HIS Radeon R7 250X 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1000 MHz",
             "Chipset": "Radeon R7 250X",
@@ -5900,7 +5900,7 @@
     },
     "HIS Radeon R7 260X 1 GB IceQ X\u00b2 Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1075 MHz",
             "Chipset": "Radeon R7 260X",
@@ -5930,7 +5930,7 @@
     },
     "HIS Radeon R7 260X 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1000 MHz",
             "Chipset": "Radeon R7 260X",
@@ -5961,7 +5961,7 @@
     },
     "HIS Radeon R7 260X 2 GB iCooler Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1100 MHz",
             "Chipset": "Radeon R7 260X",
@@ -6023,7 +6023,7 @@
     },
     "HIS Radeon R9 270X 2 GB IceQ X\u00b2 Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1050 MHz",
             "Chipset": "Radeon R9 270X",
@@ -6086,7 +6086,7 @@
     },
     "HIS Radeon R9 295X2 8 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1018 MHz",
             "Chipset": "Radeon R9 295X2",
@@ -6178,7 +6178,7 @@
     },
     "Inno3D GeForce GTX 1070 Ti 8 GB HerculeZ Twin X2 V2 Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1683 MHz",
             "Chipset": "GeForce GTX 1070 Ti",
@@ -6399,7 +6399,7 @@
     },
     "KFA2 GeForce GTX 960 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1228 MHz",
             "Chipset": "GeForce GTX 960",
@@ -6491,7 +6491,7 @@
     },
     "MSI GeForce GT 430 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 430",
             "Color": "Black / Silver",
@@ -6517,7 +6517,7 @@
     },
     "MSI GeForce GT 520 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 520",
             "Color": "Black / Silver",
@@ -6546,7 +6546,7 @@
     },
     "MSI GeForce GT 630 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black / Red",
@@ -6579,7 +6579,7 @@
             "https://pcpartpicker.com/mr/monoprice/gkYWGX": "$59.99+",
             "https://pcpartpicker.com/mr/newegg/gkYWGX": "$69.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "954 MHz",
             "Chipset": "GeForce GT 710",
@@ -6638,7 +6638,7 @@
     },
     "MSI GeForce GT 720 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black",
@@ -6667,7 +6667,7 @@
     },
     "MSI GeForce GT 730 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 730",
             "Color": "Black / Blue",
@@ -6696,7 +6696,7 @@
     },
     "MSI GeForce GT 740 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black / Blue",
@@ -6754,7 +6754,7 @@
     },
     "MSI GeForce GTS 450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTS 450",
             "Color": "Black / Silver",
@@ -6810,7 +6810,7 @@
     },
     "MSI GeForce GTX 460 768 MB CYCLONE Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 460",
             "Color": "Black",
@@ -6837,7 +6837,7 @@
     },
     "MSI GeForce GTX 550 Ti 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 550 Ti",
             "Color": "Black",
@@ -6867,7 +6867,7 @@
     },
     "MSI GeForce GTX 560 1 GB TWIN FROZR II Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560",
             "Color": "Black / Silver",
@@ -6895,7 +6895,7 @@
     },
     "MSI GeForce GTX 560 Ti 1 GB TWIN FROZR II GE Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560 Ti",
             "Color": "Black / Orange",
@@ -6923,7 +6923,7 @@
     },
     "MSI GeForce GTX 560 Ti 1 GB TWIN FROZR II Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560 Ti",
             "Color": "Black / Silver",
@@ -6951,7 +6951,7 @@
     },
     "MSI GeForce GTX 650 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 650",
             "Color": "Black / Silver",
@@ -6982,7 +6982,7 @@
     },
     "MSI GeForce GTX 650 Ti Boost 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 650 Ti Boost",
             "Color": "Black / Blue",
@@ -7066,7 +7066,7 @@
     },
     "MSI Radeon HD 5670 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5670",
             "Color": "Black / Silver",
@@ -7122,7 +7122,7 @@
     },
     "MSI Radeon HD 5850 1 GB TWIN FROZR II Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5850",
             "Color": "Black / Silver",
@@ -7151,7 +7151,7 @@
     },
     "MSI Radeon HD 6450 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Black / Silver",
@@ -7180,7 +7180,7 @@
     },
     "MSI Radeon HD 6790 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6790",
             "Cooling": "1 Fan",
@@ -7209,7 +7209,7 @@
     },
     "MSI Radeon HD 6870 1 GB HAWK Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6870",
             "Color": "Black / Silver",
@@ -7239,7 +7239,7 @@
     },
     "MSI Radeon HD 6870 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6870",
             "Color": "White / Red",
@@ -7268,7 +7268,7 @@
     },
     "MSI Radeon R5 230 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R5 230",
             "Color": "Black / White",
@@ -7359,7 +7359,7 @@
     },
     "NVIDIA GeForce RTX 2070 SUPER 8 GB Founders Edition Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1770 MHz",
             "Chipset": "GeForce RTX 2070 SUPER",
@@ -7392,7 +7392,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/3G66Mp": "$2499.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1635 MHz",
             "Chipset": "GeForce RTX 2080 Ti",
@@ -7454,7 +7454,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/bestbuy/m8pmP6": "$499.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1730 MHz",
             "Chipset": "GeForce RTX 3070",
@@ -7513,7 +7513,7 @@
     },
     "PNY GeForce GT 520 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 520",
             "Color": "Blue / Silver",
@@ -7541,7 +7541,7 @@
     },
     "PNY GeForce GT 720 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black",
@@ -7570,7 +7570,7 @@
     },
     "PNY GeForce GT 740 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black / Silver",
@@ -7695,7 +7695,7 @@
             "https://pcpartpicker.com/mr/bestbuy/9g6qqs": "$799.99+",
             "https://pcpartpicker.com/mr/newegg/9g6qqs": "$959.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1710 MHz",
             "Chipset": "GeForce RTX 3080",
@@ -7729,7 +7729,7 @@
             "https://pcpartpicker.com/mr/dellbusiness/8kF48d": "$6999.99+",
             "https://pcpartpicker.com/mr/dellhome/8kF48d": "$6999.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1770 MHz",
             "Chipset": "Quadro RTX 8000",
@@ -7759,7 +7759,7 @@
     },
     "Palit GeForce GTX 750 Ti 2 GB KalmX Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1085 MHz",
             "Chipset": "GeForce GTX 750 Ti",
@@ -7788,7 +7788,7 @@
     },
     "PowerColor Radeon HD 4650 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 4650",
             "Color": "Black / Red",
@@ -7929,7 +7929,7 @@
     },
     "PowerColor Radeon HD 5670 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5670",
             "Color": "Black / Red",
@@ -8016,7 +8016,7 @@
     },
     "PowerColor Radeon HD 6450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Black / Blue",
@@ -8072,7 +8072,7 @@
     },
     "PowerColor Radeon HD 6670 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6670",
             "Color": "Black / Red",
@@ -8192,7 +8192,7 @@
     },
     "PowerColor Radeon HD 6870 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6870",
             "Color": "Black / Red",
@@ -8683,7 +8683,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/CH6qqs": "$219.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1071 MHz",
             "Chipset": "Radeon RX 550 - 512",
@@ -8794,7 +8794,7 @@
     },
     "Sapphire Radeon HD 5450 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5450",
             "Color": "Black / Blue",
@@ -8909,7 +8909,7 @@
     },
     "Sapphire Radeon HD 5830 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5830",
             "Color": "Black / Blue",
@@ -9044,7 +9044,7 @@
     },
     "Sapphire Radeon HD 6570 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6570",
             "Color": "Black / Blue",
@@ -9100,7 +9100,7 @@
     },
     "Sapphire Radeon HD 6770 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6770",
             "Color": "Black / Blue",
@@ -9306,7 +9306,7 @@
     },
     "Sapphire Radeon R7 250 1 GB Eyefinity Edition Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 250",
             "Color": "Black",
@@ -9636,7 +9636,7 @@
     },
     "Sparkle GeForce GT 440 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 440",
             "Color": "Blue / Silver",
@@ -9664,7 +9664,7 @@
     },
     "Sparkle GeForce GT 440 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 440",
             "Color": "Black / Blue",
@@ -9692,7 +9692,7 @@
     },
     "Sparkle GeForce GT 520 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 520",
             "Color": "Black / Blue",
@@ -9721,7 +9721,7 @@
     },
     "Sparkle GeForce GT 520 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 520",
             "Color": "Beige",
@@ -9778,7 +9778,7 @@
     },
     "Sparkle GeForce GT 630 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black / Blue",
@@ -9805,7 +9805,7 @@
     },
     "Sparkle GeForce GT 630 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Blue / Silver",
@@ -9832,7 +9832,7 @@
     },
     "Sparkle GeForce GT 630 4 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black / White",
@@ -9859,7 +9859,7 @@
     },
     "Sparkle GeForce GT 640 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Cooling": "1 Fan",
@@ -9885,7 +9885,7 @@
     },
     "Sparkle GeForce GT 640 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Color": "Black / Silver",
@@ -9913,7 +9913,7 @@
     },
     "Sparkle GeForce GTS 450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTS 450",
             "Color": "Black / Blue",
@@ -10000,7 +10000,7 @@
     },
     "Sparkle GeForce GTX 460 768 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 460",
             "Color": "Black / Purple",
@@ -10028,7 +10028,7 @@
     },
     "Sparkle GeForce GTX 550 Ti 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 550 Ti",
             "Cooling": "2 Fans",
@@ -10056,7 +10056,7 @@
     },
     "Sparkle GeForce GTX 560 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560",
             "Color": "Black",
@@ -10085,7 +10085,7 @@
     },
     "Sparkle GeForce GTX 560 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560",
             "Color": "Black",
@@ -10197,7 +10197,7 @@
     },
     "VisionTek Radeon HD 5450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5450",
             "Cooling": "Fanless",
@@ -10363,7 +10363,7 @@
     },
     "VisionTek Radeon HD 6770 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6770",
             "Color": "Black / Red",
@@ -10418,7 +10418,7 @@
     },
     "VisionTek Radeon HD 6870 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6870",
             "Cooling": "1 Fan",
@@ -10497,7 +10497,7 @@
     },
     "VisionTek Radeon HD 7790 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7790",
             "Color": "Black / Blue",
@@ -10529,7 +10529,7 @@
     },
     "VisionTek Radeon R7 240 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "800 MHz",
             "Chipset": "Radeon R7 240",
@@ -10560,7 +10560,7 @@
     },
     "VisionTek Radeon R7 250 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 250",
             "Color": "Black / Silver",
@@ -10588,7 +10588,7 @@
     },
     "VisionTek Radeon R7 260X 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1160 MHz",
             "Chipset": "Radeon R7 260X",
@@ -10619,7 +10619,7 @@
     },
     "VisionTek Radeon R9 295X2 8 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1018 MHz",
             "Chipset": "Radeon R9 295X2",
@@ -10649,7 +10649,7 @@
     },
     "XFX GeForce 9400 GT 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 9400 GT",
             "Color": "Black",
@@ -10705,7 +10705,7 @@
     },
     "XFX GeForce GT 430 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 430",
             "Color": "Black",
@@ -10788,7 +10788,7 @@
     },
     "XFX Radeon HD 5450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5450",
             "Color": "Black / Red",
@@ -10817,7 +10817,7 @@
     },
     "XFX Radeon HD 5450 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5450",
             "Color": "Black",
@@ -10847,7 +10847,7 @@
     },
     "XFX Radeon HD 5550 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5550",
             "Color": "Black",
@@ -10934,7 +10934,7 @@
     },
     "XFX Radeon HD 5750 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 5750",
             "Color": "Black / Red",
@@ -10991,7 +10991,7 @@
     },
     "XFX Radeon HD 6450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6450",
             "Color": "Black",
@@ -11048,7 +11048,7 @@
     },
     "XFX Radeon HD 6670 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 6670",
             "Color": "Black",
@@ -11253,7 +11253,7 @@
     },
     "XFX Radeon HD 7790 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7790",
             "Color": "Black / Silver",
@@ -11312,7 +11312,7 @@
     },
     "XFX Radeon HD 7850 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon HD 7850",
             "Color": "Black / Silver",
@@ -11402,7 +11402,7 @@
     },
     "XFX Radeon R7 240 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "780 MHz",
             "Chipset": "Radeon R7 240",
@@ -11433,7 +11433,7 @@
     },
     "XFX Radeon R7 250 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1050 MHz",
             "Chipset": "Radeon R7 250",
@@ -11465,7 +11465,7 @@
     },
     "XFX Radeon R7 250X 2 GB Core Edition Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "Radeon R7 250X",
             "Color": "Black / Silver",
@@ -11495,7 +11495,7 @@
     },
     "XFX Radeon R7 265 1 GB Core Edition Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "925 MHz",
             "Chipset": "Radeon R7 265",
@@ -11588,7 +11588,7 @@
     },
     "Zotac GeForce 8400 GS 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 8400 GS",
             "Color": "Blue / Silver",
@@ -11617,7 +11617,7 @@
     },
     "Zotac GeForce 8400 GS 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 8400 GS",
             "Color": "Black / Blue",
@@ -11644,7 +11644,7 @@
     },
     "Zotac GeForce 9600 GSO 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 9600 GSO",
             "Color": "Black / Blue",
@@ -11671,7 +11671,7 @@
     },
     "Zotac GeForce 9800 GT 512 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce 9800 GT",
             "Color": "Black / Orange",
@@ -11699,7 +11699,7 @@
     },
     "Zotac GeForce GT 430 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 430",
             "Color": "Blue / Silver",
@@ -11758,7 +11758,7 @@
     },
     "Zotac GeForce GT 520 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 520",
             "Color": "Black / Silver",
@@ -11815,7 +11815,7 @@
     },
     "Zotac GeForce GT 630 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black",
@@ -11844,7 +11844,7 @@
     },
     "Zotac GeForce GT 630 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black",
@@ -11873,7 +11873,7 @@
     },
     "Zotac GeForce GT 630 4 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 630",
             "Color": "Black / Orange",
@@ -11900,7 +11900,7 @@
     },
     "Zotac GeForce GT 640 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Color": "Black / Orange",
@@ -11929,7 +11929,7 @@
     },
     "Zotac GeForce GT 640 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 640",
             "Color": "Black / Orange",
@@ -11960,7 +11960,7 @@
     },
     "Zotac GeForce GT 720 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black",
@@ -11989,7 +11989,7 @@
     },
     "Zotac GeForce GT 720 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 720",
             "Color": "Black",
@@ -12018,7 +12018,7 @@
     },
     "Zotac GeForce GT 730 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 730",
             "Color": "Black / Gold",
@@ -12046,7 +12046,7 @@
     },
     "Zotac GeForce GT 740 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black / Orange",
@@ -12075,7 +12075,7 @@
     },
     "Zotac GeForce GT 740 2 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GT 740",
             "Color": "Black / Orange",
@@ -12104,7 +12104,7 @@
     },
     "Zotac GeForce GTS 250 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTS 250",
             "Color": "Black / Orange",
@@ -12131,7 +12131,7 @@
     },
     "Zotac GeForce GTS 450 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTS 450",
             "Color": "Black / Orange",
@@ -12164,7 +12164,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/86QfrH": "$699.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1785 MHz",
             "Chipset": "GeForce GTX 1660",
@@ -12196,7 +12196,7 @@
             "https://pcpartpicker.com/mr/amazon/y2xbt6": "$734.99",
             "https://pcpartpicker.com/mr/newegg/y2xbt6": "$399.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1785 MHz",
             "Chipset": "GeForce GTX 1660 SUPER",
@@ -12255,7 +12255,7 @@
     },
     "Zotac GeForce GTX 460 768 MB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 460",
             "Color": "Black / Orange",
@@ -12283,7 +12283,7 @@
     },
     "Zotac GeForce GTX 560 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560",
             "Color": "Black / Orange",
@@ -12314,7 +12314,7 @@
     },
     "Zotac GeForce GTX 560 Ti 1 GB Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 560 Ti",
             "Color": "Black / Orange",
@@ -12371,7 +12371,7 @@
     },
     "Zotac GeForce GTX 650 2 GB AMP Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Chipset": "GeForce GTX 650",
             "Color": "Black / Orange",
@@ -12430,7 +12430,7 @@
     },
     "Zotac GeForce GTX 750 1 GB ZONE Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1111 MHz",
             "Chipset": "GeForce GTX 750",
@@ -12462,7 +12462,7 @@
             "https://pcpartpicker.com/mr/amazon/sM8bt6": "$1088.00+",
             "https://pcpartpicker.com/mr/newegg/sM8bt6": "$529.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1807 MHz",
             "Chipset": "GeForce RTX 3060",
@@ -12491,7 +12491,7 @@
     },
     "Zotac GeForce RTX 3060 Ti 8 GB Twin Edge Video Card": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Boost Clock": "1665 MHz",
             "Chipset": "GeForce RTX 3060 Ti",

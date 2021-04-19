@@ -1,7 +1,7 @@
 {
     "ADATA Premier Pro SP310 128 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "mSATA",
@@ -16,7 +16,7 @@
     },
     "ADATA Premier Pro SP310 32 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "32 GB",
             "Form Factor": "mSATA",
@@ -31,7 +31,7 @@
     },
     "ADATA Premier Pro SP310 64 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "mSATA",
@@ -46,7 +46,7 @@
     },
     "ADATA Premier Pro SP920 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -59,7 +59,7 @@
     },
     "ADATA Premier SP600NS34 256 GB M.2-2242 Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "M.2-2242",
@@ -147,7 +147,7 @@
     },
     "ADATA S511 Series 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -162,7 +162,7 @@
     },
     "ADATA S511 Series 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -177,7 +177,7 @@
     },
     "ADATA S511 Series 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -207,7 +207,7 @@
     },
     "ADATA S599 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -239,7 +239,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/bpjJ7P": "$31.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -253,7 +253,7 @@
     },
     "ADATA SU900 1 TB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -266,7 +266,7 @@
     },
     "ADATA SU900 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -279,7 +279,7 @@
     },
     "ADATA SU900 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -292,7 +292,7 @@
     },
     "ADATA SX7000 256 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "M.2-2280",
@@ -307,7 +307,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/cTxbt6": "$37.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "250 GB",
             "Form Factor": "M.2-2280",
@@ -327,7 +327,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/zR3H99": "$119.99",
             "https://pcpartpicker.com/mr/memoryc/zR3H99": "$146.95+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -346,7 +346,7 @@
             "https://pcpartpicker.com/mr/bestbuy/kVzkcf": "$67.99",
             "https://pcpartpicker.com/mr/bhphotovideo/kVzkcf": "$67.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "M.2-2280",
@@ -373,7 +373,7 @@
     },
     "ADATA XPG SX900 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -388,7 +388,7 @@
     },
     "ADATA XPG SX900 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -403,7 +403,7 @@
     },
     "ADATA XPG SX950 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -433,7 +433,7 @@
             "https://pcpartpicker.com/mr/amazon/cHdrxr": "$399.99",
             "https://pcpartpicker.com/mr/bhphotovideo/cHdrxr": "$399.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -451,7 +451,7 @@
             "https://pcpartpicker.com/mr/amazon/CdK2FT": "$199.99+",
             "https://pcpartpicker.com/mr/bhphotovideo/CdK2FT": "$199.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "2.5\"",
@@ -575,7 +575,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/bdXJ7P": "$49.89+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "M.2-2280",
@@ -591,7 +591,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/WP3gXL": "$86.59"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "M.2-2280",
@@ -607,7 +607,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/6mqPxr": "$173.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "M.2-2280",
@@ -818,7 +818,7 @@
     },
     "Asura Genesis Xtreme 256 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "M.2-2280",
@@ -1057,7 +1057,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/7FV48d": "$89.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -1075,7 +1075,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/r4fp99": "$567.04"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "160 GB",
             "Form Factor": "2.5\"",
@@ -1093,7 +1093,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/WfTmP6": "$354.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -1111,7 +1111,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/kHmLrH": "$99.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "40 GB",
             "Form Factor": "2.5\"",
@@ -1129,7 +1129,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/zPs8TW": "$109.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -1145,7 +1145,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/rm8H99": "$204.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -1161,7 +1161,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/kjcMnQ": "$429.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -1212,7 +1212,7 @@
             "https://pcpartpicker.com/mr/corsair/PrkgXL": "$114.99",
             "https://pcpartpicker.com/mr/newegg/PrkgXL": "$114.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -1231,7 +1231,7 @@
             "https://pcpartpicker.com/mr/corsair/x9gQzy": "$1354.99",
             "https://pcpartpicker.com/mr/newegg/x9gQzy": "$1321.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "8 TB",
             "Form Factor": "M.2-2280",
@@ -1252,7 +1252,7 @@
             "https://pcpartpicker.com/mr/memoryc/gCJmP6": "$214.32+",
             "https://pcpartpicker.com/mr/newegg/gCJmP6": "$174.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -1272,7 +1272,7 @@
             "https://pcpartpicker.com/mr/memoryc/qCmFf7": "$441.96+",
             "https://pcpartpicker.com/mr/newegg/qCmFf7": "$339.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "2 TB",
             "Form Factor": "M.2-2280",
@@ -1288,7 +1288,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/9M9KHx": "$134.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -1306,7 +1306,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/Lm9KHx": "$249.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -1324,7 +1324,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/JFR48d": "$99.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -1360,7 +1360,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/MWkD4D": "$269.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -1378,7 +1378,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/rxphP6": "$509.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -1396,7 +1396,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/fLkwrH": "$104.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -1412,7 +1412,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/NVnG3C": "$194.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -1428,7 +1428,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/LNGj4D": "$469.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -1444,7 +1444,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/NQPzK8": "$389.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -1478,7 +1478,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/wWqdnQ": "$104.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "32 GB",
             "Form Factor": "2.5\"",
@@ -1515,7 +1515,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/corsair/r96BD3": "$209.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "128 GB",
@@ -1556,7 +1556,7 @@
             "https://pcpartpicker.com/mr/memoryc/LFZzK8": "$116.84+",
             "https://pcpartpicker.com/mr/newegg/LFZzK8": "$89.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -1576,7 +1576,7 @@
             "https://pcpartpicker.com/mr/memoryc/Gb2bt6": "$250.12+",
             "https://pcpartpicker.com/mr/newegg/Gb2bt6": "$179.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "2 TB",
             "Form Factor": "2.5\"",
@@ -1610,7 +1610,7 @@
     },
     "Crucial M4 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -1625,7 +1625,7 @@
     },
     "Crucial M4 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -1658,7 +1658,7 @@
     },
     "Crucial M4 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -1673,7 +1673,7 @@
     },
     "Crucial M4 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -1723,7 +1723,7 @@
     },
     "Crucial M550 128 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "mSATA",
@@ -1739,7 +1739,7 @@
     },
     "Crucial M550 256 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "mSATA",
@@ -1757,7 +1757,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/HvH323": "$457.77+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "mSATA",
@@ -1803,7 +1803,7 @@
             "https://pcpartpicker.com/mr/memoryc/nF8j4D": "$262.55+",
             "https://pcpartpicker.com/mr/newegg/nF8j4D": "$214.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2048 MB",
             "Capacity": "2 TB",
@@ -1828,7 +1828,7 @@
             "https://pcpartpicker.com/mr/newegg/ft8j4D": "$53.99",
             "https://pcpartpicker.com/mr/walmart/ft8j4D": "$89.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "500 GB",
@@ -1848,7 +1848,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/pxKcCJ": "$104.99",
             "https://pcpartpicker.com/mr/memoryc/pxKcCJ": "$128.46+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -1867,7 +1867,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/xpYLrH": "$58.80",
             "https://pcpartpicker.com/mr/memoryc/xpYLrH": "$75.22+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "M.2-2280",
@@ -1929,7 +1929,7 @@
             "https://pcpartpicker.com/mr/memoryc/G9XYcf": "$84.14+",
             "https://pcpartpicker.com/mr/newegg/G9XYcf": "$59.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "M.2-2280",
@@ -1949,7 +1949,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/yTTzK8": "$119.99",
             "https://pcpartpicker.com/mr/newegg/yTTzK8": "$119.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -1968,7 +1968,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/sCn8TW": "$61.99",
             "https://pcpartpicker.com/mr/newegg/sCn8TW": "$61.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "M.2-2280",
@@ -2000,7 +2000,7 @@
     },
     "Crucial V4 32 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "32 GB",
             "Form Factor": "2.5\"",
@@ -2015,7 +2015,7 @@
     },
     "Crucial V4 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -2061,7 +2061,7 @@
     },
     "Drevo ES 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -2074,7 +2074,7 @@
     },
     "Drevo ES 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -2184,7 +2184,7 @@
     },
     "G.Skill Phoenix Blade 480 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "PCI-E",
@@ -2199,7 +2199,7 @@
     },
     "G.Skill Phoenix FTL 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -2214,7 +2214,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/newegg/N8n8TW": "$179.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2048 MB",
             "Capacity": "1 TB",
@@ -2229,7 +2229,7 @@
     },
     "HP 120 GB 3.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "3.5\"",
@@ -2242,7 +2242,7 @@
     },
     "HP 146 GB 2.5\" 15000RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "146 GB",
             "Form Factor": "2.5\"",
@@ -2268,7 +2268,7 @@
     },
     "HP 900 GB 3.5\" 10000RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "900 GB",
@@ -2445,7 +2445,7 @@
     },
     "Hitachi Deskstar 3 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "3 TB",
@@ -2515,7 +2515,7 @@
     },
     "Hitachi Deskstar NAS 5 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "5 TB",
@@ -2529,7 +2529,7 @@
     },
     "Hitachi Deskstar NAS 8 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "8 TB",
@@ -2706,7 +2706,7 @@
     },
     "Hitachi Travelstar 500 GB 2.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "500 GB",
@@ -2722,7 +2722,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/bjfp99": "$405.48"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "500 GB",
@@ -3006,7 +3006,7 @@
     },
     "Hitachi Ultrastar He8 8 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "8 TB",
@@ -3090,7 +3090,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/867wrH": "$399.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "2 TB",
             "Form Factor": "3.5\"",
@@ -3104,7 +3104,7 @@
     },
     "IBM 600 GB 2.5\" 10000RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "600 GB",
             "Form Factor": "2.5\"",
@@ -3198,7 +3198,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/4Mh9TW": "$359.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "300 GB",
             "Form Factor": "1.8\"",
@@ -3214,7 +3214,7 @@
     },
     "Intel 320 Series 300 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "300 GB",
             "Form Factor": "2.5\"",
@@ -3229,7 +3229,7 @@
     },
     "Intel 320 Series 40 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "40 GB",
             "Form Factor": "2.5\"",
@@ -3244,7 +3244,7 @@
     },
     "Intel 320 Series 600 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "600 GB",
             "Form Factor": "2.5\"",
@@ -3277,7 +3277,7 @@
     },
     "Intel 320 Series 80 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "80 GB",
             "Form Factor": "2.5\"",
@@ -3292,7 +3292,7 @@
     },
     "Intel 330 Series 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -3336,7 +3336,7 @@
     },
     "Intel 520 Series Cherryville 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -3351,7 +3351,7 @@
     },
     "Intel 520 Series Cherryville 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -3396,7 +3396,7 @@
     },
     "Intel 530 Series 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -3413,7 +3413,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/rbFPxr": "$289.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -3429,7 +3429,7 @@
     },
     "Intel 530 Series 80 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "80 GB",
             "Form Factor": "2.5\"",
@@ -3446,7 +3446,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/xxYWGX": "$199.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "180 GB",
             "Form Factor": "2.5\"",
@@ -3506,7 +3506,7 @@
             "https://pcpartpicker.com/mr/memoryc/9nhKHx": "$148.58+",
             "https://pcpartpicker.com/mr/newegg/9nhKHx": "$109.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1.02 TB",
             "Form Factor": "M.2-2280",
@@ -3539,7 +3539,7 @@
     },
     "Intel 730 Series 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -3556,7 +3556,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/Ln7CmG": "$359.95"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "800 GB",
             "Form Factor": "2.5\"",
@@ -3570,7 +3570,7 @@
     },
     "Intel DC P3100 256 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "M.2-2280",
@@ -3596,7 +3596,7 @@
     },
     "Intel DC P4101 128 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "M.2-2280",
@@ -3609,7 +3609,7 @@
     },
     "Intel DC P4101 256 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "M.2-2280",
@@ -3622,7 +3622,7 @@
     },
     "Intel DC P4101 512 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "M.2-2280",
@@ -3635,7 +3635,7 @@
     },
     "Intel DC S3110 1.024 TB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1.024 TB",
             "Form Factor": "2.5\"",
@@ -3648,7 +3648,7 @@
     },
     "Intel DC S3110 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -3663,7 +3663,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/7G7v6h": "$159.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "M.2-2280",
@@ -3716,7 +3716,7 @@
     },
     "Intel DC S3500 Series 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -3745,7 +3745,7 @@
     },
     "Intel DC S3520 150 GB M.2-2280 Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "150 GB",
             "Form Factor": "M.2-2280",
@@ -3789,7 +3789,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/YH2bt6": "$875.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1.6 TB",
             "Form Factor": "2.5\"",
@@ -3805,7 +3805,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/4ntKHx": "$289.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -3821,7 +3821,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/n7848d": "$215.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "800 GB",
             "Form Factor": "2.5\"",
@@ -3837,7 +3837,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/XQrG3C": "$417.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "200 GB",
             "Form Factor": "2.5\"",
@@ -3886,7 +3886,7 @@
     },
     "Intel Optane 905 Series 480 GB 2.5\" NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -3912,7 +3912,7 @@
     },
     "Intel Pro 7600p 512 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "M.2-2280",
@@ -3940,7 +3940,7 @@
     },
     "Intel SSD DC S3500 Series 240 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "1.8\"",
@@ -3956,7 +3956,7 @@
     },
     "Intel SSD DC S3500 Series 400 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "400 GB",
             "Form Factor": "1.8\"",
@@ -3972,7 +3972,7 @@
     },
     "Intel SSD DC S3500 Series 80 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "80 GB",
             "Form Factor": "2.5\"",
@@ -4038,7 +4038,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/NRtCmG": "$199.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "160 GB",
             "Form Factor": "2.5\"",
@@ -4160,7 +4160,7 @@
             "https://pcpartpicker.com/mr/bestbuy/2FDzK8": "$30.48",
             "https://pcpartpicker.com/mr/memoryc/2FDzK8": "$34.88+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -4180,7 +4180,7 @@
             "https://pcpartpicker.com/mr/newegg/btDzK8": "$34.99",
             "https://pcpartpicker.com/mr/walmart/btDzK8": "$40.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -4201,7 +4201,7 @@
             "https://pcpartpicker.com/mr/newegg/WGZ2FT": "$49.99",
             "https://pcpartpicker.com/mr/walmart/WGZ2FT": "$54.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -4215,7 +4215,7 @@
     },
     "Kingston E50 Enterprise 100 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "100 GB",
             "Form Factor": "2.5\"",
@@ -4230,7 +4230,7 @@
     },
     "Kingston E50 Enterprise 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -4260,7 +4260,7 @@
     },
     "Kingston HyperX 3K 90 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "90 GB",
             "Form Factor": "2.5\"",
@@ -4305,7 +4305,7 @@
     },
     "Kingston SMS200 60 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "mSATA",
@@ -4320,7 +4320,7 @@
     },
     "Kingston SSD Now mS200 30 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "30 GB",
             "Form Factor": "mSATA",
@@ -4333,7 +4333,7 @@
     },
     "Kingston SSDNow 240 GB M.2-2280 Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "M.2-2280",
@@ -4346,7 +4346,7 @@
     },
     "Kingston SSDNow KC300 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -4363,7 +4363,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/Jmn2FT": "$139.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -4379,7 +4379,7 @@
     },
     "Kingston SSDNow KC310 960 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -4394,7 +4394,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/Xpdqqs": "$239.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "1.8\"",
@@ -4412,7 +4412,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/J2qdnQ": "$285.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "1.8\"",
@@ -4428,7 +4428,7 @@
     },
     "Kingston SSDNow S50 Series 32 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "32 GB",
             "Form Factor": "2.5\"",
@@ -4491,7 +4491,7 @@
     },
     "Kingston SSDNow V+100 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -4536,7 +4536,7 @@
     },
     "Kingston SSDNow V+200 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -4581,7 +4581,7 @@
     },
     "Kingston SSDNow V+200 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -4596,7 +4596,7 @@
     },
     "Kingston SSDNow V+200 90 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "90 GB",
             "Form Factor": "2.5\"",
@@ -4656,7 +4656,7 @@
     },
     "Kingston SSDNow V200 Series 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -4671,7 +4671,7 @@
     },
     "Kingston SSDNow V300 Series 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -4686,7 +4686,7 @@
     },
     "Kingston SSDNow V300 Series 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -4701,7 +4701,7 @@
     },
     "Kingston SSDNow V310 960 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -4718,7 +4718,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/VVrG3C": "$199.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "mSATA",
@@ -4734,7 +4734,7 @@
     },
     "Kingston Savage 960 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -4750,7 +4750,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/W3rG3C": "$173.25"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "3 TB",
@@ -4806,7 +4806,7 @@
     },
     "Micron 2200 512 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "M.2-2280",
@@ -5068,7 +5068,7 @@
     },
     "Mushkin Chronos Deluxe 120 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "1.8\"",
@@ -5083,7 +5083,7 @@
     },
     "Mushkin Chronos Deluxe 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -5098,7 +5098,7 @@
     },
     "Mushkin Chronos Deluxe 240 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "1.8\"",
@@ -5173,7 +5173,7 @@
     },
     "Mushkin Chronos GO 240 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "1.8\"",
@@ -5203,7 +5203,7 @@
     },
     "Mushkin Chronos GO 480 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "1.8\"",
@@ -5218,7 +5218,7 @@
     },
     "Mushkin Chronos Go 120 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "1.8\"",
@@ -5246,7 +5246,7 @@
     },
     "Mushkin ECO3 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "480 GB",
@@ -5263,7 +5263,7 @@
             "https://pcpartpicker.com/mr/amazon/BJF48d": "$112.11+",
             "https://pcpartpicker.com/mr/newegg/BJF48d": "$99.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -5290,7 +5290,7 @@
     },
     "Mushkin Enhanced RAW 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -5435,7 +5435,7 @@
     },
     "Mushkin Triactor 3D 1 TB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -5448,7 +5448,7 @@
     },
     "Mushkin Triactor 3D 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "512 GB",
@@ -5462,7 +5462,7 @@
     },
     "MyDigitalSSD BPX 512 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "M.2-2280",
@@ -5609,7 +5609,7 @@
     },
     "MyDigitalSSD PATA MAX 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -5622,7 +5622,7 @@
     },
     "MyDigitalSSD SBX 1 TB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -5635,7 +5635,7 @@
     },
     "MyDigitalSSD SBX 128 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "M.2-2280",
@@ -5828,7 +5828,7 @@
     },
     "OCZ 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -5842,7 +5842,7 @@
     },
     "OCZ Agility 2 180 GB 3.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "180 GB",
             "Form Factor": "3.5\"",
@@ -5857,7 +5857,7 @@
     },
     "OCZ Agility 2 240 GB 3.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "3.5\"",
@@ -5872,7 +5872,7 @@
     },
     "OCZ Agility 2 360 GB 3.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "360 GB",
             "Form Factor": "3.5\"",
@@ -5887,7 +5887,7 @@
     },
     "OCZ Agility 3 180 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "180 GB",
             "Form Factor": "2.5\"",
@@ -5902,7 +5902,7 @@
     },
     "OCZ Agility 3 360 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "360 GB",
             "Form Factor": "2.5\"",
@@ -5917,7 +5917,7 @@
     },
     "OCZ Agility 3 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -5932,7 +5932,7 @@
     },
     "OCZ Agility 4 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -5947,7 +5947,7 @@
     },
     "OCZ Agility 4 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -5962,7 +5962,7 @@
     },
     "OCZ Agility 4 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -5977,7 +5977,7 @@
     },
     "OCZ Colossus Plus Series 120 GB 3.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "120 GB",
@@ -5993,7 +5993,7 @@
     },
     "OCZ Colossus Plus Series 240 GB 3.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "240 GB",
@@ -6054,7 +6054,7 @@
     },
     "OCZ Deneva 2 C 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -6069,7 +6069,7 @@
     },
     "OCZ Deneva 2 C 80 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "80 GB",
             "Form Factor": "1.8\"",
@@ -6099,7 +6099,7 @@
     },
     "OCZ Octane 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -6114,7 +6114,7 @@
     },
     "OCZ Octane 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -6129,7 +6129,7 @@
     },
     "OCZ Octane 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -6159,7 +6159,7 @@
     },
     "OCZ Petrol 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -6174,7 +6174,7 @@
     },
     "OCZ Petrol 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -6189,7 +6189,7 @@
     },
     "OCZ Petrol 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -6204,7 +6204,7 @@
     },
     "OCZ Petrol 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -6236,7 +6236,7 @@
     },
     "OCZ Radeon R7 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -6249,7 +6249,7 @@
     },
     "OCZ Radeon R7 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -6262,7 +6262,7 @@
     },
     "OCZ RevoDrive 3 Max IOPS 480 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "PCI-E",
@@ -6277,7 +6277,7 @@
     },
     "OCZ RevoDrive 3 X2 series 240 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "PCI-E",
@@ -6292,7 +6292,7 @@
     },
     "OCZ RevoDrive 3 X2 series 480 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "PCI-E",
@@ -6307,7 +6307,7 @@
     },
     "OCZ RevoDrive 3 X2 series 960 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "PCI-E",
@@ -6322,7 +6322,7 @@
     },
     "OCZ RevoDrive 3 series 240 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "PCI-E",
@@ -6367,7 +6367,7 @@
     },
     "OCZ RevoDrive X2 100 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "100 GB",
             "Form Factor": "PCI-E",
@@ -6382,7 +6382,7 @@
     },
     "OCZ RevoDrive X2 360 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "360 GB",
             "Form Factor": "PCI-E",
@@ -6397,7 +6397,7 @@
     },
     "OCZ Solid 3 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -6412,7 +6412,7 @@
     },
     "OCZ Synapse Cache 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -6427,7 +6427,7 @@
     },
     "OCZ Synapse Cache 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -6472,7 +6472,7 @@
     },
     "OCZ Trion 100 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -6485,7 +6485,7 @@
     },
     "OCZ Vector 150 Series 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -6500,7 +6500,7 @@
     },
     "OCZ Vector 180 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -6541,7 +6541,7 @@
     },
     "OCZ Vertex 2 180 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "180 GB",
             "Form Factor": "1.8\"",
@@ -6571,7 +6571,7 @@
     },
     "OCZ Vertex 2 90 GB 1.8\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "90 GB",
             "Form Factor": "1.8\"",
@@ -6586,7 +6586,7 @@
     },
     "OCZ Vertex 3 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -6616,7 +6616,7 @@
     },
     "OCZ Vertex 3 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -6631,7 +6631,7 @@
     },
     "OCZ Vertex 3 90 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "90 GB",
             "Form Factor": "2.5\"",
@@ -6646,7 +6646,7 @@
     },
     "OCZ Vertex 3 Low Profile 7mm Series 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -6661,7 +6661,7 @@
     },
     "OCZ Vertex 3 Low Profile 7mm Series 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -6676,7 +6676,7 @@
     },
     "OCZ Vertex 3 Low Profile 7mm Series 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -6691,7 +6691,7 @@
     },
     "OCZ Vertex 4 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -6706,7 +6706,7 @@
     },
     "OCZ Vertex 4 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -6736,7 +6736,7 @@
     },
     "OCZ Vertex 450 Series 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -6752,7 +6752,7 @@
     },
     "OCZ Vertex 450 Series 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -6768,7 +6768,7 @@
     },
     "OCZ Vertex 460A 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -6799,7 +6799,7 @@
     },
     "OCZ Vertex Plus 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "120 GB",
@@ -6847,7 +6847,7 @@
     },
     "OCZ Vertex Plus R2 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -6862,7 +6862,7 @@
     },
     "OCZ Vertex Plus R2 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -6877,7 +6877,7 @@
     },
     "OCZ Vertex Plus R2 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -6922,7 +6922,7 @@
     },
     "OCZ Z-Drive R4 CM84 600 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "600 GB",
             "Form Factor": "PCI-E",
@@ -6997,7 +6997,7 @@
     },
     "PNY CL4111 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -7012,7 +7012,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/FNqbt6": "$149.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -7026,7 +7026,7 @@
     },
     "PNY CS2211 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -7042,7 +7042,7 @@
             "https://pcpartpicker.com/mr/amazon/7x4NnQ": "$27.99",
             "https://pcpartpicker.com/mr/memoryc/7x4NnQ": "$31.91+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -7056,7 +7056,7 @@
     },
     "PNY Optima 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -7116,7 +7116,7 @@
     },
     "PNY Prevail Elite 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -7131,7 +7131,7 @@
     },
     "PNY XLR8 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -7146,7 +7146,7 @@
     },
     "Patriot Blaze 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -7173,7 +7173,7 @@
     },
     "Patriot Pyro 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -7217,7 +7217,7 @@
     },
     "Patriot Pyro SE 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -7232,7 +7232,7 @@
     },
     "Patriot Pyro SE 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
@@ -7247,7 +7247,7 @@
     },
     "Patriot Torch LE 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -7260,7 +7260,7 @@
     },
     "Patriot Torqx 2 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -7320,7 +7320,7 @@
     },
     "Patriot Wildfire 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -7335,7 +7335,7 @@
     },
     "Patriot Wildfire 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -7350,7 +7350,7 @@
     },
     "Patriot Wildfire 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -7365,7 +7365,7 @@
     },
     "Plextor M3 Series 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "512 GB",
@@ -7381,7 +7381,7 @@
     },
     "Plextor M5P Series 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "768 MB",
             "Capacity": "512 GB",
@@ -7397,7 +7397,7 @@
     },
     "Plextor M5P Xtreme Series 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "256 GB",
@@ -7413,7 +7413,7 @@
     },
     "Plextor M6 PRO 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -7428,7 +7428,7 @@
     },
     "Plextor M6M 128 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "mSATA",
@@ -7444,7 +7444,7 @@
     },
     "Plextor M6M 256 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "mSATA",
@@ -7462,7 +7462,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/ghsKHx": "$677.77+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "mSATA",
@@ -7478,7 +7478,7 @@
     },
     "Plextor M6M 64 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "mSATA",
@@ -7494,7 +7494,7 @@
     },
     "Plextor M6S 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -7509,7 +7509,7 @@
     },
     "Plextor M6e 128 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "M.2-2280",
@@ -7524,7 +7524,7 @@
     },
     "Plextor M6e Black Edition 128 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "128 GB",
@@ -7538,7 +7538,7 @@
     },
     "Plextor M7V 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "128 GB",
@@ -7552,7 +7552,7 @@
     },
     "Plextor M7V 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "256 GB",
@@ -7582,7 +7582,7 @@
     },
     "Plextor M8Pe 1 TB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "1024 MB",
             "Capacity": "1 TB",
@@ -7596,7 +7596,7 @@
     },
     "Plextor M8Pe 128 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "128 GB",
@@ -7638,7 +7638,7 @@
     },
     "Plextor M8VC 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "512 GB",
@@ -7692,7 +7692,7 @@
     },
     "Plextor PX-M2 Series 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -7707,7 +7707,7 @@
     },
     "Plextor PX-M2P Series 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "128 GB",
@@ -7723,7 +7723,7 @@
     },
     "Plextor PX-M2P Series 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "256 GB",
@@ -7739,7 +7739,7 @@
     },
     "Plextor PX-M3S Series 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "128 GB",
@@ -7755,7 +7755,7 @@
     },
     "Plextor PX-M3S Series 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "256 GB",
@@ -7912,7 +7912,7 @@
     },
     "Samsung 470 Series 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -7927,7 +7927,7 @@
     },
     "Samsung 830 Series 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -7942,7 +7942,7 @@
     },
     "Samsung 830 Series 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -7957,7 +7957,7 @@
     },
     "Samsung 840 EVO 500 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "mSATA",
@@ -7972,7 +7972,7 @@
     },
     "Samsung 845DC PRO 400 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "400 GB",
@@ -7987,7 +7987,7 @@
     },
     "Samsung 850 EVO 500 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "mSATA",
@@ -8007,7 +8007,7 @@
             "https://pcpartpicker.com/mr/newegg/yzfhP6": "$109.99",
             "https://pcpartpicker.com/mr/walmart/yzfhP6": "$139.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2.5\"",
             "Capacity": "$0.110",
@@ -8025,7 +8025,7 @@
             "https://pcpartpicker.com/mr/bestbuy/dQ66Mp": "$349.99",
             "https://pcpartpicker.com/mr/newegg/dQ66Mp": "$209.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2.5\"",
             "Capacity": "$0.105",
@@ -8042,7 +8042,7 @@
             "https://pcpartpicker.com/mr/amazon/sNc48d": "$89.55",
             "https://pcpartpicker.com/mr/bestbuy/sNc48d": "$49.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2.5\"",
             "Capacity": "$0.200",
@@ -8061,7 +8061,7 @@
             "https://pcpartpicker.com/mr/newegg/G9rmP6": "$39.99",
             "https://pcpartpicker.com/mr/samsung/G9rmP6": "$39.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "250 GB",
@@ -8083,7 +8083,7 @@
             "https://pcpartpicker.com/mr/newegg/Pqm323": "$522.99",
             "https://pcpartpicker.com/mr/walmart/Pqm323": "$549.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2.5\"",
             "Capacity": "$0.130",
@@ -8102,7 +8102,7 @@
             "https://pcpartpicker.com/mr/newegg/6yKcCJ": "$59.99",
             "https://pcpartpicker.com/mr/walmart/6yKcCJ": "$74.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "2.5\"",
             "Capacity": "$0.120",
@@ -8139,7 +8139,7 @@
             "https://pcpartpicker.com/mr/samsung/7nsnTW": "$119.99+",
             "https://pcpartpicker.com/mr/walmart/7nsnTW": "$129.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "$0.120",
             "Form Factor": "SATA 6 Gb/s",
@@ -8221,7 +8221,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/FcGj4D": "$1999.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$1.000",
@@ -8241,7 +8241,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/Fv8j4D": "$319.99",
             "https://pcpartpicker.com/mr/newegg/Fv8j4D": "$329.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.160",
@@ -8261,7 +8261,7 @@
             "https://pcpartpicker.com/mr/newegg/JLdxFT": "$139.99",
             "https://pcpartpicker.com/mr/samsung/JLdxFT": "$144.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.140",
@@ -8281,7 +8281,7 @@
             "https://pcpartpicker.com/mr/newegg/P4ZFf7": "$79.99",
             "https://pcpartpicker.com/mr/samsung/P4ZFf7": "$74.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "512 MB",
             "Capacity": "500 GB",
@@ -8305,7 +8305,7 @@
             "https://pcpartpicker.com/mr/newegg/Zxw7YJ": "$159.99",
             "https://pcpartpicker.com/mr/walmart/Zxw7YJ": "$159.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.158",
@@ -8325,7 +8325,7 @@
             "https://pcpartpicker.com/mr/newegg/BDYLrH": "$59.99",
             "https://pcpartpicker.com/mr/walmart/BDYLrH": "$66.08"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.240",
@@ -8346,7 +8346,7 @@
             "https://pcpartpicker.com/mr/newegg/TwWfrH": "$74.99",
             "https://pcpartpicker.com/mr/walmart/TwWfrH": "$74.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.150",
@@ -8369,7 +8369,7 @@
             "https://pcpartpicker.com/mr/samsung/DDWBD3": "$199.99+",
             "https://pcpartpicker.com/mr/walmart/DDWBD3": "$299.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.200",
@@ -8389,7 +8389,7 @@
             "https://pcpartpicker.com/mr/newegg/f3cRsY": "$379.99",
             "https://pcpartpicker.com/mr/samsung/f3cRsY": "$379.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "2 TB",
             "Form Factor": "M.2-2280",
@@ -8411,7 +8411,7 @@
             "https://pcpartpicker.com/mr/newegg/MBVG3C": "$79.99",
             "https://pcpartpicker.com/mr/samsung/MBVG3C": "$79.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.320",
@@ -8433,7 +8433,7 @@
             "https://pcpartpicker.com/mr/newegg/w96qqs": "$119.99",
             "https://pcpartpicker.com/mr/samsung/w96qqs": "$119.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "M.2-2280",
             "Capacity": "$0.237",
@@ -8533,7 +8533,7 @@
     },
     "SanDisk Extreme II 480 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -8563,7 +8563,7 @@
     },
     "SanDisk Ultra Plus 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -8578,7 +8578,7 @@
     },
     "SanDisk X110 128 GB mSATA Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "mSATA",
@@ -8741,7 +8741,7 @@
             "https://pcpartpicker.com/mr/amazon/C8KhP6": "$229.00",
             "https://pcpartpicker.com/mr/newegg/C8KhP6": "$342.98"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "2 TB",
@@ -8792,7 +8792,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/9zyxFT": "$214.85+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "4 TB",
@@ -8807,7 +8807,7 @@
     },
     "Seagate 500 GB 2.5\" 5400RPM Hybrid Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "2.5\"",
@@ -8821,7 +8821,7 @@
     },
     "Seagate 6 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "6 TB",
@@ -8835,7 +8835,7 @@
     },
     "Seagate 600 Pro 120 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -8851,7 +8851,7 @@
     },
     "Seagate 600 Pro Series 400 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "400 GB",
             "Form Factor": "2.5\"",
@@ -8898,7 +8898,7 @@
     },
     "Seagate Archive HDD v2 6 TB 3.5\" 5900RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "6 TB",
@@ -8923,7 +8923,7 @@
             "https://pcpartpicker.com/mr/otherworldcomputing/44Gj4D": "$53.99",
             "https://pcpartpicker.com/mr/walmart/44Gj4D": "$45.95"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "1 TB",
@@ -8944,7 +8944,7 @@
             "https://pcpartpicker.com/mr/monoprice/jD3H99": "$89.99+",
             "https://pcpartpicker.com/mr/newegg/jD3H99": "$89.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "4 TB",
@@ -8996,7 +8996,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/tmTPxr": "$89.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "4 TB",
@@ -9013,7 +9013,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/qLRzK8": "$154.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "8 TB",
@@ -9059,7 +9059,7 @@
             "https://pcpartpicker.com/mr/amazon/88V48d": "$125.00",
             "https://pcpartpicker.com/mr/amazon/CGTmP6": "$88.00"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "2 TB",
@@ -9074,7 +9074,7 @@
     },
     "Seagate Constellation ES 500 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "500 GB",
@@ -9138,7 +9138,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/mYvRsY": "$514.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "3 TB",
@@ -9189,7 +9189,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/qXw323": "$159.82+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "500 GB",
@@ -9208,7 +9208,7 @@
             "https://pcpartpicker.com/mr/newegg/jm97YJ": "$190.99",
             "https://pcpartpicker.com/mr/supermicro/jm97YJ": "$184.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -9252,7 +9252,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/bhphotovideo/GyhKHx": "$154.38"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "2 TB",
@@ -9302,7 +9302,7 @@
     },
     "Seagate Enterprise NAS 2 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "2 TB",
@@ -9330,7 +9330,7 @@
     },
     "Seagate Enterprise NAS 4 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "4 TB",
@@ -9344,7 +9344,7 @@
     },
     "Seagate Enterprise NAS 5 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "5 TB",
@@ -9497,7 +9497,7 @@
             "https://pcpartpicker.com/mr/memoryc/sD848d": "$237.21+",
             "https://pcpartpicker.com/mr/newegg/sD848d": "$194.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "8 TB",
@@ -9609,7 +9609,7 @@
     },
     "Seagate Momentus 5400.6 320 GB 2.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "8 MB",
             "Capacity": "320 GB",
@@ -9651,7 +9651,7 @@
     },
     "Seagate Momentus 7200.4 250 GB 2.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "250 GB",
@@ -9850,7 +9850,7 @@
     },
     "Seagate Pulsar.2 200 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "200 GB",
             "Form Factor": "2.5\"",
@@ -9892,7 +9892,7 @@
     },
     "Seagate SV35 Series 2 TB 3.5\" 5900RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "2 TB",
@@ -9906,7 +9906,7 @@
     },
     "Seagate SV35 Series 3 TB 3.5\" 5900RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "3 TB",
@@ -9920,7 +9920,7 @@
     },
     "Seagate SV35 Series 500 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "500 GB",
@@ -9948,7 +9948,7 @@
     },
     "Seagate Surveillance HDD 5 TB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "128 MB",
             "Capacity": "5 TB",
@@ -10006,7 +10006,7 @@
     },
     "Team DARK L3 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -10115,7 +10115,7 @@
             "https://pcpartpicker.com/mr/amazon/XZhKHx": "$99.99",
             "https://pcpartpicker.com/mr/newegg/XZhKHx": "$85.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -10149,7 +10149,7 @@
             "https://pcpartpicker.com/mr/amazon/vY3H99": "$54.99",
             "https://pcpartpicker.com/mr/newegg/vY3H99": "$54.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "M.2-2280",
@@ -10163,7 +10163,7 @@
     },
     "Team P30 480 GB M.2-2280 NVME Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "M.2-2280",
@@ -10202,7 +10202,7 @@
     },
     "Team Ultra L5 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -10229,7 +10229,7 @@
     },
     "Toshiba 2 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "2 TB",
@@ -10288,7 +10288,7 @@
     },
     "Toshiba 500 GB 2.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "8 MB",
             "Capacity": "500 GB",
@@ -10302,7 +10302,7 @@
     },
     "Toshiba 6 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "6 TB",
             "Form Factor": "3.5\"",
@@ -10357,7 +10357,7 @@
     },
     "Toshiba MD03ACA-V 4 TB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "4 TB",
@@ -10462,7 +10462,7 @@
     },
     "Toshiba Q300 960 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "960 GB",
             "Form Factor": "2.5\"",
@@ -10477,7 +10477,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/2K4NnQ": "$177.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -10493,7 +10493,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/BLrcCJ": "$392.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -10522,7 +10522,7 @@
     },
     "Transcend SSD320 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -10537,7 +10537,7 @@
     },
     "Transcend SSD340 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -10552,7 +10552,7 @@
     },
     "Transcend SSD370 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -10567,7 +10567,7 @@
     },
     "Transcend SSD720 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -10582,7 +10582,7 @@
     },
     "Transcend SSD720 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -10597,7 +10597,7 @@
     },
     "Transcend SSD720 512 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "512 GB",
             "Form Factor": "2.5\"",
@@ -10612,7 +10612,7 @@
     },
     "Transcend SSD720 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -10627,7 +10627,7 @@
     },
     "Transcend Transcend MLC 128 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "128 GB",
             "Form Factor": "2.5\"",
@@ -10641,7 +10641,7 @@
     },
     "V7 Elite 256 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -10686,7 +10686,7 @@
     },
     "Verbatim Verbatim SATA II 64 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "64 GB",
             "Form Factor": "2.5\"",
@@ -10701,7 +10701,7 @@
     },
     "Verbatim Verbatim SATA III 240 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "2.5\"",
@@ -10721,7 +10721,7 @@
             "https://pcpartpicker.com/mr/dellhome/MbBTwP": "$86.99+",
             "https://pcpartpicker.com/mr/newegg/MbBTwP": "$85.62"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "120 GB",
             "Form Factor": "2.5\"",
@@ -10739,7 +10739,7 @@
             "https://pcpartpicker.com/mr/bhphotovideo/WsTPxr": "$189.99",
             "https://pcpartpicker.com/mr/newegg/WsTPxr": "$176.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "256 GB",
             "Form Factor": "2.5\"",
@@ -10808,7 +10808,7 @@
     },
     "VisionTek Data Fusion 480 GB PCI-E Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "PCI-E",
@@ -10826,7 +10826,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/bhphotovideo/qFTrxr": "$351.75"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "480 GB",
             "Form Factor": "2.5\"",
@@ -10983,7 +10983,7 @@
     },
     "Western Digital AV 250 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "8 MB",
             "Capacity": "250 GB",
@@ -11011,7 +11011,7 @@
     },
     "Western Digital AV 320 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "8 MB",
             "Capacity": "320 GB",
@@ -11025,7 +11025,7 @@
     },
     "Western Digital AV 500 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "500 GB",
@@ -11053,7 +11053,7 @@
     },
     "Western Digital AV-25 160 GB 2.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "160 GB",
@@ -11095,7 +11095,7 @@
     },
     "Western Digital AV-GP 2 TB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "2 TB",
@@ -11109,7 +11109,7 @@
     },
     "Western Digital AV-GP 2.5 TB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "2.5 TB",
@@ -11162,7 +11162,7 @@
             "https://pcpartpicker.com/mr/walmart/XtjG3C": "$103.99+",
             "https://pcpartpicker.com/mr/westerndigital/XtjG3C": "$99.99"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "2 TB",
@@ -11184,7 +11184,7 @@
             "https://pcpartpicker.com/mr/walmart/dGHRsY": "$149.99",
             "https://pcpartpicker.com/mr/westerndigital/dGHRsY": "$149.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "4 TB",
@@ -11225,7 +11225,7 @@
             "https://pcpartpicker.com/mr/newegg/6LGnTW": "$379.99",
             "https://pcpartpicker.com/mr/westerndigital/6LGnTW": "$379.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "2 TB",
             "Form Factor": "M.2-2280",
@@ -11248,7 +11248,7 @@
             "https://pcpartpicker.com/mr/newegg/GTCD4D": "$109.99",
             "https://pcpartpicker.com/mr/westerndigital/GTCD4D": "$104.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -11268,7 +11268,7 @@
             "https://pcpartpicker.com/mr/newegg/DgJtt6": "$109.99",
             "https://pcpartpicker.com/mr/westerndigital/DgJtt6": "$109.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "M.2-2280",
@@ -11290,7 +11290,7 @@
             "https://pcpartpicker.com/mr/newegg/Jd8j4D": "$49.99",
             "https://pcpartpicker.com/mr/westerndigital/Jd8j4D": "$49.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "256 MB",
             "Capacity": "2 TB",
@@ -11309,7 +11309,7 @@
             "https://pcpartpicker.com/mr/newegg/CXvbt6": "$229.99",
             "https://pcpartpicker.com/mr/westerndigital/CXvbt6": "$229.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "2 TB",
             "Form Factor": "M.2-2280",
@@ -11330,7 +11330,7 @@
             "https://pcpartpicker.com/mr/newegg/w27v6h": "$44.99",
             "https://pcpartpicker.com/mr/westerndigital/w27v6h": "$44.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "250 GB",
             "Form Factor": "M.2-2280",
@@ -11350,7 +11350,7 @@
             "https://pcpartpicker.com/mr/newegg/jp2rxr": "$84.99",
             "https://pcpartpicker.com/mr/westerndigital/jp2rxr": "$84.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "4 TB",
@@ -11372,7 +11372,7 @@
             "https://pcpartpicker.com/mr/newegg/LRkj4D": "$69.99",
             "https://pcpartpicker.com/mr/westerndigital/LRkj4D": "$69.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "2.5\"",
@@ -11392,7 +11392,7 @@
             "https://pcpartpicker.com/mr/newegg/zH98TW": "$49.99",
             "https://pcpartpicker.com/mr/westerndigital/zH98TW": "$36.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "500 GB",
@@ -11415,7 +11415,7 @@
             "https://pcpartpicker.com/mr/newegg/6j448d": "$69.99",
             "https://pcpartpicker.com/mr/westerndigital/6j448d": "$69.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "500 GB",
             "Form Factor": "M.2-2280",
@@ -11434,7 +11434,7 @@
             "https://pcpartpicker.com/mr/newegg/TsTPxr": "$64.99",
             "https://pcpartpicker.com/mr/westerndigital/TsTPxr": "$44.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "320 GB",
@@ -11532,7 +11532,7 @@
             "https://pcpartpicker.com/mr/walmart/MwW9TW": "$44.26",
             "https://pcpartpicker.com/mr/westerndigital/MwW9TW": "$39.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "1 TB",
@@ -11549,7 +11549,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/q6zv6h": "$38.95+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "320 GB",
@@ -11578,7 +11578,7 @@
     },
     "Western Digital Caviar GP 320 GB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "320 GB",
@@ -11592,7 +11592,7 @@
     },
     "Western Digital Caviar Green 2.5 TB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "2.5 TB",
@@ -11648,7 +11648,7 @@
     },
     "Western Digital Caviar Green 750 GB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "750 GB",
@@ -11688,7 +11688,7 @@
             "https://pcpartpicker.com/mr/newegg/rJhKHx": "$89.99",
             "https://pcpartpicker.com/mr/westerndigital/rJhKHx": "$89.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "1 TB",
             "Form Factor": "2.5\"",
@@ -11702,7 +11702,7 @@
     },
     "Western Digital Green 1.5 TB 2.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "1.5 TB",
@@ -11720,7 +11720,7 @@
             "https://pcpartpicker.com/mr/newegg/4697YJ": "$61.99",
             "https://pcpartpicker.com/mr/westerndigital/4697YJ": "$34.99+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "240 GB",
             "Form Factor": "M.2-2280",
@@ -11734,7 +11734,7 @@
     },
     "Western Digital Purple NV 6 TB 3.5\" 5400RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "6 TB",
@@ -11764,7 +11764,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/hCQypg": "$98.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "160 GB",
@@ -11810,7 +11810,7 @@
     },
     "Western Digital RE3 320 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "320 GB",
@@ -11838,7 +11838,7 @@
     },
     "Western Digital RE4 250 GB 3.5\" 7200RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "64 MB",
             "Capacity": "250 GB",
@@ -11906,7 +11906,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/cJdqqs": "$90.00+"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "16 MB",
             "Capacity": "160 GB",
@@ -11963,7 +11963,7 @@
     },
     "Western Digital VelociRaptor 150 GB 2.5\" 10000RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "150 GB",
@@ -12005,7 +12005,7 @@
     },
     "Western Digital Xe 300 GB 3.5\" 10000RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "300 GB",
@@ -12021,7 +12021,7 @@
         "buying_info": {
             "https://pcpartpicker.com/mr/amazon/nsw323": "$98.26"
         },
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "600 GB",
@@ -12036,7 +12036,7 @@
     },
     "Western Digital Xe 900 GB 3.5\" 10000RPM Internal Hard Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Cache": "32 MB",
             "Capacity": "900 GB",
@@ -12063,7 +12063,7 @@
     },
     "Wintec FileMate 60 GB 2.5\" Solid State Drive": {
         "buying_info": {},
-        "image_link": NaN,
+        "image_link": "",
         "part_info": {
             "Capacity": "60 GB",
             "Form Factor": "2.5\"",
