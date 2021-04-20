@@ -17,6 +17,8 @@ const BUDGET = {
   case: 0.05,
 };
 
+const SOCKETS = ["AM4", "TR4", "sTRX4", "LGA1151", "LGA2066", "LGA1200"]
+
 const buildComputer = (requirements, budget) => {
   let cpu = [];
   let gpu = [];
@@ -34,7 +36,8 @@ const buildComputer = (requirements, budget) => {
   const foundCpu = findCpu(cpu, budget);
   const gpuPlaceholder = {
     name: "Placeholder",
-    image: "https://i.stack.imgur.com/y9DpT.jpg",
+    image:
+      "https://blackmantkd.com/wp-content/uploads/2017/04/default-image-620x600.jpg",
     link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     store: "Placeholder",
     price: `$${budget * BUDGET.gpu}`,
@@ -91,14 +94,16 @@ const findCpu = (cpuList, budget) => {
 
   let possibleCpu = {};
   for (const cpu in cpuData) {
-    if (
-      parseFloat(cpuData[cpu].part_info["Core Clock"].split(" ")[0], 10) >=
-        requirement.coreClock &&
-      parseInt(cpuData[cpu].part_info["Core Count"], 10) ===
-        requirement.coreCount
-    ) {
-      if (Object.keys(cpuData[cpu].buying_info).length > 0) {
-        possibleCpu[cpu] = cpuData[cpu];
+    if (SOCKETS.indexOf(cpuData[cpu]["part_info"]["Socket"]) != -1) {
+      if (
+        parseFloat(cpuData[cpu].part_info["Core Clock"].split(" ")[0], 10) >=
+          requirement.coreClock &&
+        parseInt(cpuData[cpu].part_info["Core Count"], 10) ===
+          requirement.coreCount
+      ) {
+        if (Object.keys(cpuData[cpu].buying_info).length > 0) {
+          possibleCpu[cpu] = cpuData[cpu];
+        }
       }
     }
   }
@@ -120,11 +125,10 @@ const findCpu = (cpuList, budget) => {
     let imageLink = possibleCpu[cpu].image_link;
 
     if (imageLink.includes("//cdna")) {
-      imageLink = imageLink.replace("//cdna", "cdna");
-    }
-
-    if (imageLink.includes("/cdna")) {
-      imageLink = imageLink.replace("/cdna", "cdna");
+      imageLink = imageLink.replace("//cdna", "https://cdna");
+    } else if (imageLink === "/static/forever/img/no-image.png") {
+      imageLink =
+        "https://blackmantkd.com/wp-content/uploads/2017/04/default-image-620x600.jpg";
     }
 
     if (buyLinks[0][1] <= cpuBudget) {
@@ -170,11 +174,10 @@ const findPart = (part, budget, data) => {
       let imageLink = data[partName].image_link;
 
       if (imageLink.includes("//cdna")) {
-        imageLink = imageLink.replace("//cdna", "cdna");
-      }
-
-      if (imageLink.includes("/cdna")) {
-        imageLink = imageLink.replace("/cdna", "cdna");
+        imageLink = imageLink.replace("//cdna", "https://cdna");
+      } else if (imageLink === "/static/forever/img/no-image.png") {
+        imageLink =
+          "https://blackmantkd.com/wp-content/uploads/2017/04/default-image-620x600.jpg";
       }
 
       if (buyLinks[0][1] <= budget) {
@@ -223,11 +226,10 @@ const findMotherboard = (budget, cpu) => {
         let imageLink = mbData[mb].image_link;
 
         if (imageLink.includes("//cdna")) {
-          imageLink = imageLink.replace("//cdna", "cdna");
-        }
-
-        if (imageLink.includes("/cdna")) {
-          imageLink = imageLink.replace("/cdna", "cdna");
+          imageLink = imageLink.replace("//cdna", "https://cdna");
+        } else if (imageLink === "/static/forever/img/no-image.png") {
+          imageLink =
+            "https://blackmantkd.com/wp-content/uploads/2017/04/default-image-620x600.jpg";
         }
 
         if (buyLinks[0][1] <= budget) {
