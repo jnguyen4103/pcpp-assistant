@@ -1,6 +1,6 @@
 const caseData = require("../../backend/data/good_data/case_data.json");
 const cpuData = require("../../backend/data/good_data/cpu_data.json");
-const gpuData = require("../../backend/data/good_data/gpu_data.json");
+// const gpuData = require("../../backend/data/good_data/gpu_data.json");
 const memoryData = require("../../backend/data/good_data/memory_data.json");
 const mbData = require("../../backend/data/good_data/motherboard_data.json");
 const psuData = require("../../backend/data/good_data/power_supply_data.json");
