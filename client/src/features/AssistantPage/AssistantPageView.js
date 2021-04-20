@@ -41,7 +41,7 @@ const AssistantPageView = (props) => {
 
     useEffect(() => {
         scrollToBottom();
-    }, [props.messages]);
+    }, [props.messages, Object.keys(props.sysReq).length]);
 
     return (
         <Box className={styles.container}>

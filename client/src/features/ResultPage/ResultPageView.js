@@ -22,7 +22,7 @@ const ResultPageView = (props) => {
                         />
                     ) : (
                         <img
-                            src="https://i.stack.imgur.com/y9DpT.jpg"
+                            src="https://blackmantkd.com/wp-content/uploads/2017/04/default-image-620x600.jpg"
                             className={styles.image}
                         />
                     )}
