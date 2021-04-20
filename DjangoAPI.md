@@ -35,13 +35,13 @@ this registers a new user with the givien information. no fields are optional
 
 POST: http://127.0.0.1:8000/auth/register/
 
-body = {
-    email: 'sample@sample.com'
-    username: 'sample'
-    password: '12345password'
-    password2: '12345password'
-    first_name: 'test'
-    last_name: 'test'
+body = {  
+    email: 'sample@sample.com'  
+    username: 'sample'  
+    password: '12345password'  
+    password2: '12345password'  
+    first_name: 'test'  
+    last_name: 'test'  
 }
 
 ### /auth/login/
@@ -49,55 +49,55 @@ logs the user in. all fields are required
 
 POST: http://127.0.0.1:8000/auth/login/
 
-body = {
-    username: 'sample'
-    password: '12345password'
-}
+body = {  
+    username: 'sample'  
+    password: '12345password'  
+}  
 
-returns:
-{
-    "refresh": "theKey",
-    "access": "theKey"
-}
+returns:  
+{  
+    "refresh": "theKey",  
+    "access": "theKey"  
+}  
 
-Note: access is the key that you need for accessing restricted pages and is what replaces 'token' in
-    const config = {
-        headers: { Authorization: 'Bearer ${token}' }
-    };
+Note: access is the key that you need for accessing restricted pages and is what replaces 'token' in  
+    const config = {  
+        headers: { Authorization: 'Bearer ${token}' }  
+    };  
 
 ### /auth/logout/
 logs the user out. all fields required. frontend should also delete refresh and access from local storage.
 
 POST: http://127.0.0.1:8000/auth/logout/
 
-body = {
-    refresh: 'theKey'  `this is the refresh token you get from login`
-}
+body = {  
+    refresh: 'theKey'  `this is the refresh token you get from login`  
+}  
 
-config = {
-    headers: { Authorization: 'Bearer ${token}' } `token is the access key from login`
-};
+config = {  
+    headers: { Authorization: 'Bearer ${token}' } `token is the access key from login`  
+};  
 
 ### /auth/login/refresh/
 gets a new access token for the user
 
 POST: http://127.0.0.1:8000/auth/login/refresh/
 
-body = {
-    refresh: 'theKey'  `this is the refresh token you get from login`
-}
+body = {  
+    refresh: 'theKey'  `this is the refresh token you get from login`  
+}  
+ 
+returns:  
+{  
+    "access": "theKey"  
+}  
 
-returns:
-{
-    "access": "theKey"
-}
-
-OR
-{
-    "detail": "Token is blacklisted",
-    "code": "token_not_valid"
-}
-if refresh token has expired or user has been logged out
+OR  
+{  
+    "detail": "Token is blacklisted",  
+    "code": "token_not_valid"  
+}  
+if refresh token has expired or user has been logged out  
 
 ## PCPP
 
@@ -109,20 +109,20 @@ One of those 3 must be included
 
 POST: http://127.0.0.1:8000/pcpp/savepc/
 
-body = {
-    CPUid: "4446"
-    GPUid: "2324"
-    caseid: "3233"
-    mboardid: "5277"
-    memoryid: "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory" `full name example`
-    powerid: "7624"
-    userid: "1"
-    name: "test1234"
-    email: "sample@sample.com"
-}
+body = {  
+    CPUid: "4446"  
+    GPUid: "2324"  
+    caseid: "3233"  
+    mboardid: "5277"  
+    memoryid: "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory" `full name example`  
+    powerid: "7624"  
+    userid: "1"  
+    name: "test1234"  
+    email: "sample@sample.com"  
+}  
 
-config = {
-    headers: { Authorization: 'Bearer ${token}' } `token is the access key from login`
+config = {  
+    headers: { Authorization: 'Bearer ${token}' } `token is the access key from login`  
 };
 
 ### /pcpp/getpc/
@@ -132,6 +132,6 @@ NOTE: this is a http GET and not a POST
 
 GET: http://127.0.0.1:8000/pcpp/getpc/
 
-config = {
-    headers: { Authorization: 'Bearer ${token}' } `token is the access key from login`
+config = {  
+    headers: { Authorization: 'Bearer ${token}' } `token is the access key from login`  
 };
