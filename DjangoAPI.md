@@ -8,7 +8,7 @@ const bodyParameters = {
 };
 
 Axios.post( 
-  'http://localhost:8000/api/v1/get_token_payloads',
+  'http://localhost:8000/url/to/something',
   bodyParameters,
   config
 ).then(console.log).catch(console.log);
