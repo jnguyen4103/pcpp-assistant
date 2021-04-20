@@ -1,10 +1,12 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 # Create your models here.
 
 class PriceLink(models.Model):
     lin = models.TextField(null = True)
     
+
 
 class Price(models.Model):
     price = models.DecimalField(decimal_places=2, max_digits=10)
@@ -29,7 +31,6 @@ class CPU(models.Model):
 
     def __str__(self):
         return self.name
-
 
 class Case(models.Model):
     name = models.CharField(max_length=256)
@@ -58,7 +59,6 @@ class Case(models.Model):
 
     def __str__(self):
         return self.name
-
 
 class GPU(models.Model):
     name = models.CharField(max_length=256)
@@ -114,7 +114,6 @@ class Memory(models.Model):
 
     def __str__(self):
         return self.name
-
 
 class Motherboard(models.Model):
     name = models.CharField(max_length=256)
@@ -181,6 +180,16 @@ class power(models.Model):
     def __str__(self):
         return self.name
 
+class PCBuild(models.Model):
+    user = models.ForeignKey(User, on_delete=models.PROTECT, null = True)
+    name = models.CharField(max_length=256)
+    cpuLink = models.ForeignKey(CPU, on_delete=models.PROTECT, null = True)
+    gpuLink = models.ForeignKey(GPU, on_delete=models.PROTECT, null = True)
+    caseLink = models.ForeignKey(Case, on_delete=models.PROTECT, null = True)
+    memoryLink = models.ForeignKey(Memory, on_delete=models.PROTECT, null = True)
+    mboardLink = models.ForeignKey(Motherboard, on_delete=models.PROTECT, null = True)
+    powerLink = models.ForeignKey(power, on_delete=models.PROTECT, null = True)
 
-
+    def __str__(self):
+        return str(self.name)
 

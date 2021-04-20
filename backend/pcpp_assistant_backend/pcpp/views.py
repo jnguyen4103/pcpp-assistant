@@ -6,7 +6,8 @@ from django.http import HttpResponse
 import json
 from django.db.models import Avg, Max, Min, Sum
 from django.core import serializers
-from .models import Price, CPU, Case, GPU, Memory, Motherboard, power, PriceLink
+from .models import Price, CPU, Case, GPU, Memory, Motherboard, power, PriceLink, PCBuild
+from django.contrib.auth.models import User
 
 # Create your views here.
 
@@ -44,7 +45,6 @@ class HardwareView(views.APIView):
             product = serializers.serialize('json', product)
 
         return HttpResponse(product, content_type="text/json-comment-filtered")
-
 
 class SeedData(views.APIView):
 
@@ -115,6 +115,46 @@ class Pricing(views.APIView):
 
         return HttpResponse(prices, content_type="text/json-comment-filtered")
 
+class GetComputers(views.APIView):
+    
+    def get(self, request):
+        if request.user.is_authenticated:
+            user = request.user
+            product = PCBuild.objects.filter(user = user)
+            product = serializers.serialize('json', product)
+            return HttpResponse(product, content_type="text/json-comment-filtered")
+        return HttpResponse({"User needs to login!"}, content_type="text/json-comment-filtered")
+
+class SaveComputer(views.APIView):
+    
+    def post(self, request):
+        #print(int(request.POST.get("userid")))
+
+        requested_user = User.objects.get(email="sam1998m@gmail.com") #default but it should never get hit
+        if request.user.is_authenticated:
+            requested_user = request.user
+        elif request.POST.get("email", "") != "":
+            requested_user = User.objects.get(email=request.POST.get("email"))
+        else:
+            requested_user = getByIDorName(User, request.POST.get("userid"))
+
+        c = PCBuild(user = requested_user,
+                    cpuLink = getByIDorName(CPU, request.POST.get("CPUid")),
+                    gpuLink = getByIDorName(GPU, request.POST.get("GPUid")),
+                    caseLink = getByIDorName(Case, request.POST.get("caseid")),
+                    memoryLink = getByIDorName(Memory, request.POST.get("memoryid")),
+                    mboardLink = getByIDorName(Motherboard, request.POST.get("mboardid")),
+                    powerLink = getByIDorName(power, request.POST.get("powerid")),
+                    name = request.POST.get("name"))
+        c.save()
+        return HttpResponse({"Success!"}, content_type="text/json-comment-filtered")
+
+def getByIDorName(mtype, idname):
+    if idname.isnumeric():
+        return mtype.objects.get(pk=int(idname))
+    else:
+        return mtype.objects.get(name=idname)
+
 def clean_database(data_type):
     data_type.objects.all().delete()
 
@@ -138,13 +178,11 @@ def process_num(num, split_string = ""):
     except Exception:
         print(f"this ({num}) wasn't a number: split {split_string}")
 
-
 def process_field(info, field):
     if field in info:
         return info[field]
     else:
         return None
-
 
 def seedCPU():
     f = open(r'../../backend/data/good_data/cpu_data.json',)
@@ -172,7 +210,6 @@ def seedCPU():
                 p = Price(price=cost, link=link, priceLink=lin)
                 p.save()
     return "Seeded CPU"
-
 
 def seedCase():
     f = open(r'../../backend/data/good_data/case_data.json',)
@@ -289,7 +326,6 @@ def seedMemory():
                 p = Price(price=cost, link=link, priceLink=lin)
                 p.save()
     return "Seeded Memory"
-
 
 def seedMboard():
     f = open(r'../../backend/data/good_data/motherboard_data.json',)
