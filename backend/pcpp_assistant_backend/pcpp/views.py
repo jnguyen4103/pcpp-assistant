@@ -11,6 +11,39 @@ from django.contrib.auth.models import User
 
 # Create your views here.
 
+class getProductView(views.APIView):
+    def get(self, request):
+        # Testing finding the min price
+        # price = GPU.objects.all().aggregate(Min('minPrice'))
+        # g = GPU.objects.filter(minPrice__exact = price["minPrice__min"])
+        # gpus = serializers.serialize('json', g)
+
+        hardType = request.query_params["hard"]
+        hardid = process_num(request.query_params["id"])
+
+        product = {}
+        product["error"] = "Couldn't find product"
+        if hardType.lower() == "cpu":
+            product = CPU.objects.filter(id=hardid)
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "case":
+            product = Case.objects.filter(id=hardid)
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "gpu":
+            product = GPU.objects.filter(id=hardid)
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "memory":
+            product = Memory.objects.filter(id=hardid)
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "motherboard":
+            product = Motherboard.objects.filter(id=hardid)
+            product = serializers.serialize('json', product)
+        elif hardType.lower() == "power":
+            product = power.objects.filter(id=hardid)
+            product = serializers.serialize('json', product)
+
+        print(type(product))
+        return HttpResponse(product, content_type="text/json-comment-filtered")
 class HardwareView(views.APIView):
 
     def get(self, request):
