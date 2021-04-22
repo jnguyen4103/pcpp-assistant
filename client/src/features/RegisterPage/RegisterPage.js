@@ -32,8 +32,8 @@ const RegisterPage = () => {
         //     .then(console.log)
         //     .catch(console.log);
 
-        var axios = require('axios');
-        var FormData = require('form-data');
+       
+
         var data = new FormData();
         data.append('email', email);
         data.append('username', username);
@@ -42,27 +42,16 @@ const RegisterPage = () => {
         data.append('first_name', first);
         data.append('last_name', last);
 
-        var config = {
-            method: 'post',
-            url: 'http://127.0.0.1:8000/auth/register/',
-            headers: {
-                email: email,
-                username: username,
-                password: pass,
-                password2: pass2,
-                first_name: first,
-                last_name: last,
-            },
-            data: data,
+        var requestOptions = {
+        method: 'POST',
+        body: data,
+        redirect: 'follow'
         };
 
-        axios(config)
-            .then(function (response) {
-                console.log(JSON.stringify(response.data));
-            })
-            .catch(function (error) {
-                console.log(error);
-            });
+        fetch("http://127.0.0.1:8000/auth/register/", requestOptions)
+        .then(response => response.text())
+        .then(result => console.log(result))
+        .catch(error => console.log('error', error));
     };
 
     return <RegisterPageView handleClick={handleClick} />;
