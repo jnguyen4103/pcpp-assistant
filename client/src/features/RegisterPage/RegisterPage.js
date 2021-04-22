@@ -20,44 +20,49 @@ const RegisterPage = () => {
         console.log(last);
         console.log(pass);
 
-        let response = axios
-            .post('http://127.0.0.1:8000/auth/register/', {
+        // let response = axios
+        //     .post('http://127.0.0.1:8000/auth/register/', {
+        //         email: email,
+        //         username: username,
+        //         password: pass,
+        //         password2: pass2,
+        //         first_name: first,
+        //         last_name: last,
+        //     })
+        //     .then(console.log)
+        //     .catch(console.log);
+
+        var axios = require('axios');
+        var FormData = require('form-data');
+        var data = new FormData();
+        data.append('email', email);
+        data.append('username', username);
+        data.append('password', pass);
+        data.append('password2', pass2);
+        data.append('first_name', first);
+        data.append('last_name', last);
+
+        var config = {
+            method: 'post',
+            url: 'http://127.0.0.1:8000/auth/register/',
+            headers: {
                 email: email,
                 username: username,
                 password: pass,
                 password2: pass2,
                 first_name: first,
                 last_name: last,
+            },
+            data: data,
+        };
+
+        axios(config)
+            .then(function (response) {
+                console.log(JSON.stringify(response.data));
             })
-            .then(console.log)
-            .catch(console.log);
-
-        // var axios = require('axios');
-        // var FormData = require('form-data');
-        // var data = new FormData();
-        // data.append('email', email);
-        // data.append('username', username);
-        // data.append('password', pass);
-        // data.append('password2', pass2);
-        // data.append('first_name', first);
-        // data.append('last_name', last);
-
-        // var config = {
-        //     method: 'post',
-        //     url: 'http://127.0.0.1:8000/auth/register/',
-        //     headers: {
-        //         ...data.getHeaders(),
-        //     },
-        //     data: data,
-        // };
-
-        // axios(config)
-        //     .then(function (response) {
-        //         console.log(JSON.stringify(response.data));
-        //     })
-        //     .catch(function (error) {
-        //         console.log(error);
-        //     });
+            .catch(function (error) {
+                console.log(error);
+            });
     };
 
     return <RegisterPageView handleClick={handleClick} />;
