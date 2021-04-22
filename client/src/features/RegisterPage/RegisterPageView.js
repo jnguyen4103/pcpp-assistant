@@ -28,30 +28,24 @@ const RegisterPageView = () => {
                         Create an account.
                     </Typography>
                     <TextField label="Username" className={styles.textField}>
-                        Username
                     </TextField>
                     <TextField label="Email" className={styles.textField}>
-                        Email
                     </TextField>
                     <TextField label="First Name" className={styles.textField}>
-                        First Name
                     </TextField>
                     <TextField label="Last Name" className={styles.textField}>
-                        Last Name
                     </TextField>
                     <TextField
                         label="Password"
                         type="password"
                         className={styles.textField}
                     >
-                        Password
                     </TextField>
                     <TextField
                         label="Confirm Password"
                         type="password"
                         className={styles.textField}
                     >
-                        Password2
                     </TextField>
                     <Button variant="contained" className={styles.submitButton}>
                         Submit
