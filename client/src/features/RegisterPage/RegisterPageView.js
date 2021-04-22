@@ -2,8 +2,9 @@ import React from 'react';
 import Header from 'components/Header';
 import { Box, TextField, Typography, Button } from '@material-ui/core';
 import useStyles from './styles';
+import PropTypes from 'prop-types';
 
-const RegisterPageView = () => {
+const RegisterPageView = (props) => {
     const styles = useStyles();
 
     return (
@@ -23,7 +24,12 @@ const RegisterPageView = () => {
                         id="password"
                         className={styles.textField}
                     ></TextField>
-                    <Button variant="contained" className={styles.submitButton}>
+                    <Button
+                        variant="contained"
+                        color="primary"
+                        onClick={props.handleClick}
+                        className={styles.submitButton}
+                    >
                         Submit
                     </Button>
                     <Typography className={styles.subtext}>
@@ -61,13 +67,22 @@ const RegisterPageView = () => {
                         id="confirmPassword"
                         className={styles.textField}
                     ></TextField>
-                    <Button variant="contained" className={styles.submitButton}>
+                    <Button
+                        variant="contained"
+                        color="primary"
+                        onClick={props.handleClick}
+                        className={styles.submitButton}
+                    >
                         Submit
                     </Button>
                 </Box>
             </Box>
         </Box>
     );
+};
+
+RegisterPageView.propTypes = {
+    handleClick: PropTypes.func,
 };
 
 export default RegisterPageView;
