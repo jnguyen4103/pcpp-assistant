@@ -58,9 +58,7 @@ const RegisterPageView = () => {
                     </Button>
                 </Box>
             </Box>
-
         </Box>
-
     );
 };
 
