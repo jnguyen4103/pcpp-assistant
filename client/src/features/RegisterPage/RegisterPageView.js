@@ -6,7 +6,7 @@ import useStyles from './styles';
 const RegisterPageView = () => {
     const styles = useStyles();
 
-    return(
+    return (
         <Box className={styles.container}>
             <Header />
             <Box className={styles.innerContainer}>
@@ -14,11 +14,13 @@ const RegisterPageView = () => {
                     <Typography className={styles.subtext}>Sign in.</Typography>
                     <TextField
                         label="Username"
+                        id="username"
                         className={styles.textField}
                     ></TextField>
                     <TextField
                         label="Password"
                         type="password"
+                        id="password"
                         className={styles.textField}
                     ></TextField>
                     <Button variant="contained" className={styles.submitButton}>
@@ -27,26 +29,38 @@ const RegisterPageView = () => {
                     <Typography className={styles.subtext}>
                         Create an account.
                     </Typography>
-                    <TextField label="Username" className={styles.textField}>
-                    </TextField>
-                    <TextField label="Email" className={styles.textField}>
-                    </TextField>
-                    <TextField label="First Name" className={styles.textField}>
-                    </TextField>
-                    <TextField label="Last Name" className={styles.textField}>
-                    </TextField>
+                    <TextField
+                        label="Username"
+                        id="createUsername"
+                        className={styles.textField}
+                    ></TextField>
+                    <TextField
+                        label="Email"
+                        id="email"
+                        className={styles.textField}
+                    ></TextField>
+                    <TextField
+                        label="First Name"
+                        id="firstName"
+                        className={styles.textField}
+                    ></TextField>
+                    <TextField
+                        label="Last Name"
+                        id="lastName"
+                        className={styles.textField}
+                    ></TextField>
                     <TextField
                         label="Password"
                         type="password"
+                        id="createPassword"
                         className={styles.textField}
-                    >
-                    </TextField>
+                    ></TextField>
                     <TextField
                         label="Confirm Password"
                         type="password"
+                        id="confirmPassword"
                         className={styles.textField}
-                    >
-                    </TextField>
+                    ></TextField>
                     <Button variant="contained" className={styles.submitButton}>
                         Submit
                     </Button>
