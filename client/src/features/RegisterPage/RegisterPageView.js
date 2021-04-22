@@ -10,7 +10,9 @@ const RegisterPageView = () => {
         <Box className={styles.container}>
             <Header />
             <Box className={styles.innerContainer}>
+                <Box className={styles.optionsContainer}></Box>
             </Box>
+
         </Box>
 
     );
